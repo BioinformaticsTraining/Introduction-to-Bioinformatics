@@ -1,0 +1,6 @@
+{
+  "name": "An Introduction to Bioinformatics",
+  "tagline": "Talks and Materials for \"An Introduction to Bioinformatics\" developed by David Judge",
+  "body": "###Presentations\r\n* What is Bioinformatics\r\n* Bioinformatics Topics\r\n* Impact of Bioinformatics\r\n\r\n###Practicals\r\n* Databases\r\n* Pairwise Alignment\r\n* Database Searching\r\n* Multiple Sequence Alignment",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
