@@ -1,0 +1,64 @@
+########################################
+# Program: matcher
+# Rundate: Sun  3 Jul 2016 09:23:36
+# Commandline: matcher
+#    -auto
+#    -stdout
+#    -asequence emboss_matcher-I20160703-092328-0577-96517562-oy.aupfile
+#    -bsequence emboss_matcher-I20160703-092328-0577-96517562-oy.bupfile
+#    -datafile EDNAFULL
+#    -gapopen 16
+#    -gapextend 4
+#    -alternatives 1
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 11
+# 2: HUMOCLHMB
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 270
+# Identity:     248/270 (91.9%)
+# Similarity:   248/270 (91.9%)
+# Gaps:           5/270 ( 1.9%)
+# Score: 1128
+# 
+#
+#=======================================
+
+11             16670 CACTTCCCCTAT---GCAGGTGTCCAACGGATGTGTGAGTAAAATTCTGG  16716
+                     ||.|||||..||   |||||||||||||||||||||||||||||||||||
+HUMOCLHMB        485 CATTTCCCGAATTCTGCAGGTGTCCAACGGATGTGTGAGTAAAATTCTGG    534
+
+11             16717 GCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGGTAGT  16766
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HUMOCLHMB        535 GCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGGTAGT    584
+
+11             16767 AAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGTATAA  16816
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HUMOCLHMB        585 AAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGTATAA    634
+
+11             16817 GCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTACTGT  16866
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HUMOCLHMB        635 GCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTACTGT    684
+
+11             16867 CCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTAAGTTCATTGAGA  16916
+                     |||||||||||||||||||||||||||||||||||||....|||.|.|..
+HUMOCLHMB        685 CCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTGTCATCAATAAAC    734
+
+11             16917 ACA--TCTGCCCTCCCTGCC  16934
+                     |.|  |||.|.|..||||.|
+HUMOCLHMB        735 AGAGTTCTTCGCAACCTGGC    754
+
+
+#---------------------------------------
+#---------------------------------------
