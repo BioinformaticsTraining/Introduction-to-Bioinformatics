@@ -1,0 +1,74 @@
+
+
+We have been talking about bioinformatics basic methodologies.
+Now let us try to bring-in an some aspects that help to build an historical perspective
+
+#2
+A timeline that shows important advances in Bioinformatics, together with counterparts in 
+Genomics and Proteomics helps to see how the developments have been intertwinned. Such progress would have been impossible without this concurrence.
+
+<click>
+#3
+In a keynote speech delivered at a conference in the USA in 2003, Lincoln Stein, a respected computational biologist from the other side of the Atlantic, predicted that bioinformatics would become one of a series of core courses taught in undergraduate and graduate biology programs, and that there would be a vanishing market for researchers who focus solely on biological data management.
+
+In 2008 he had to ṕublish a correction as his prediction was essentially wrong. 
+“...we are witnessing the rise of a new generation of computational biologists who
+spend part of their time at the bench and part of their time at the computer.”
+
+<click>
+#4
+The growth of data resources has been accompanied by increasing needs for user services (red curve). This is Bioinformatics in action. Here we look at the NCBI alone but it is sufficient to illutsrate te concept.
+
+<click>
+#5
+Societal and economic pressures have determined the driving forces that led to investments in Bioinformatics.
+A simple way of identifying these areas is to look at the buzzwords most frequently used in the calls for grant applications. Funding agencies hold such documents in archives. A text mining analysis on the headlines of newspapers could provide a similar set of directions.
+
+<click>
+#6
+While it is true that coping with the deluge of information that poured from the very many Omics projects represents a challenge, the most demanding activities for Bioinformatics professions lie downstream from there. We need standardised datasets, properly annotated and curated, coherenly made available in interoperable public data repositories, so that they can easily be found by researchers.
+But we need more:
+- We need to be able to better interpret research data, we need to recognise conserved domain architectures, for example, not just domains in proteins. We need to be able to use network and systems biology to generate and curate models to support reasoning  so that they can be used to publish scientific results.
+- We need to refine or sophisticate the computational methods that we use to make predictions, so that they work well with real data with associated uncertainty.
+- We need to be able to look at complex genetic traits and relate phenomes to genomes and transcriptomes, in order to understand how organisms change from a healthy state to conditions that we consider diseases
+
+<click>
+#7
+Proper curation and annotation often needs to be applied uniformly to many datasets. It becomes advantageous to build pipelines to perform these actions in a consistent reproducible way. This allows for building of models and possibly their curation. Reproducible research demands for such standardisations to take place, so that published results can be properly traced to every single detail of the work, from data acquisition to summarization and visualisation.
+
+<click>
+#8
+We need to develop and use integrative methods extensively so that genotype-phenotype interactions are revealed. Such methods use multidimensional datasets and specific statistical analysis procedures to extract rules from observations. Systematic use of these integrative methods leads to substantial gains in knowledge about natural processes, but also about environmental interactions, drug activity, etc.
+
+
+<click> 
+#9
+As we have seen in this module, Bioinformatics techniques aim at quantifying similarity and its possible consequences. They often involve alignments. Alignments of multiple genomes can be quite complex, often beyond what a normal human brain can imagine. 
+The potential brought-in by artificial intelligence (machine learning) can be enormous, especially when a fairly recent approach called deep learning is used. Multi-level, hierarchical artificial neural networks can handle models in unprecedently complex ways, much more suitable for hard problems like aligning multiple genomes and extracting reasoned results.
+
+<click>
+#10
+In summary, present day Bioinformatics activities now have to dal with handling large and very large datasets, using appropriate tools to generate complex analytical results. The methods often call for specific capabilities from their practitioners that, if not present, constitute a serious bottleneck.
+
+<click>
+#11
+Therefore, we are facing a human resouces problem at two levels.
+On one hand the Education system must become ready to equip every single student inthe Life Sciences with basic Bioinformatics familiarity.
+On the other hand, those who actually need to handle the datasets need to be provided with practical skills and be comfortable about using those skills autonomously. That role is best fulfilled by training.
+
+
+Appendixes
+§
+
+Bioinformatics meets Biosynthesis
+
+In this example, related to the industrial production of clavulanic acid by biosynthesis, an intermediate component, an enzyme named Ypp, had  was a serious bottleneck. Bioinformatics was used to locate genetic signatures of the DNA that can express this enzyme in nature. The finding was crucial in replacing a complex, failure-prone and expensive chemical synthsis with a natural biosynthesis in a microorganism (H. influenza) that can be inexpensively grown in large vessels.
+References:
+Science xxx xxxx  xxxx  Bioinformatics meets Biosynthesis by David Cane
+
+
+Huntington disease
+
+In this example, mode related to Medicine, Bioinformatics was used to discover the relationship between the number of repeats and the disease state  in Huntington's disease. Only a systematic assessment by sequence analysis allowed for the quantification of the observations at the necessary lebel of detail.
+References:
+
