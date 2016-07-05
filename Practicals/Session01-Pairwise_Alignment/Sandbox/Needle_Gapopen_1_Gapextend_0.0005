@@ -1,0 +1,2770 @@
+########################################
+# Program: needle
+# Rundate: Tue  5 Jul 2016 10:13:06
+# Commandline: needle
+#    -asequence pax6_genomic.fasta
+#    -bsequence pax6_mrna.fasta
+#    -gapopen 1.0
+#    -gapextend 0.0005
+#    -outfile 11.needlexxx
+# Align_format: srspair
+# Report_file: 11.needlexxx
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 11
+# 2: HUMOCLHMB
+# Matrix: EDNAFULL
+# Gap_penalty: 1.0
+# Extend_penalty: 0.0
+#
+# Length: 34170
+# Identity:    1643/34170 ( 4.8%)
+# Similarity:  1643/34170 ( 4.8%)
+# Gaps:       32527/34170 (95.2%)
+# Score: 8171.498
+# 
+#
+#=======================================
+
+11                 1 GGCCAGGTTGAGGGTACTCATCGAGCCTCGAACTCCTCCTAAAAATGATT     50
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11                51 CCTGCCAAAAGCGCCTCTCCATCCCGGCGCGGCCTTCGGGTCTCTCCGAT    100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               101 GAAGGGACTCCCTTGGGGATCGGAGGAGGGGACAGGGTGATTACCCAGAG    150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               151 AGGTAGCTGGCCAGCCTAAGGGCAGAGATCTTGGGGCCCTAGTGCCCGAA    200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               201 GGTGCGGAGGAGCGCACTCGGCAAGACTAGTTTCCTGGGGATCGACTCTA    250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               251 CGCCATACAGGACGGCGGCCCAGGCTGGACCGGGCCGGGCTAGAGCAGTC    300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               301 ACAGGCCGGGCCAAGGAAGGCCAAAGCAGGGGTTGGAGCCGGCCGGACCC    350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               351 TGGGTGGGGAGAAGCAGGCTCCCGCCCGGCCGGAAAACTAGTCGGCGCAG    400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               401 AGCTGTGCCCAACTCTAGCCGCCATGACGTCACGCGGGCCGGGCAGCCAA    450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               451 TGAGGACGGCGCTGGCGTGGATATTAAGGAAAGTTAGCGCCTGCCTGAGC    500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               501 ACCCTCTTTTCTTATCATTGACATTTAAACTCTGGGGCAGGTCCTCGCGT    550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               551 AGAACGCGGCTGTCAGATCTGCCACTTCCCCTGCCGAGCGGCGGTGAGAA    600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               601 GTGTGGGAACCGGCGCTGCCAGGCTCACCTGCCTCCCCGCCCTCCGCTCC    650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               651 CAGGTAACCGCCCGGGCTCCGGCCCCGGCCCGGCTCGGGGCCCGCGGGGC    700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               701 CTCTCCGCTGCCAGCGACTGCTGTCCCCAAATCAAAGCCCGCCCCAAGTG    750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               751 GCCCCGGGGCTTGATTTTTGCTTTTAAAAGGAGGCATACAAAGATGGAAG    800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               801 CGAGTTACTGAGGGAGGGATAGGAAGGGGGGTGGAGGAGGGACTTGTCTT    850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               851 TGCCGAGTGTGCTCTTCTGCAAAAGTAGCAAAATGTTCCACTCCTAAGAG    900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               901 TGGACTTCCAGTCCGGCCCTGAGCTGGGAGTAGGGGGCGGGAGTCTGCTG    950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11               951 CTGCTGTCTGCTAAAGCCACTCGCGACCGCGAAAAATGCAGGAGGTGGGG   1000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1001 ACGCACTTTGCATCCAGACCTCCTCTGCATCGCAGTTCACGACATCCACG   1050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1051 CTTGGGAAAGTCCGTACCCGCGCCTGGAGCGCTTAAAGACACCCTGCCGC   1100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1101 GGGTCGGGCGAGGTGCAGCAGAAGTTTCCCGCGGTTGCAAAGTGCAGATG   1150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1151 GCTGGACCGCAACAAAGTCTAGAGATGGGGTTCGTTTCTCAGAAAGACGC   1200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1201 GGAGTACGAAAGAATGCGGCCGACAGAGCTGGGCAGCGCGTAAAGCTCCC   1250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1251 AGCGTGTGATTTGAGCTTCACTTCGGAAGACCTAATAATTAGCGATTCTC   1300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1301 ACTGAGCTAGAACGCGGGCTCCGGTTACTGCGGGCGCTGCGCTGGCTGCC   1350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1351 TCGGCGGGAAGCGCGCGGGCGCCATGGGAGCCGGGCCGCCAAGCCCGGGA   1400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1401 AAGAGAAGCGCCCACCACCCTGCGGCCCTTGGAGGGCCAGAGCCGGGGCC   1450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1451 CGGAAGTGTCCCCTTAGTGAGTCAGGGAAGGGACGACCCAAACTTAGACT   1500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1501 AACTTGTGGTTCAGCCGGGCGAAAGTCCTGGGAGCCCGGCCCTAAAAGCA   1550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1551 GCTGGAGACGCCCAGGCCGGCTTAGGCGGGGCACCCAAGAACCCCGCCCG   1600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1601 GGAGTTTGGGGCGGCCTCTGGGCCAGGCCCCGGCTAGCCCCCAACCCCCA   1650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1651 CTCCCACTCGCGCTCCTGCGCCCCCTTTCTAGGTCTTCTGGGAGCACCTT   1700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1701 CGGAGCTCAGTCACCTGTGACAGGTGTTGGGACCTCCGCCCGACTCCGAG   1750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1751 CGGTGGCGCCCCCTGCTCACCTCACCTGGAAACGGGGGACGAGCGCAGTG   1800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1801 GCAGTCCGGCCGCACGCCTTACCTGGGCCGGGATCCTCTCCTCCGCGGGT   1850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1851 TCCTCTCCCTGGAGCTGGGCGGCGAGCAGGTCGCCTGCTTCGCAGTGGGA   1900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1901 AGTGGACCTTCTCCTCCAGTCATAAATCAAACCCAGCCATCCTCGGGCCT   1950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              1951 CCTCCCTCATTAGAGATGTTTATTGGAGATCGTGTTTATTCGGCTGTCAC   2000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2001 GGCGAGAAAACGCGGTGACATAATTACCTCTGACCAGAGTCCTCGCTCCG   2050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2051 CGCCCAGGGCGAGCCGAGGACCTCCTCTGTCGCCTTCTCATGCCCGTGCC   2100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2101 CTTCGTGATCGGAGGGCGCCCGTGATAGGCTTGTCTTTTTTTCCTCAGAC   2150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2151 CCTCTCATAGAATTTGGATGACTGGAATTACTATTCAGATTTCCCCAGGG   2200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2201 CCCGGAGTTTATTTATTTATTTTAGAATTGGAAAGGAAAACCGAAGGGAA   2250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2251 CCCAACGCCCCTCCGGGGCAGAAGGGGGCAGCGCGCGCGAGGCGGAAGGA   2300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2301 CAGTCACTCTCGCTGCACAAACTTTCCCGCGGGCCGCGCCGCGCGTGCAG   2350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2351 GGGCTGGACGCCACCCGGCGCCAGAGCCGGGCCTGAGGAGCGGGGTCTGG   2400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2401 CCGGGAACGAGGGCTGCCAGCCTGGGTGGTGTCATTTGTTGCTTCATTTT   2450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2451 TCATTCCCTTTCCTCTCGTGAGGAATCAGAGGCATCGGGCCGCGCGGGCT   2500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2501 GAGAATTCTTAAATTCTCCCCGGCCGCATTCGGCTGAGCCAACCCGCAGT   2550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2551 TCCTGTCAGCCCCTCTGTCCCCCGGGCAGCGGTTTTCCCCGCTAGCCAGG   2600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2601 TTTGGAAGTCACCCTCTGTGAGACTGGGTTAGGAAGTGACGAAAAGCGCC   2650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2651 GAATTGTTTTCAAATTGAAAATACTTTTTTTTTTTTTTTTGGAGATAGCG   2700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2701 CTGACAAATATATGGGATCCCGGCTTTTGATCCCTGGCTGCCGCCTCTGT   2750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2751 TCTCCTGTCGCTAATAAAACTCGCATTGAGCCCCTTAGTGCCTTGATTAA   2800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2801 CAGGCAGATTAACTCTTACTGGGGTTGGGAACAGCTTGTCCTAATCAATG   2850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2851 TCATTTTAAAAGCCCGTCAGGATGCGCTTAGCTTCGGTTCCCTGGATGCT   2900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2901 TGAGCGAGCCAGCCATGACATTTGCTCCCTCCCCCTCCCCAGCCTCAAAT   2950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              2951 CCCCCAGTAAAGCCCCCAGTTCCCGCCTGCCTGTTCCCAGGTCTACAACG   3000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3001 GGACAAATCGCAGGACCGGGTCGTTGGCCTTTAGAATAGGCAGCGGTTTA   3050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3051 GAGAGGGGATATCCAGGGAGAAGGGACTGAGGTGGCCTTGACTTGCTTGC   3100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3101 TTTTCCTTTGAAGCTGAACTCTTGCCTCTTGGGGGCAGAGGTTACAGGGA   3150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3151 AAAGAGAGATGGGGGGATCGTCACAGGGTGATGAAATGGAAAGCAAACTT   3200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3201 TTCTAGGAACCCTATTTGCAAAAATCGGAGAGTGCCGCTGATTTCAGTTG   3250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3251 TCCTACATGTCAGGAGTTTTAAACCTAACTCCTATCTGGACAACAGCATG   3300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3301 GAGGGACTGGGAGGCAAAGCCTTGGGAGTCTGACCCGCTGGGCTGCTAGG   3350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3351 AATCCCTTTGCTGGGAGACTCCACTGGACAATGTTATTTTAAAGGTATTT   3400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3401 TGGGGGTGGGCAGGGAGAAGACAGAGAGAGAAAGAGAGAGAGAGAGAGAG   3450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3451 AGAGAGAGAGAGAGAGAGAGACAGGCTGGCCTCCCAGAGCGAACGGAAGA   3500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3501 GGACTGAGGACTGAACCCAGGGAGCCCCTAGCACTGGCCATTTGGCAGGA   3550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3551 GGCGAGGAAGGGCGAGGGCACCGCGGCTTCCCCCCAAGCCGAGCAGTGGC   3600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3601 CACAGCCTGAAGGTGCCACGGGGCGGCTCTGGGATCTTCTTGGCTTTTCT   3650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3651 AGGCTCTGGGCTCGGCGAGGCTGCCGGGTTAGCGGGAACCGGCAGGTTGC   3700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3701 TGGAGAAAGGAGAGGGACAAAGGCCTGGAAGTGGGGGAGGCACCAGGGAC   3750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3751 TGGGCGGCCGGGATGGGAGCCTTTGCCTTTAGGGCTCACTGGACCCGTTT   3800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3801 GCCAGCTCCGCGGACAAGGGATCCCACCTTCCCAGGGTCTGCAAAAAGAG   3850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3851 AGACGTTTGGGGCACTACAAAGTGACGCAGGTGTCTGCCAAGACTTTCCT   3900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3901 TCTCCAAAAAATGCCAGTCTTCACCCTTTCCAGCGCGCCGGCGCTGCGCC   3950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              3951 TCTGCTTGACCGGGGAAAGAGAGAGTTTGGAGGTGTCAGAACTGTCAGAA   4000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4001 CTCCGGATGGGAGGCTCTTGGTTCTGAAGCTGGGAGCTGGAGGCACTTCC   4050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4051 CCCCAGAAGTGGGCACTTCTTTGCCTCCCCGAAGGCCTGATGGGGTGGGC   4100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4101 ACAGGGGAATGCCAGGGATCGGTGCGGGTGAGATGCTTGCCTCACCTCAT   4150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4151 GTTGACGCATCAATACTGGCTAGAAGCTCTGGGCAGGCTCTGGCGAGCCA   4200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4201 CGGTCCCCCAGCGGGACTCCCTCCACGCAGACAGCCCCGCTACCGGGTGG   4250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4251 GACGACCCCGGCGGCCCCCGCGGGAACGCACCCGCCGGCCTGAGAGGTCC   4300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4301 TCCCTCTGGCCACAGGGGGCGGAGGGTAGGGGGGAACAGGGGCCTGTGGG   4350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4351 GAGGCGGGGAAAGGAGACAGAACCTAAAGCGCAATCCCCGCCGCCCCCCC   4400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4401 GCGTCTTGGAGGGCAGCAAGTGGGCCTCGGGCGTGTTGGTAGCCGCAATT   4450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4451 AAAATGGCGACCTGCGAGTTGTCTCGGTTTTGTACACACCTCTGGCAACC   4500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4501 GCGCCCGCACCTCAGTCTCGGCCCCCACACCCCTAGGCCGCTTCGCCCCC   4550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4551 AGAGCCGGTACTTGGCAGAGGGAGTGAGGCTCCCCACGAGGTAGAACAGC   4600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4601 ACCCCCACCTTCCTTGAGACCAGTCCAGAGAGAACGAGGAAATCTCACTC   4650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4651 TCACCCCTCTCTCCTTAAACTTTGAAAACTCGGCCTCATTCTGGGGTTGA   4700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4701 ACTCCCCTCCCCAAATATTGACACATGGGAAGCAGCCAAGTCCTTTTTGT   4750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4751 TTTTTGTTTGTGCGGAGGAGTTTCCAGGAGTCTTTCCCGGAGCCCCCTTC   4800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4801 CCCACCCAATGACGTCAGTGGCATTCACTCCTCGCTCCTTGCCTTTTCTG   4850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4851 ATTTTTTGTTAAAACTTTTCTCCGCAGCGAGATGGGGGTTGGAGGGGTGG   4900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4901 GAGAAGGAGCTGATTCAAAGAGCCAGTGCCCTGGGGGGAAATAGCAACAA   4950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              4951 GATTACGGCTGCTTCTTTCCGAGGCAAAGCTTAAGAAGGTGCTAATCCAC   5000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5001 TCGGTCGCTAATTGAGAGGTTGTAAAAATGATACTCGCCTCCAGTTCGGA   5050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5051 CAGAATCACTTCCCCCCCCCCCGCCCCCCCGCAAGTCCCTCGCTCATGCA   5100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5101 CAGCGGACTTGAGTCTTGAGTCCAAGCTTCTTTAATGCTCGCTTGGAAAG   5150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5151 TAAAAGGAGAGAGAAAGAGAAAGCCGACTTTCGCTGGTCTGGGACTCAGG   5200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5201 GCCGCGGCCCCACTTGCCGGCATCCTCCGAAAGTCGCGCTCCTGCGAAAT   5250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5251 GAAACCTCGCCCAGGAGGCCGCGGACCTGGACACCCGGCGCCACCTCCTT   5300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5301 CACCTCTGACCCAGGTTTCCTCCCGGCGCTGCGAGCTCCCGGGGAAGGGT   5350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5351 TAGAGCCGGCAGCCCTCCCCAGCCCGGGGAGGGGAGAGGGTTATGCGACC   5400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5401 CCACCTCTGGCTAGGGCCGGGGAGGCCTTTGCTTCCCGGGAGCCCTGCCC   5450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5451 GGGCTCCTTGGTCGCAGGGCTGCTGGGTCCCAGGCAGGAACGAGAGGGTG   5500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5501 AGGCCCACATGTGGCCCGGCGGCCCAGGGCGGCTTGCAGCGTCCTCACTG   5550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5551 TCCCGGCTGCCAGGGGCTGCGGCGACGCGGCCAGTCAGCAGCGAGTTCAG   5600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5601 GTCGCGCAGATTTTATTGATGAGCTCTGACTTTCAGCACTTTCCCTAAGT   5650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5651 CAAGAAGAGTCTAGCGTACCCTTCGGCTGCTTCATTTCAGCCTCCCTGCC   5700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5701 TCAGCTCTTCAGCCCTATTCCCCCTCGCCCTGTCCTGGGGTGTGTACAGC   5750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5751 AGCCCAGGCCTTCCTTCTCCTTCCCGGCTCCGTGGCCCGAAGCCGCCGAG   5800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5801 AGAGCTCGGGACAGCGCAGGACCAGGCAGCCGCTCGCTCTCCTGTCACCT   5850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5851 TAACTGCAGGCTCCGAGGGGCGCCTTTGGAGTGTACTGAGGTGTGTCCTA   5900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5901 ATCGTGCGGCATTCAACAAATGGACTTCTGGTGTGTGGTCAGAAGAGAAA   5950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              5951 AGCCATTTACTTACTTTCCTCCCCGGTTTTCTGGCAACAGCTGAAGGGGA   6000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6001 GCTGCCTCCGTGGACTGAGCAGACCCAGGAGAGGGAGTCGTGGTGCGGAG   6050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6051 ACACACGCACCACACACAGATGACCGGTGGCACACACGACACACGCTGAC   6100
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6101 ATACCGACATCGCCAGTGGGACACACACACACACACACACACACACACAC   6150
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6151 ACACACACAGAGAGAGAGAGAGAATCCCTCCCAGCATTGGTCATCCGCCC   6200
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6201 CCCCACCCAGGCTTCCACTCCCCCTCCCCTCTTATCTCCCCTGGCTTCCC   6250
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6251 CTCCTCTCGGGCGCTGCGAAAAGCAGCCGCACTTAGTCAACAAATGGCAC   6300
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6301 GTGGGAGAAGTTGGTGAGTGTTTGGTGAGGACTCTTCAGGGCTTTTCACA   6350
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6351 AGAACCCTCTGTACACAAAGTAAGTGGCGTGTTTACTCGGGCCTCTCCAG   6400
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6401 CCAGAGCTGTGCCTCTGCTCCGCTGCGCACCGCGGCTTCCGAAAGGAGAA   6450
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6451 AGGAGAGAAGAAAGGGCGGGGAGAGCGGGGTGGAGGATTTGGACAGGCCC   6500
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6501 TGGAGGCTTGGGCTGGGGAGGCCTCTGGCCTCGTTTAGTTCTCGGCCCGG   6550
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6551 CAACCTCCTCTCGGCCTAGGCTTCGCCGCGGCCTCCGCAGCTGGAATGGA   6600
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6601 GCTGCCAGGACCCAGTGACGCTCCCGCCCCTTTCCTCTTCTTCCAAGGGG   6650
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6651 CCAGGTGGGCTGGGGTGCGGCCGCCGCTGTGCTCTGTGTCTTGGGGCCCC   6700
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6701 GGCTGGGATGGGGTGGGGGCGGGCGGGGGCGGGGCGGCAGGCCACGCTGT   6750
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6751 CCTGGAGTTGGCAAGAAAGGACAGCACAGAAACTTGCACCCTCCGAGGAC   6800
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6801 TGGGAGTCCCGAGTCCAGCTTAGGGGGAGTGGGGGCGCGACCCCCAACCC   6850
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6851 AGAAACCTTCACTTGACCGCTCAAGTTCGCGGCAGCAGGGCGGGCCGCGC   6900
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6901 CGAATCTCGGCGTGCGCGGAGCGGGGAGATGCAGGCGAGCGCCAGAGCCC   6950
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              6951 GGGCTCGGGGGCCCTGCGCCGGGGAGAGGAGCCGGGACCCACCGGCGGAG   7000
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              7001 CCGAAAACAAGTGTATTCATATTCAAACAAACGGACCAATTGCACCAGGC   7050
+                                                                       
+HUMOCLHMB          0 --------------------------------------------------      0
+
+11              7051 GGGGAGAGGGAGCATCCAATCGGCTGGCGCGAGGCCCCGGCGCTGCTTTG   7100
+                                   |   ||||                            
+HUMOCLHMB          1 --------------T---ATCG----------------------------      5
+
+11              7101 CATAAAGCAATATTTTGTGTGAGAGCGAGCGGTGCATTTGCATGTTGCGG   7150
+                      ||||                                             
+HUMOCLHMB          6 -ATAA---------------------------------------------      9
+
+11              7151 AGTGATTAGTGGGTTTGAAAAGGGAACCGTGGCTCGGCCTCATTTCCCGC   7200
+                                 ||||                          |||     
+HUMOCLHMB         10 ------------GTTT--------------------------TTT-----     16
+
+11              7201 TCTGGTTCAGGCGCAGGAGGAAGTGTTTTGCTGGAGGATGATGACAGAGG   7250
+                     | |  ||              |         |      || |  |  |  
+HUMOCLHMB         17 T-T--TT--------------A---------T------TG-T--C--A--     27
+
+11              7251 TCAGGCTTCGCTAATGGGCCAGTGAGGAGCGGTGGAGGCGAGGCCGGGCG   7300
+                       |    |  |   |    |  |        ||                 
+HUMOCLHMB         28 --A----T--C---T----C--T--------GT-----------------     35
+
+11              7301 CCGGCACACACACATTAACACACTTGAGCCATCACCAATCAGCATAGGTG   7350
+                                 |  |    | | |      |   |   |  |  |    
+HUMOCLHMB         36 ------------C--T----C-C-T------T---C---C--C--A----     45
+
+11              7351 TGCTGGCTGCAGCCACTTCCCTCACCCACACTCTTTATCTCTCACTCTCC   7400
+                             |  |                        |      |   |  
+HUMOCLHMB         46 --------G--G------------------------A------A---T--     50
+
+11              7401 AGCCGCTGACAGCCCATTTTATTGTCAATCTCTGTCTCCTTCCCAGGAAT   7450
+                          ||||  |           |   |           ||     |   
+HUMOCLHMB         51 -----CTGA--G-----------G---A-----------TT-----G---     60
+
+11              7451 CTGAGAATTGCTCTCACACACCAACCCAGCAACATCCGTGGAGAAAACTC   7500
+                     |       | || | |||||||||||||||||||||||||||||||||||
+HUMOCLHMB         61 C-------T-CT-T-ACACACCAACCCAGCAACATCCGTGGAGAAAACTC    100
+
+11              7501 TCACCAGCAACTCCTTTAAAACACCGTCATTTCAAACCATTGTGGTCTTC   7550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HUMOCLHMB        101 TCACCAGCAACTCCTTTAAAACACCGTCATTTCAAACCATTGTGGTCTTC    150
+
+11              7551 AAGCAACAACAGCAGCACAAAAAACCCCAACCAAACAAAACTCTTGACAG   7600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HUMOCLHMB        151 AAGCAACAACAGCAGCACAAAAAACCCCAACCAAACAAAACTCTTGACAG    200
+
+11              7601 AAGCTGTGACAACCAGAAAGGATGCCTCATAAAGGTGAGTCCGCTTCTTT   7650
+                     ||||||||                                          
+HUMOCLHMB        201 AAGCTGTG------------------------------------------    208
+
+11              7651 CTTCTCGCTTTATTTTTATTGCAATATTCAGACAGGTCTCCCCCTTCCTC   7700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              7701 CCCCCTTCCTTCCTCCCCTCTCGCCGGTCCCCTCCCCCACTGCTACGCCG   7750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              7751 GGAGAGTTGGGCCGGAGAAGTTTCCACGCAGGAGCCCAAACTTTCTACTT   7800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              7801 CCAGCGAAAGCCCGCGTCGGAGGGCGACTGCCGGCGAGCGGGAGCGGCGC   7850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              7851 AGGGCTCGGGGCGGGCGGCCAGCTCAGCCCCAGCGCCAGCGCCAGCGCCA   7900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              7901 GCGCGGGCTGAGCTCGCGGGAAGAAGGGAGACTCCAGGCGCGACAGCAGC   7950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              7951 CGCGGCTCCTAGCCCCAGCGTCGCCCAATGCTCCCGACCCGCGGGAAAAG   8000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8001 ACGAAGAGGCTCTGTGGTGCCCAAGGCCCTGGAACGGCCGCAGAGAGCAA   8050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8051 CCGCTGCCGGCTGCTTTGTCCAGCCCGAGGCCCAGCGAACGCGCAGAGAG   8100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8101 CGGGCGCTCCGAGGACTCGCCGAGGGAGCGCCGAGGGAACCTGCTCGCCG   8150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8151 CGTCTCCGCCCGCCCGCCGGCCCTCGGGCTTTGTGCCGCACTGGGCTCCG   8200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8201 GCGCAGAAGAGTCAGCCGGCACTCGAGCGCCGAGGGGGGCACCGCGCCCG   8250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8251 CCACCAGCCCGAGTGGAGTCAGTCGGCAAGGCAGCCGCACGCTGGAGGTA   8300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8301 GAGGGAAGAGCGAGCTAGCGCGAGCCGGGAAGGAAGCCACCAGGCCAAGG   8350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8351 CGGTGGAACGCGCGCTCCGAGGGAGCTCAGAGCCGAGCGGGAGGACTGTC   8400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8401 AGCTTCCACCCAGCCCCCGGGCTCTTGCCCCCAACTCCACTGGAGCGCTG   8450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8451 AGCTCGGAACTTGAAAACTCTCTGCTCCCCAGGCTTCCCCCGACTCTCAT   8500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8501 CTCCCTTGCCTTGCGGAGGCTGGGGCTCTTCCCTGTTCTCCGGCCCCCTG   8550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8551 CGCTTGGTGGGTATTTTTCCTTGTTTTCCTCTGATCCAGTCTCACCAGGT   8600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8601 GTTGGGATTTCAGCAAGTTTTGAGGTGCAGAGTTGGTTTGCTTTTTTGTT   8650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8651 TGTTTTACTCCGAATCCCCTTATGTTTTTCTTGGTAAGGCCTTGAAAATA   8700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8701 AATCTGTATGAAAGCATTGGCCTTCCCCCTCGTCTGATCACTTCTTCTCC   8750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8751 CGGCTAATTAGTCGGAGTAATTTGAGAGCTTTCGATTCTAAGATCCCAGG   8800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8801 AGGAAAAGTGTCTTTTCAAAGTTCATAAAGTTGTTGCCTCTTTCCTTGTG   8850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8851 CAGATTTTCTCAGTCTCCCTGCGCCATAATAGCCCTGAATTTTAGCAAGT   8900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8901 GTAATTGGGGGAAATGGAGTTGAATTTCAAGTGGAAATGCTTTCTTTTTC   8950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              8951 GAGTGCTAAAACCTGGCTCTTCATTCATGAGCGATTTCTAGAAAGTTTAA   9000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9001 AAACAAAGTGAACGTGGTTTCTTTCTTTCTTCCTTTTTATTTTTCTTATA   9050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9051 CTCTCCCAAGCTCCCTAAGCCATTCTGGACGTTTAACTCGAACTTGGGAA   9100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9101 GGTTTTAGAAGGGGCTGGGAGCAGAAAATGAAATGAAAGGCAAAGAGCTT   9150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9151 GAGCCTGGCGAGTTTACTGAAGAGAAATAATAGTTGTTGCGGTTGACATT   9200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9201 ACATTTTTTATAGCCAGTGACCTTTGCAAAAGCGTGAAGGCAGTTTGATT   9250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9251 AGTTGTTATCTTATTTGGCCCTAGAGAGTAAAACTTTGTCATCATAATTG   9300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9301 CTAATTACTCTTTTGGCTGGGGGCGGGAGGACCGAGAGCTCTCCCCTTTA   9350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9351 CCTCAGTTAAAGAGTTTGGGGATGGAATTTGAGAATTAAGTAATTAAAAA   9400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9401 AAGAACAGCATTTGAAAACTGAGGCTTGTGTTGGGGACAGAGAGGTGGGG   9450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9451 GCAGTGACCACTCTCTTGTGGTCCAAGGCTGGGGCGACTCCAAAATGTCT   9500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9501 GGAGACTCCTTCGTTCAGGATGTGGTTCTATGGCCCCAGCGAGGCCGTAC   9550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9551 AGAGCCTCGGGCTGAGCTGGGGGGCTGAGGCTGCAGTTGGGGGTCTGACC   9600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9601 TCTCCGGTGCACAGGACTGCTTCCGGGTGTCGATGTGCCCCACTTCCCGG   9650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9651 GTTGCTTCTGCACTTAGTGTTCACGTTTACTTAAGTAATTAGATAGCTTC   9700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9701 TTAGCGAGAGGGAAGTGGGAATGGAGCAGAACTGGAATTTGAAATACTAC   9750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9751 CACCTTCCCAGCTGCTTCGAAAACTAATCAACGAGGCCTCTTTGTGCTCA   9800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9801 GCTACTGAATTTAAAAAAAAATGGTATCAAGAAGTTACAAGCCAGGATGG   9850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9851 GAGCATTCTGTTGTGATTGTGCACAGCGTGGGTTACAAAGTGGAGTTCTG   9900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9901 GAAGTTTTACCCCTCCTAGGGGAATTCCATTCCCCATCTCCCCACCTACT   9950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11              9951 ACTCCTTTGCAGCTTCAGGGTCCTGCATTTGTTGGGGTGGGGTATTTTGC  10000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10001 ATTAGAGTTGGAGATTTTGCCTATCCAGGGCATGGCTATGGGTGCCGGGA  10050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10051 CTGAGAGACAGGAAGGAAGCATTGGAGAGCCAACCTAGATAAGGGTAACT  10100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10101 AGTAACCCTCTGCTGTGGCCAGTATTTACCCAATGCTGAGAAAAAGTCCT  10150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10151 CATTTTCGGTTTATTTTTATGGATTTAAGCTGTCTACCAAGTAGTTAAAA  10200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10201 AGTAGACCAGGAATGGCCTTGTAGAGTAAAATGTGCTTCTTGAAATTCTT  10250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10251 TGCTTGCAGGCAGGCAGATCAATAATCACCATAGGTAAAACAGAAAAAAT  10300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10301 AATGCATTTAAAAAAAAACAGAGAGAAATGATGCTGTGACTGTTTTGTTA  10350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10351 TTTTACCTCTTTTTGGGGGGCAGACCTCTTGAATGGGCTCTTTATTGTAA  10400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10401 CTCTCTCTTCCCAATTGAGCTCCCCACGGTGCCGTTGTATCTTTTTACAG  10450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10451 CCCCTAACAACTCACACCAGTAACACAATTACCTCCAGATATTTACAACA  10500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10501 AGAAATTACTTTTCTATTTTCTCCACTCACCCAAAAGACTTTTTTTTTTT  10550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10551 TTCCTTTGGGAAAGGTAGGGAGGTGTTCGTACGGGAGCAGCCTCGGGGAC  10600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10601 CCCTGCACTGGGTCAGGGCTTATGAAGCTAGAAGCGTCCCTCTGTTCCCT  10650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10651 TTGTGAGTTGGTGGGTTGTTGGTACATTTGGTTGGAAGCTGTGTTGCTGG  10700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10701 TTAGGGAGACTCGGTTTTGCTCCTTGGGTTCGAGGAAAGCTGGAGAATAG  10750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10751 AAGCCATTGTTTGCCGTCTGTCGGCTTTGTCGACCACGCTCACCCCCTCC  10800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10801 TGTTCGTACTTTTTAAAGCAGTGAGGCGAGGTAGACAGGGTGTGTCACAG  10850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10851 TACAGTTAAAGGGGTGAAGATCTAAACGCCAAAAGAGAAGTTAATCACAA  10900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10901 TAAGTGAGGTTTGGGATAAAAAGTTGGGCTTGCCCCTTTCAAAGTCCCAG  10950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             10951 AAAGCTGGGAGGTAGATGGAGAGGGGGCCATTGGGAAGTTTTTTTGGTGT  11000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11001 AGGGAGAGGAGTAGAAGATAAAGGGTAAGCAGAGTGTTGGGTTCTGGGGG  11050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11051 TCTTGTGAAGTTCCTTAAGGAAGGAGGGAGTGTGGCCCTGCAGCCCTCCC  11100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11101 AAACTGCTCCAGCCTATGCTCTCCGGCACCAGGAAGTTCCAAGGTTCCCT  11150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11151 TCCCCTGGTCTCCAAACTTCAGGTATTCCTCTCCCCTCACACCCCTTCAA  11200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11201 CCTCAGCTCTTGGCCTCTACTCCTTACTCCACTGTTCCTCCTGTTTCCCC  11250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11251 CTTCCCCTTTTCCTGGTTCTTTATATTTTTGCAAAGTGGGATCCGAACTT  11300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11301 GCTAGATTTTCCAATTCTCCCAAGCCAGACCAGAGCAGCCTCTTTTAAAG  11350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11351 GATGGAGACTTCTGTGGCAGATGCCGCTGAAAATGTGGGTGTAATGCTGG  11400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11401 GACTTAGAGTTTGATGACAGTTTGACTGAGCCCTAGATGCATGTGTTTTT  11450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11451 CCTGAGAGTGAGGCTCAGAGAGCCCATGGACGTATGCTGTTGAACCACAG  11500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11501 CTTGATATACCTTTTTCTCCTTCTGTTTTGTCTTAGGGGGAAGACTTTAA  11550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11551 CTAGGGGCGCGCAGATGTGTGAGGCCTTTTATTGTGAGAGTGGACAGACA  11600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11601 TCCGAGATTTCAGGCAAGTTCTGTGGTGGCTGCTTTGGGCTCAAAACCCA  11650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11651 CAAACAGTCAAAACAAACTATTTCAGTATGCTTCTTCACTATAGTTCAGA  11700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11701 TAGAAGAAAATAAATCAAAATTGGGGCATCGCTTCTACTGATTAAAGGGT  11750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11751 TAACTGCTAAAGAATGTAGGGGAAACAGATTGGGGATATTCCAGTACTTT  11800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11801 GTTTCAAGCCCCAAAGGGTAGATTTTGTATGCACTGCAGGGCAGAGCTGA  11850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11851 GTGACCCTCAGATCGCCCCAAGAGGTTGAGTGGATCAATTCCTAAAGAAC  11900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11901 GGAGATTCTCCTGTCCTAGCCCCAGGTCCACCTCGGTTGGGAGTTCAGGC  11950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             11951 CTACCTGATGCAGCTGCCCGAGGATTAACTCCTATTTTCTTGCTAACAGA  12000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12001 GCCCCATATTCGAGCCCCGTGGAATCCCGCGGCCCCCAGCCAGAGCCAGC  12050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12051 ATGCAGAACAGTAAGTGCCTCTGGTCTTTCTGGGACTTCGGGCTCGGGGT  12100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12101 GCGCGGACCCGAGGGTCAGGGGAGGACACAGGGACTCGCGACGCCCGCGC  12150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12151 TGGCCCGGCCGCCGACCGACTGAGGCCCGGGGACCTGCGGCGGCTGCTCC  12200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12201 CCGCTCCGCGCCCGGCAGCCCGGGAGGGGAGGGCGTTTGCTTGGCTCTTC  12250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12251 TCGATACTGGAGAAGCAGGGGCTGGGCCCTTAAGAACAGCCCGCCCGAGT  12300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12301 TTTCGAAGCTGCGGTAGAGAAACCCCATCCCCCCCAAATCCTGTAACTCA  12350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12351 CACCCCCTCTCGCCCCTGCCCGGGCTCTGACCCCGGAGAGAGGGGCTGGG  12400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12401 CTGATCAGGGCGGGGCGAAGTCTTCTCCTAGTTGAGCGAGAAGGAGGCCC  12450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12451 CTTTGGGCTTAGCCAAGACTGAAAGTCTCCACCAACCCGGCGGGGTTGGG  12500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12501 GGCTTCTCTCCCCAAGTCACTCTCAGGGCAGCTCCTCCCCTCCTCACCCC  12550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12551 ACTACGGGCCTAGAAGGGATGGGGAGAGGAGCCCCCAGGCCTGCAGCAGG  12600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12601 GTAGGGGTGGTAAACTCGCTGTTACAGGGCGCGGGAGAGAGCACGGTTTA  12650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12651 CTGGGTCTGGTAAGGAGGTGCCCAGGAATTGGAAAATCCCTGCCCTGGCA  12700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12701 ACTGCAATTGCTTGGGTCCTGATAGTCCCAGGCCCAGAGCGCTTTTGATA  12750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12751 CTTATGGCCCTTGTACCTCCCTGCTTTCCTCTGCCCAGACCCCGTGGGGT  12800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12801 CCCACCCACCTTCCTGTTCGTGGTGGGTGCTGGTACGCGGCAGGGCTAGT  12850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12851 CTAGAGCTCCGACCTGGGAGCCTGGAGGCCCAGCGAAACCAGGCCCGGTT  12900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12901 TGAGGTTACGGTTGAGGCACACGGCGTCGGGGCTCAACTGAACTCAAAGT  12950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             12951 GTGGAAAGGCCCGGGTCTTCCAGCAGCCTGCCCTGGCCGAACCACACAGG  13000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13001 CTTAAGGAGGGTCCCCAGCACCTTATCCATCTGTTTTGGAAACGCCGGTC  13050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13051 GCCCCCTGGTGCTTCCGGGGCTGGTAAGCGCGTAGCTGAGGAAAGGGCAC  13100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13101 AAAGGTGGCGAGCTTTGCGGGAGTAGTTGTGCAGAACCTGCCGGACCCCA  13150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13151 GGGCTTGGCCGGTAGGCTCGCCTTCGGCGGCTGGGCTCTCCCCTTGGAGC  13200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13201 TCAGACTCCCCAGCCGCAGGCTGTCTCTCGGGCGGGCCCCAGCCAGGGCG  13250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13251 CGCAGCCCTGAGCGTTTGTCGCTGCGGCCCGGCTGGCAGGCCCCGAGGGG  13300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13301 CGCGGGGTCGCGGGCCGGCCGGCAGGGCTTTGTGCCGCTCGTTCCCGGGT  13350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13351 GTGCGCGAGGCGCGGAGCATCCAAATTGACACCATATGTTTTCCTATTAG  13400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13401 TTGCTTCGCGGTCGAGTTCTAGGCGCATAATCATCGCCAGTGGGCGAGAG  13450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13451 CGCCAGCAGTCCCTAGGGAAGGGACACAATGATTGAGGCTTAACCTCTGA  13500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13501 AGGGGAATTTGGAGCTGCGCTTTCTCTCTGCCATTTCGATGCTGGGAGTG  13550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13551 GCGCTCTGGCCCTGGCGTCTCCTGGGCAAGCACCAGCCGGCGGTATCTGC  13600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13601 GGAGGTGGCTGGCACGTTGTTATTTTTTGAAATGAGTGAGGAGGGAGGTC  13650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13651 TAGATTTAGGCGGCCTTACGCGCCCGCCTTGGCATTAGCAGACTGGGAAT  13700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13701 TGCCGTGGCTATGCCCGAAGTTTGGAAAGTCTCTCTCGGTCTCTTTCTGG  13750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13751 GACAGCCTTTCTTTTTCCGGGAAGCTTCCTGTGCCTAGAGGTGGGGCTCT  13800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13801 GTAGCTGGAGGGGTAGATGGAACTTGCGAAGCAAAGGAAGGCAATAAAAG  13850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13851 GAAGTTAGGAGAAACCGGAAACGTGGGCCAGGCCTTGCTCTGTTGGAGAA  13900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13901 GCGGTGTCCCCGCAAAGTCCCTGCTTGCGCTGGTCCCGGCCGGAGCCCAG  13950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             13951 ATCCCCCAAACGCCTGTCACTTCTCATCGAGTTGAGGCTCCGGCCCCCAC  14000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14001 CCGCGCCTTGGTGAGGGCCCCCCCTCAGCCCCAAGCCTTCGGCTACCCTG  14050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14051 AAAACGCGGCTCCCCTCGAAGGGGAAACAAGTGCAGTTCAATCTCGTCTG  14100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14101 AGTGATCTACAAATAAGGACGGAAAGGGTCGTTTTATCACGGTCCCGTTT  14150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14151 GTCGTGACGATGCAATTTCCCGGAGCGGAGCACTGTCACAAAGTGACAAG  14200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14201 GCTGCCACAAGCGCCCCGACTGATCTTTTCAATTAGCCTTCCATGCATGA  14250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14251 TCCGGAGCGACTTCCGCCTATTTCCAGAAATTAAGCTCAAACTTGACGTG  14300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14301 CAGCTAGTTTTATTTTAAAGACAAATGTCAGAGAGGCTCATCATATTTTC  14350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14351 CCCCCTCTTCTATATTTGGAGCTTATTTATTGCTAAGAAGCTCAGGCTCC  14400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14401 TGGCGTCAATTTATCAGTAGGCTCCAAGGAGAAGAGAGGAGAGGAGAGGA  14450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14451 GAGCTGAACAGGGAGCCACGTCTTTTCCTGGGAGGGCTGCTATCTAAGTC  14500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14501 GGGGCTGCAGGTTGGAGATTTTTAAGGAAGTGGAAATTGGCAATTGGCTT  14550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14551 TGTGTGTCTGTGGTTTTTGGGGAGGGGGACTACAAAGAGGGGCTAACTCC  14600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14601 CTCTCCCTATTCTCTAAGGTTGGACCACAGGGATGAGGTTGTGAGATACA  14650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14651 AAGATAAAGGAGGGATGGGGAACACTATGATGTGGTATTTTTCTTTTCTG  14700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14701 TTTTTTCTTTTTGATAATATCTATCCTTGGCTAAGGGGAGGGCGGAGTTC  14750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14751 AGCGGCGGAAATAAAGCGAGCAGTGGCTGGTGCGAACCGACTCCCGGCTC  14800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14801 TAAGCCTTACTTGCGGTGGCCGGACTTGTCTGTGGCTGAAGCCGAGCCCG  14850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14851 GGCTCTGACTCTCACGTCTGCACTGGAGGTGCGGAAACCTGGACTGGGGT  14900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14901 TCACCAGCCACATACTGGCTGCTCTGGTTGTTCTCTCCTCTTCCTTCTTC  14950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             14951 TATTCTAACCAAACAAAACCCAACTCGATGCTTGTGCCAGGCCTTGGCCA  15000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15001 GTTTGGACGGTGATGGAAACATTTCTGGATTTTAGCGTCTAAGGGAGCAC  15050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15051 TCAAGGGCTGTAAGGTTTGCTATCACTGTCCCAACACTGCAGAGACCTTG  15100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15101 AAGGTTCAGTGTGGGATCTGTAGAACCCATGGTTTGCGGTGACACTCAGA  15150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15151 GGGGATCTTTGGGAGATTTATAGAGCCGGTTCTTAGCGCTTTGTGGGTTC  15200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15201 AGAGGCTGGCTGCAGTGTTTATGAAGAGGGGCAGTGGGCTGGGGACACTG  15250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15251 CTGGGGTTATGGCTGTAGTGAGGTCCATGTGTACTTGTTCCTTGGCATGT  15300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15301 GTCTGACTCTGTGTTGCTGCTGCAGTACAGTGGGCAGGGGCACGGTTGCT  15350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15351 TGGACTGGGCTGCCCGATGTCTGGCATGGCTGGTGGTCCTGTTGTCCTTT  15400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15401 ATTTGATCGATAGCAGGGAACTGACCGCCGAGGTTGGCACAGGTTGGCAG  15450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15451 GGGGATGAGGATGCATTGTGGTTGTCTCCTCCTCCTCTCCTTCTTCCTCT  15500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15501 TCCCCTTCCTCCTCTCCTTTCTGTTCTTGTTCTCCCTCATCTTCCTCTTC  15550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15551 CTTCTTCTCCCTCTTCTTCCTCTTCACTCTGCTCTCTTCTCTTCTTTTCC  15600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15601 CCTTTCCTCTCCTCTCCCTTTCCTCAGGTCACAGCGGAGTGAATCAGCTC  15650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15651 GGTGGTGTCTTTGTCAACGGGCGGCCACTGCCGGACTCCACCCGGCAGAA  15700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15701 GATTGTAGAGCTAGCTCACAGCGGGGCCCGGCCGTGCGACATTTCCCGAA  15750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15751 TTCTGCAGGTGATCCTCCCGGCGCCGCCCCACTCGCCGCCCCCGCGGCCC  15800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15801 TCCACTCTCAACGCCCTCTCTTCATTTCTTACTGTAAACGATGCTAATTA  15850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15851 TGGACCCCCCCACCCTCACCCACCCCAGTCCCCAGTCCCCCCACCCACTC  15900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15901 CCCTGCCTTCCCACTTTCCCCTCTCCTTCCACCATCCTTCCCTATCTCTT  15950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             15951 TCAACCTGGGTCAGTTACATAAGATAACTCATCTGCTTCAGAAAAATATT  16000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16001 GTGTGCGGATTTTTTTAAAAAAATCTTTCTCTTTTTATTTGGTAAAGACA  16050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16051 TTCATTGTGGGAACAGTTTATGAACCGTAATAAGCTGAGTTATATAAACC  16100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16101 GGCATAATTTCATTCTGCTCTCCCCAGCCCATGCTTACCTCAGCTTTTGA  16150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16151 GGTATTTGTTTATTCTTCATGTTTATGAATAATATATATTGATTTTAAAA  16200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16201 GGCAAATGCTATTTACTCCTCCCTAACTCACATTTACTCAATTGAGTATT  16250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16251 TTTTAAAGAAGAAGAAGTAAAAAAATCAGTTTATTTTTTACCTTTGTTCT  16300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16301 TTAAAACATAACGCCACTTTAAGCAAGGTCAGCACAAAAATAAATTTATC  16350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16351 TACTTCGTTTTGATGCATCTTCAGGCAGTGTTTAAGAAAAGTTTTTTTTT  16400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16401 TAAAAAAAGCTTTTAAATTCGTTTTTTAGTTCAAATTGTTTGAAAGTATC  16450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16451 ATCATATTTGTAGTTTTTAGGGCTACAAATGTAATTTTAAGAAAAAAAGC  16500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16501 TCTCTACAGTAAGTTCTCATACCATTGAAGGTATATTTTTGTGTTATAGA  16550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16551 CCCATGCAGATGCAAAAGTCCAAGTGCTGGACAATCAAAACGTAAGCTTG  16600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16601 TCATTGTTTAATGCATACTTAAACAATTTTATTTTTGTCTTGAAATTATT  16650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16651 AATAATGTGGTTTTCTGTCCACTTCCCCTATGCAGGTGTCCAACGGATGT  16700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16701 GTGAGTAAAATTCTGGGCAGGTATTACGAGACTGGCTCCATCAGACCCAG  16750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16751 GGCAATCGGTGGTAGTAAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCA  16800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16801 AAATAGCCCAGTATAAGCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATC  16850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16851 CGAGACAGATTACTGTCCGAGGGGGTCTGTACCAACGATAACATACCAAG  16900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16901 CGTAAGTTCATTGAGAACATCTGCCCTCCCTGCCCTAAGCCCAATGCTCT  16950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             16951 CTCCTCTTTACCTCCTCCCACCCTCTCTCTCCACTGTCTCTTAGTCTGTG  17000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17001 TCCTCTCCCTGCTCCACATTTGTCTCCTTTGTACCTGGGGGAACAGAGAG  17050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17051 GAATGCCCTGACTTTTCTTTGACTGTCTGGAAAATGGGAGTCAAGTGTGG  17100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17101 GGAGTCATTCACTTCATTTGCATGCTGCAAAACAGAGGGCGGAGGCACCA  17150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17151 GGGAAAGGCACTTGAATGAAGAAGGAAAATGAGAACCAGATTGTAACTTC  17200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17201 GTCCTAATCCACCTGCCAGAACTTTCCTTCAGGTGTCACACATCCATTTC  17250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17251 CATCCTAATATTAAACAATATAATGAAAGAAAGCTTTACAACAAGTCTAA  17300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17301 ATAGTTTTTATTTTCGGGCAGTCTTTTAACAAAGCAAAGCAACCGTGTGA  17350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17351 GTTAGGTCACCAGAGACACCAAGCAATGGTGAAGGACCCCCTCCGCCCAA  17400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17401 TTCTCTATCCAACTAAATTTCCATGCCCAAAGTGATAGCTATCATTTTTT  17450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17451 CCACGGTGTATCTGCAAATCCACCCACTGTCCCGGGGTGGCTGGGAGCTT  17500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17501 TTTAACGGGTTGAGAGTTGCTTTTTAAGGTTGTGGGTGAGCTGAGATGGG  17550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17551 TGACTGTGTCTTCAGGAGACACTACCATTTGGTTTGATTTTGGTTTGATT  17600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17601 TGCAGGTGTCATCAATAAACAGAGTTCTTCGCAACCTGGCTAGCGAAAAG  17650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17651 CAACAGATGGGCGCAGACGGCATGTATGATAAACTAAGGATGTTGAACGG  17700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17701 GCAGACCGGAAGCTGGGGCACCCGCCCTGGTTGGTATCCGGGGACTTCGG  17750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17751 TGCCAGGGCAACCTACGCAAGGTAAAACCCAAGCAGCCATCCACGCAGCT  17800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17801 CTCCATATGTGCATCCCTTTGCCTGTCCCCTACTCTCCCAACCATTTCCT  17850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17851 CTCAGGGCTTCCATGCTTGGGGAATGTCATGGGTGAGACTGCATTTGAAG  17900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17901 GCCTGGGACACATCGACCACATTGTATGTAGGTGGTGTTTGTTGAACCAT  17950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             17951 TTTGTTGGCCTGGGAATGTGAGGGTTGTGTATGTCAGGAGCGGTATGAAG  18000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18001 GTGGCTGGTGGGTGCGTGTGTGTGTTTGTGGGCAGCACTGTGTGCATAAG  18050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18051 AACGAGCTGCGTGGTGCACTATTCAAATTTGACATTAGAATGCAGGGAGA  18100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18101 GCCCCCTTGTAGAAGTGTGACAAGATAACGCACTGACAGACTGCGAGGTT  18150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18151 AACATAATTGTATCCTGTTGCTTTTTGCTGTAATTGACAAATTATGTGAC  18200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18201 TATGAGTAGGGTGCACATGAAAAGGTGAGCAGGGAGATGCAGGGCGAGTC  18250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18251 GGGGATGGGGCATTGGAAGTGGTGGTCTCCCAACTAAAACCACCCCACTA  18300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18301 TCCTTGCCCCTCCCCCGTTCGCCCCTCTGGGTCCCACTTTCTCACTCTCT  18350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18351 GTGGGTGGCGACTATGTGGAAGTGGTGAGGTGAAGATACTGTGAGCAGGA  18400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18401 CGGCGGGATGCCGGGAGCCGCTCTGGTCTGGGAGGAGAGATGGGACCTGA  18450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18451 AACACCCCAGGTTCTGTGAGAAGGGCTGGAGGAAGAAGAGCGGGGGATGG  18500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18501 GGGGGGTGGGGCGGAGGGGAGGGTCAGTTGGCTCCCCTCCGCTCCCCTCC  18550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18551 ACACCCCGAGGTAGCTTGGTCAAGAATAGGAAACAGTTTACTCCGAAGAT  18600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18601 TAATCGGTATTTGTTGTCCTCGTGACAAGGAGATAATATGCGGGATAATG  18650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18651 GGACGTGGCGTCTCACTCCCAGGAGCACAACGGAGCCGAGGGGCTCGGGG  18700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18701 CCAGGGGCGGCGCGCGGGACTGCGAGGAGGCTGCCGGCGCATCCGTGAGC  18750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18751 TCTCGGACCGGCTCCGGATGCCCGGCGCCTCCATGGAGTCGGGCGAGGGA  18800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18801 AGGGAAAATCGGTAACAGTATGCGAAATATCTGGTACAAAGGATGCTTCT  18850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18851 GTCACTCGCAAGAATTTGTTATGGGAACAATCCTGTCGCTCTGTAATTGC  18900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18901 TCATTAGAGAACGTTTTGTTTCTCATTAAGGCGACATGAATAAGCGTCTA  18950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             18951 GTTGAAGGAGACAGCTGTAGAAATGTTCCACAAGAGACCTCTGGACACGA  19000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19001 TTCGGCACCAATTGCCAATTAGACATGTCAGTTTTAAGAGCAGAAAACAA  19050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19051 TATAGGACGGACACTGGGAAGATAGGGAGCAAAGCGCTCGCTTCTTGTTT  19100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19101 CCCAGCGCGGCCGCTCGGCCGGCGGAGGCCTCCTGACGCGCGGGGCCCGG  19150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19151 GCTCCCCTGGGCGACCCCGCCCGCACGGGCCCCGAACCCGCCGCCTCCGC  19200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19201 GAGCTCAGAGGGCCCCCAGGCCCGCTCCCGCCTCTGGTGAGACTAGCGAT  19250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19251 TGACCCCACCGAGTGTAGGCAACCCCATCCCTGCCTGACTTTTGAAACCG  19300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19301 TAGGATTCCCACTTGTAGACACTGGACACACCCAAGTGACACCCGAACTT  19350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19351 CGCACTCACGAGCGTCCACCCCTCCGCCCCCAGCAATCTGAGGTCCTGGT  19400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19401 GATCCCTCCCCTGACAAGAGTCTGGCCCACTTAGTCCGAGAAGTCTTGGG  19450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19451 GAGGGACTCAGGGCACGGTGGCCTAGGCCTGGGAGGGCTGAGCCCAGAGC  19500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19501 CTCCACTCCGGGCTCTCCCCGGTGCGTGGGCTCCCATGAGCTTGGGGCGC  19550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19551 AGGATACACCCCCCTTCCGCTTCTTGGAGTTGGGCAGAAGCCGAGGACAG  19600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19601 CAGCTTCCACCAGAGGTGGCGCCCGATTCGGGCGGATTTTCGTCGCCGGC  19650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19651 AGTCTGAGGGCGGGAAGTGAGAGTCAAATCAGCTAGGGTCCGCCTGTGAT  19700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19701 GGTTGGGGCCGGAGGTGGAGCTAGTCCAGGGGCTTTTCACTTTAACGCGC  19750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19751 CTAGTTGCTAGAAAATTCTGGGTCAACTGGCAATCACCACCCCCCCACCC  19800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19801 GCAAGTGAGGTTTTTGGGGGGTGATTGTCACCTCAGGCACAGGACCGTCG  19850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19851 CCCCTAGTTGCGTGGGGAGGACACGTGGGCCAAACGAAGCACAGAGTTGC  19900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19901 CGGCGTGGGGGTAGCGGGCACCGGTGGTGAGCTTCGCTTCACGTTCCCGG  19950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             19951 GGAATCCTCAGACTTTTTGGTGCTAAGAGGGTCCCCCTCCCTCCCTAGCC  20000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20001 CCCTTTCCCAGCCCAGGAAGCCTTTCTTGGGTTTTAAAGAGTCCATACTC  20050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20051 CAAAAGCATAAGGCGGGGGTTAGGTCTCAGAGGGAGACAAATATGGTTTC  20100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20101 CATCTGATCAACGCCATGCGGCGGTGAATAAAATCGCGACGACGTGGGCT  20150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20151 GACAACAACAAGAGACAACTCTATCCAGCCCCAATTCTCCGGCGATTTGG  20200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20201 TGGTTTTAGGGATCACGGAGACACTTTTTCTTATCTCCTCCCCTCACCCC  20250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20251 ACCCCCACCCCCCATAATACCCAAGCCCTCTATAGGATTTAGTCAGCCTC  20300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20301 TCTTTCAACAGATGCTACAATGTTTTGATCCGCGCTCCAGAGCTGAAAAG  20350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20351 GTGCCGCAACCGGGTTGCTATCTTTTCTTGCTTGTTTTCCGCCTCACTGA  20400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20401 TTAAGACACTAAGAAACTAAGGAATGATTTTATTTCCCAGCAACTCTCTC  20450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20451 TCTGTCTCTCTCTCTCTCTCTCTCTCTCACCTCCTTCCAGGAAACAAATC  20500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20501 CTATTCCCATCGTCAGATGGTCCTGGGGCTGGGATAATGGGAGGCGCTTT  20550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20551 CACTCGCTTTCTCACGGATTAGGCTGGAAGGTGAACGGCACCCACTGAAG  20600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20601 GCCCCTGCTTTGCGCGGCTCCGAGGGGGCGCCTTTTGAAGAAGATATCTT  20650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20651 AATTGTCCACCACTTAGGTTTATCGTGGGGGTGGGGGAGTCGAGATCCAA  20700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20701 CTTCTAGTTTTATTTTGTTAAAAGCTTTAAGAGTGGAAGGCAAATCCACT  20750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20751 AAAGTGGGGGGAAATGTACCCATTTTATGTAAGAGCAGCCGCTAGGTCAC  20800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20801 CGCCTGGCTGCAAACAGTTGCCACTTCTAAAGTAATGAACTGTCTCCGTG  20850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20851 CCGCTCTCCCCGCGGGGTAGAGAAGGGATCCTGCAGCGACAGGTTTCTTT  20900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20901 TTGCTGTGGAATTCCAATCCCCGCTTCCCATCTTTTTTTTTTTTTTTTTT  20950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             20951 TTTTCCAGATTTAAAATTGAGCTCTACTGTCCCTGCTGACTTTTCTCTCT  21000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21001 TAAGTGTCAGTTCTGGAGGCAGCACAGGGCCTGGCGGCGATCGCGTGCTG  21050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21051 CCTGTGTAAACCCGTGTGTATGTTTGTGTGAGACAGAACATGGATAAGAA  21100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21101 TGTGAATCTCCATGTTTTAAAATTAAGAAAATGTCAAAGAGGCAAATGAG  21150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21151 AGCAGAGCATGCTATCGGCGGGGTTCTTCGGAGGCAGATTCGGGCAACTT  21200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21201 TGTTTAATTGGCGAGATCGAATGTGCCAGAAAAGGGACCGAGATGGGGCC  21250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21251 CCTAGGAAGGCATGGGCATGAGTGGCCATGGGGAGATGGGCATTGTGTTC  21300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21301 TCCTCAGTGTCCCCCACCCCATACCAGATGTGCACAGATTTTTGTCTGTT  21350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21351 TTCCAAAAGCAATAACCCTCCGGCCTTTCTAGTTGGCCAAAAGGAGCTAT  21400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21401 TTCCAGTCTTCCTTCTTCACCAAACCCGAAAATAAAGCGAGGGGTGGGGG  21450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21451 TGGTCGCTTCATTTCTTCCCTTGAAAAACGCTTTGAAAAGTCCCCGGAAA  21500
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21501 CTTGGGGCAGTAAATTAGCACAGACGCTTGTGCCCGCACACGTGAGCGGA  21550
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21551 GCGCGTCTCCCTCAGCTAAGTAGCCCTCCTCGACCCCCACCTTTCTGATG  21600
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21601 GAGTGCAAAGACCCAGAGTCCAGATGGGGCTCAGTTACTAATATTCTCTG  21650
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21651 GCCCTCATCCTCCTTTTCCTCTCTCTCCCACTCTTGTTCGGCCCTCGTGT  21700
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21701 CTCTTTTTCCTCTCAGCATTCTTTTCTGTCCTTTTTTAAAAATACCTTTC  21750
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21751 TAGCCTCTATGTTTTTTGAGCCTTCTTTTCCCCTCCATCGCCCTCTTTTT  21800
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21801 CCCTCCATCGCCCTCTGTCTTTCCCCTAACCCAGGCCCCCCAATCCTTCC  21850
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21851 CCCTTGCTTCCACCCCCACCGCTGGTTTCCATCCTGCCTCCCCTCCATCT  21900
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21901 CCTCTATGTAGGAACCCAGCCCTGGTCCCCGTCCACTCTCCCTGCCTCCC  21950
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             21951 CCCATGCTGGGCCCTGGCCCCCCCATCCACCCTCCATCCCCCCAGCCAAG  22000
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22001 CGCCCTAAATAGCACGGAGGCGCCCGCTCTTCGGACAGTGATTAATGATA  22050
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22051 GCAGAGCAGAGGGGTTAACACACTTCACTGAAAAGTCTGTTGACTGGGCT  22100
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22101 TCTTGTAACACAATGTGGCCCGCTGCACGCCTCAAGAGAATCCTTTTGTT  22150
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22151 GTCCGCGCTCATTGTAGCCTCAAAATTCTGCCCACGAAAGTTTGCCAACG  22200
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22201 CTCCTGCCCCAGGAGTTTAATAGTTTCCCTTACTCGCGGGGCATTGTGCA  22250
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22251 GCGCTGAAAAGCAGCCCCTCGCTATTCAAGTGTTGGTGGTCATCTCAATA  22300
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22301 GATCTCCAAGGGCCCATATGGTGGCCAGTGCCGATGAATCCGCCTGTTTA  22350
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22351 AATGGGGGAGAAAGTTGGGGTTTTAAAACATTTCAAAGTTCCTGAAAAGA  22400
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22401 TCCCACTAGATCCTGTCACAATTCCCTGAACTCTTTGAAGGCGCAGCCTA  22450
+                                                                       
+HUMOCLHMB        208 --------------------------------------------------    208
+
+11             22451 TTGTCTCCTGGTTATAAATAATATTCCTGGCCAAGTCGATTCCCACCAAG  22500
+                                                                     | 
+HUMOCLHMB        209 ------------------------------------------------A-    209
+
+11             22501 GCGCTCCTAGGGGCCCCTCCACCCCGCCTCTGGCCAAGTTTTGAGGATAG  22550
+                           | |           |            ||        | || | 
+HUMOCLHMB        210 ------C-A-----------A------------CC--------A-GA-A-    218
+
+11             22551 GGAGGTGGGTAGCCCATGCTGGTATCCCTTGGGGGTCATTTCAGGACCCC  22600
+                       |     |  |   |   | |     |        |   |         
+HUMOCLHMB        219 --A-----G--G---A---T-G-----C--------C---T---------    227
+
+11             22601 AGACCCAGGACCCAGCCTGTAGTGGCCCTGGAGGCCCAGTCAGAGTTTAG  22650
+                                 ||     ||          |     ||   | |    |
+HUMOCLHMB        228 ------------CA-----TA----------A-----AG---G-G----G    237
+
+11             22651 GCAATCCTGCTTCCCTTCACTGTGGCCTTACAGGCAAGGTGCAAGCCGGG  22700
+                     | ||    |         |       |||          |          
+HUMOCLHMB        238 G-AA----G---------A-------CTT----------T----------    246
+
+11             22701 AGCCAGCTAGCCCAAGTGCACATCTTGCCCTCCAGGCAGCAAGGGAAAAC  22750
+                     |   | ||      |  |        |       ||| ||    |     
+HUMOCLHMB        247 A---A-CT------A--G--------G-------GGC-GC----G-----    259
+
+11             22751 CATAAAACTTTCCCCCTGTATAATGATAGAAGTTACATTCAAAGTGGTGG  22800
+                                    |              ||    | |    || || |
+HUMOCLHMB        260 ---------------C--------------AG----A-T----GT-GT-G    269
+
+11             22801 AAATGCCCTAATTAAAAATGTACCACTTAAATGATATGCCAAAGATTCAG  22850
+                       | |              |   | | |   |  | |       | |   
+HUMOCLHMB        270 --A-G--------------G---C-C-T---T--T-T-------A-T---    280
+
+11             22851 CTGCAGCATAGAATATTTAGCTAGTTAGTGAACTCTCTACTATTTCTTTT  22900
+                      |   |  | |       ||  || | | |                    
+HUMOCLHMB        281 -T---G--T-G-------AG--AG-T-G-G--------------------    291
+
+11             22901 TTAAAATTACACGTTAAAAATTTAAAAGAAATCTTACTTTTCTCTGGTGC  22950
+                               ||              ||  | |  |           |  
+HUMOCLHMB        292 ----------AC--------------AG--A-C--A-----------T--    299
+
+11             22951 AACACATTACAAAGAATGGACAGTCCTTTTATCTAAATATAAAATTCCAT  23000
+                         |    |        |  ||                         | 
+HUMOCLHMB        300 ----C----C--------G--AG-------------------------A-    305
+
+11             23001 TTTCAGCAATTATAGCCTGTTCTTGGTGATGATATAATTACAGCTGTGCT  23050
+                     |||   |      |             || |         |  |    | 
+HUMOCLHMB        306 TTT---C------A-------------GA-G---------C--C----C-    316
+
+11             23051 CGTAATAGGTGTCAAGGCGAAGCGCACTCATACAATAGTTGAATAAAACT  23100
+                     |   |||  | |     || |  |    |   |               | 
+HUMOCLHMB        317 C---ATA--T-T-----CG-A--G----C---C---------------C-    329
+
+11             23101 GCAGAACAATGCGAGCACTTCTAAATTCACAACCTTTAAATGAAATTGAC  23150
+                      | |     |  | |        || |  |  ||             | |
+HUMOCLHMB        330 -C-G-----T--G-G--------AA-T--C--CC-------------G-C    342
+
+11             23151 TGTGCAGAATTCAAATAAAAACTAGATAAATATTTTTTAAAAAAGATTAC  23200
+                        |  |    |         |                           |
+HUMOCLHMB        343 ---G--G----C---------C---------------------------C    347
+
+11             23201 AAGCTTGGTTTGGTTTCTTAATAGCATTTTCTACAAACCTATCAACATCT  23250
+                        |            |     ||                     |  | 
+HUMOCLHMB        348 ---C------------C-----AG---------------------C--C-    353
+
+11             23251 AATTGATTAGATAGGAATTACTGATTATAGATCAACTGAAATCTTGAACA  23300
+                                        |  |     ||  |  |    |    |    
+HUMOCLHMB        354 -------------------A--G-----AG--C--C----A----G----    361
+
+11             23301 TCACTCTTCTATTTTCCCAACACAGCCATAGGTAAAGAGATTCTGTAGGG  23350
+                             | |   |         | |        ||| |  |       
+HUMOCLHMB        362 --------C-A---T---------G-C--------AGA-A--C-------    371
+
+11             23351 AGTGGAGTGAGGCATTTGGGGAGTTGGGGTTACTTATAAAAGATCATTTT  23400
+                          |||    |                  ||       ||  |     
+HUMOCLHMB        372 -----AGT----C------------------AC-------AG--C-----    380
+
+11             23401 AATTGGAAACTTCAGTGCTTATTTTTTCATTCAAGAAATGCCACTTAGTG  23450
+                         ||       |  |             |   | |||    |      
+HUMOCLHMB        381 ----GG-------A--G-------------T---G-AAT----C------    390
+
+11             23451 TGTGTATTATAAAGTCTCATCTTGATAAAAACAAAGAAAATGGTGGTCAG  23500
+                                 ||      |    |     |         ||||||   
+HUMOCLHMB        391 ------------AG------C----T-----C---------GGTGGT---    401
+
+11             23501 GTAACTAACATCGCAAATGTATTTTTTTAAAAGAAGGCTGACAGTTACCT  23550
+                     |         |  |           |||        | |  ||   | | 
+HUMOCLHMB        402 G---------T--C-----------TTT--------G-T--CA---A-C-    413
+
+11             23551 TGGGAATGTTTTGGTGAGGCTGTCGGGATATAATGCTCTTGGAGTTTAAG  23600
+                                      ||  | |  |       || |            
+HUMOCLHMB        414 -----------------GG--G-C--G-------GC-C------------    421
+
+11             23601 ACTACACCAGGCCCCTTTTGGAGGCTCCAAGTTAATCCAAATTTCTCTTA  23650
+                     |||       |  ||        |      |                   
+HUMOCLHMB        422 ACT-------G--CC--------G------G-------------------    429
+
+11             23651 CCATCCTATTCTTTTTGTTCCAGATGGCTGCCAGCAACAGGAAGGAGGGG  23700
+                            |  |       |||  |       |  |  |            
+HUMOCLHMB        430 -------A--C-------TCC--A-------C--C--C------------    438
+
+11             23701 GAGAGAATACCAACTCCATCAGTTCCAACGGAGAAGATTCAGATGAGGCT  23750
+                         |                |      |  ||||||||  | | | |  
+HUMOCLHMB        439 ----G----------------G------C--AGAAGATT--G-T-A-G--    453
+
+11             23751 CAAATGCGACTTCAGCTGAAGCGGAAGCTGCAAAGAAATAGAACATCCTT  23800
+                        |   | | | ||||    |   |    |        ||         
+HUMOCLHMB        454 ---A---G-C-T-AGCT----C---A----C--------AG---------    466
+
+11             23801 TACCCAAGAGCAAATTGAGGCCCTGGAGAAAGGTGATAGAGTTTTTCAAA  23850
+                         |    |      | || ||                       |   
+HUMOCLHMB        467 ----C----G------G-GG-CC-----------------------C---    474
+
+11             23851 GTAGAGAAGCAGTAAATCAAAGTAAATGCCACATCTTCAGTACAAAGAGC  23900
+                          |  ||       |         |        |  |  |   || |
+HUMOCLHMB        475 -----G--GC-------C---------G--------T--G--C---GA-C    485
+
+11             23901 TAAATTTAGCCAGGGCCCTTTGCATAGAAGAATGAAAAGATTTCCTTTTT  23950
+                        ||||         ||    |               ||          
+HUMOCLHMB        486 ---ATTT---------CC----C---------------GA----------    494
+
+11             23951 TCTGTCTTTTTATTTCTCTGGGCATCTTTTCAGTGTGTGTGTGTGTGTGT  24000
+                                |  | |||  |        ||                  
+HUMOCLHMB        495 -----------A--T-TCT--G--------CA------------------    502
+
+11             24001 GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGGTGTGTGTG  24050
+                                                                       
+HUMOCLHMB        502 --------------------------------------------------    502
+
+11             24051 TGTGTGTTTCTTCTTTTCATCTACCAGTAATTCAAAGACTAAATGTCTGA  24100
+                      | |||               |  |       |  | ||     |   | 
+HUMOCLHMB        503 -G-GTG---------------T--C-------C--A-AC-----G---G-    514
+
+11             24101 CTTATAAGGAAAAATGATGATTTGGCTATTTCAGGCCACAGAAAGGTCAC  24150
+                        ||   |     || |||    |     |          |||    | 
+HUMOCLHMB        515 ---AT---G-----TG-TGA----G-----T----------AAA----A-    528
+
+11             24151 TGAATGCCATTCCAAAGAAAATTTAACTTGGTTCTGGTGGGAAAGTTCTT  24200
+                     |   |  |  |     |            ||  |         ||     
+HUMOCLHMB        529 T---T--C--T-----G------------GG--C---------AG-----    538
+
+11             24201 CCAAGTACAGTCAACACTAGAAGCATTTTAAAGGGAATTGGTTGGAGGTA  24250
+                         ||  | |      |   | |                          
+HUMOCLHMB        539 ----GT--A-T------T---A-C--------------------------    545
+
+11             24251 ATGGGAGTGGGGAGGTGGGAACCAGTTTGATGCACAGTTTGGTCAACATA  24300
+                                ||     | | |    ||  |  |       ||  |   
+HUMOCLHMB        546 -----------GA-----G-A-C----TG--G--C-------TC--C---    557
+
+11             24301 TTTTGTGTAGTTCTGGCACAATATGGAAAATCAACTTACTCTTTCAGAGT  24350
+                             |    |    |   |  |           || |   |  |  
+HUMOCLHMB        558 --------A----T----C---A--G-----------AC-C---C--A--    567
+
+11             24351 TTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGACTAGCAGCC  24400
+                       | | |           || |      |   |  |   |  |    |  
+HUMOCLHMB        568 --G-G-G-----------CA-A------T---C--G---G--T----G--    579
+
+11             24401 AAAATAGATCTACCTGAAGCAAGAATACAGGTACCGAGAGACTGTGCAGT  24450
+                           |       |      ||  || |   |||  ||||  ||  || 
+HUMOCLHMB        580 ------G-------T------AG--TA-A---ACC--GAGA--GT--AG-    597
+
+11             24451 TTCACACTTTGTGATTCATACCATTTGTCTTTCCTAGAGACAGAGGTGCT  24500
+                           |     |         |     |  | |      |  |      
+HUMOCLHMB        598 ------C-----G---------A-----C--T-C------C--A------    605
+
+11             24501 TGTACAGAGTACTATTTATTTATAGGACTAATATAATAAAAAGGTTCAGT  24550
+                      |   | ||           | |  |          |   || |  ||  
+HUMOCLHMB        606 -G---A-AG-----------T-T--G----------T---AA-G--CA--    618
+
+11             24551 CTGCTAAATGCTCTGCTGCCATGGGCGTGGGGAGGGCAGCAGTGGAGGTG  24600
+                          |||        |   |   ||          |  ||||  |  | 
+HUMOCLHMB        619 -----AAA--------T---A---GC----------C--CAGT--A--T-    632
+
+11             24601 CCAAGGTGGGGCTGGGCTCGACGTAGACACAGTGCTAACCTGTCCCACCT  24650
+                       ||           |  ||  |  |    |  |      ||   | || 
+HUMOCLHMB        633 --AA-----------G--CG--G--G----A--G------TG---C-CC-    646
+
+11             24651 GATTTCCAGGTATGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAGA  24700
+                     |   |||    |      |||  |            |           | 
+HUMOCLHMB        647 G---TCC----A------TCT--T------------T-----------G-    657
+
+11             24701 AAAACTGAGGAATCAGAGAAGACAGGCCAGCAACACACCTAGTCATATTC  24750
+                         ||      |            |   |           |  | |   
+HUMOCLHMB        658 ----CT------T------------G---G-----------G--A-A---    665
+
+11             24751 CTATCAGCAGTAGTTTCAGCACCAGTGTCTACCAACCAATTCCACAACCC  24800
+                       |||  |    |    || | ||  |           |||         
+HUMOCLHMB        666 --ATC--C----G----AG-A-CA--G-----------ATT---------    679
+
+11             24801 ACCACACCGGGTAATTTGAAATACTAATACTACGAATCAATGTCTTTAAA  24850
+                          | |        ||            | |    |   |       |
+HUMOCLHMB        680 -----A-C--------TG------------T-C----C---G-------A    688
+
+11             24851 CCTGTTTGCTCCGGGCTCTGACTCTCACTCTGACTACTGTCATTTCTCTT  24900
+                                  ||    |           |      |       || |
+HUMOCLHMB        689 -------------GG----G-----------G------G-------TC-T    696
+
+11             24901 GCCCTCAGTTTCCTCCTTCACATCTGGCTCCATGTTGGGCCGAACAGACA  24950
+                     |   | |        |  || | |  |    |   |           | |
+HUMOCLHMB        697 G---T-A--------C--CA-A-C--G----A---T-----------A-A    709
+
+11             24951 CAGCCCTCACAAACACCTACAGCGCTCTGCCGCCTATGCCCAGCTTCACC  25000
+                     ||    |       ||| | ||||   |   |    |   ||   |||  
+HUMOCLHMB        710 CA----T-------ACC-A-AGCG---T---G----T---CA---TCA--    728
+
+11             25001 ATGGCAAATAACCTGCCTATGCAAGTAAGTGCGGCTGGTGGTGGCCTGCA  25050
+                     ||     | ||     | | |  |||   |    |   |  |   | || 
+HUMOCLHMB        729 AT-----A-AA-----C-A-G--AGT---T----C---T--T---C-GC-    746
+
+11             25051 TAACCCAGGCCCCAGAGAAGTGAGGAGTGGCTCAGGGCCTGCGGACCTCA  25100
+                       |   |    ||              ||||| |      || |     |
+HUMOCLHMB        747 --A---A----CC--------------TGGCT-A------GC-G-----A    760
+
+11             25101 TTGGCTGTGTCTGCACCCTTGAGAGCTTTTCGCACTACAGTGATTGGCTT  25150
+                                   |      | |       |||  |||  ||      |
+HUMOCLHMB        761 --------------A------A-A-------GCA--ACA--GA------T    772
+
+11             25151 GACCAGTCAAGTCGGAGACAGTCAATCCCATCACTTTTAAGTGATTGACT  25200
+                     |    |    | |   | |||           ||        |   |   
+HUMOCLHMB        773 G----G----G-C---G-CAG-----------AC--------G---G---    784
+
+11             25201 CATTAATTCATGCCCTAAAAAAATGAGTAATAAAAATCTGTCCAGTTTTG  25250
+                             ||||   |      ||  |        |    |  |      
+HUMOCLHMB        785 --------CATG---T------AT--G--------A----T--A------    795
+
+11             25251 TCAGGTTGATCTGCCTTTTATTATACTGTTACCTTGATAATGTTGGGTGG  25300
+                       |     |     |      || |  |       |   |       | |
+HUMOCLHMB        796 --A-----A-----C------TA-A--G-------G---A-------T-G    806
+
+11             25301 TGGTGGGGCATGTTTTGGGTACCAGGGAGCCTTGCACCAGAAAGTGGAAA  25350
+                     |  |   | |          | |   | |    |   |            
+HUMOCLHMB        807 T--T---G-A----------A-C---G-G----G---C------------    816
+
+11             25351 TAATGCTGGCACATTATCAGATAGCAGATTAGTAGTTTAAAATTTGGGTT  25400
+                       |     |      | |      |                     ||  
+HUMOCLHMB        817 --A-----G------A-C------C---------------------GG--    823
+
+11             25401 TATATTAATGTGTTTGTATGCTAAATATAGAATCTGTGCACGCATTTGGG  25450
+                            |         | ||      | |     | |   |||      
+HUMOCLHMB        824 -------A---------A-GC------T-G-----G-G---GCA------    834
+
+11             25451 GCATTACTTTGGGTATATGTGATAAACTAGTGAGAAAGAAAAAAGGATCA  25500
+                      |    |                   |                  |  | 
+HUMOCLHMB        835 -C----C-------------------C------------------G--C-    839
+
+11             25501 GAAATGGGATTCATATTTACATGGTGAGATATACATAATATAATGAGAAT  25550
+                                |       |    || |            |  |  |   
+HUMOCLHMB        840 -----------C-------C----TG-G------------T--T--G---    847
+
+11             25551 GCTAGTTTTCTGTCTGTATCTACAATAAGAAAAGGCATAGCAGGTATTTG  25600
+                     | ||    ||   | |            |    ||   | |      || 
+HUMOCLHMB        848 G-TA----TC---C-G------------G----GG---A-C------TT-    861
+
+11             25601 CTGGAAATTTAGTGTGTCTTTGCTGTGAATGGTGTGACGAGTTTGTGGCC  25650
+                     |          | ||| |    |     |  | | | | |          
+HUMOCLHMB        862 C----------G-GTG-C----C-----A--G-G-G-C-A----------    874
+
+11             25651 CTCCTAGCTGCCTGGGAAGCTTGATGCTATTCACTTGGTATGACAGCCTG  25700
+                          |    |||    | |     || |   |    | |||   | |||
+HUMOCLHMB        875 -----A----CCT----A-C-----GC-A---A----G-ATG---G-CTG    892
+
+11             25701 CCTCTCCTCTTAGTTCTGTCCCAAATATCTATTAGCCCCTACATTTAGAG  25750
+                           | |  |     |          |    |      ||      | 
+HUMOCLHMB        893 ------C-C--A-----G----------C----A------AC------A-    901
+
+11             25751 GTCCTGCACTAGGTTCACCCTTTATGATGTAAGTTGGATAAGGCAGATGG  25800
+                     |    | |  |||          | |  |   |  ||   | | |||   
+HUMOCLHMB        902 G----G-A--AGG----------A-G--G---G--GG---A-G-AGA---    918
+
+11             25801 TTTGTACTAGACCTTTGTTGCTGGATGGATTCTTGATAGGAAAAATGTCT  25850
+                          | |  |         |          |           ||   | 
+HUMOCLHMB        919 -----A-T--A---------C----------C-----------AA---C-    926
+
+11             25851 GTCTTCTGGTAGGCCTTTCCCAGTGGTTTTCCTAGAACTCCTGTTTGTGC  25900
+                      ||  |    |      |  ||   |      |     | |        |
+HUMOCLHMB        927 -TC--C----A------T--CA---G------T-----T-C--------C    938
+
+11             25901 AACAATTAGAGATATTAGATGGTACGATATTGGCCAGCATGAGCCTCTGC  25950
+                     |||     | |     |||    | |  |||      |   |        
+HUMOCLHMB        939 AAC-----G-G-----AGA----A-G--ATT------C---A--------    953
+
+11             25951 TGGAAACAGTTCTGGGGCTACACTGATTGTTTATTCTCCATTGAACATTT  26000
+                       |    |    |   |    |  |   |      || |    || |   
+HUMOCLHMB        954 --G----A----T---G----A--G---G------CT-C----AA-A---    966
+
+11             26001 TTTGCTGGATTTCAAATCCAAATAACAGCAAAATAAATGTTTCACAGTCT  26050
+                       |||  ||   |   |     |  ||||        ||      |    
+HUMOCLHMB        967 --TGC--GA---C---T-----T--CAGC--------TG------A----    981
+
+11             26051 TCAGACTAATATAGGAGCAGCTAGATAAGCAACTTCAGAGGAATTATTCA  26100
+                       || |       |||  |||    |  || |    | | |||  | |  
+HUMOCLHMB        982 --AG-C-------GGA--AGC----T--GC-A----A-A-GAA--A-T--   1001
+
+11             26101 CATGTTTATTTTTATTGCATCTGGATATTGTTGGCCATAGTGCAATTGAT  26150
+                      | |         |    | |     |    |   |      |       
+HUMOCLHMB       1002 -A-G---------A----A-C-----A----T---C------C-------   1010
+
+11             26151 GTAAATTAAGGGATTAACAGCCCATTAGTTGGTGTTGCTATAACTGCGTT  26200
+                           |      ||   | ||||  |         |     |       
+HUMOCLHMB       1011 ------T------TT---A-CCCA--A---------G-----A-------   1021
+
+11             26201 GGAATTTTCCAGAAGTCAGGTTGCCTAGAGGAACTCATTGCAGGAATTAG  26250
+                      |       |  ||   |   |   | ||||  | |    |      | |
+HUMOCLHMB       1022 -G-------C--AA---A---T---T-GAGG--C-C----C------T-G   1037
+
+11             26251 AAACAAATGCAAGCTGAAATTCTGGCAGGCCCTCAAGGCCTGTTTGCCTC  26300
+                             |  |   | ||       | |      |         |    
+HUMOCLHMB       1038 --------G--A---G-AA-------A-G------A---------G----   1046
+
+11             26301 TTTGAACTTGATGTTAGCATTCATCATCTGACTTTAATAAGGCCACAGAG  26350
+                     |||| |   || |  |  |  |  |  |  |   |  |          | 
+HUMOCLHMB       1047 TTTG-A---GA-G--A--A--C--C--C--A---T--T----------A-   1063
+
+11             26351 TGTCTCGTTCAGTTTCATGTATTATAACAACATCCAGGTTTCTGTGAAGA  26400
+                         ||   |||    |||             |    |    | |     
+HUMOCLHMB       1064 ----TC---CAG----ATG-------------T----G----T-T-----   1075
+
+11             26401 TAGCAAAATGTGTATGTGAGAAAATAATAAGACGAACAAGTAGATGCTGC  26450
+                     | ||                            |   |     ||    | 
+HUMOCLHMB       1076 T-GC----------------------------C---C-----GA----G-   1083
+
+11             26451 AATTATATTAGGGCTGTTTCCACATACAGAGCGGTATGGGGAATCAATCT  26500
+                         | |  |     |     || |    |||   |    |         
+HUMOCLHMB       1084 ----A-A--A-----G-----AC-T----AGC---A----G---------   1095
+
+11             26501 ATTTCAAACACTGACTTTTAAAAATTACATAATTTGTATAATTCAAAAAG  26550
+                               |   |       ||  | || |   |    | ||      
+HUMOCLHMB       1096 ----------C---C-------AA--A-AT-A---G----A-TC------   1107
+
+11             26551 TACATGCATTCATTAAGCATAAAGAAAATCAAAATGATCAATAACTTTAC  26600
+                     |  |  |   |  |  |    |||     |  || |      ||   || 
+HUMOCLHMB       1108 T--A--C---C--T--G----AAG-----C--AA-G------AA---TA-   1124
+
+11             26601 TCTTCAGAGAAAACTACTCTTTGAATTTTGGAGTGGGTGAGCCCGATTGT  26650
+                         |  ||             |     |  |     |  |   |  | |
+HUMOCLHMB       1125 ----C--AG-------------G-----T--A-----T--G---G--T-T   1135
+
+11             26651 CTATCCATTTATTCATTCTCTTGACCAAAATCATCATTTTACAAATGGTG  26700
+                      | | |   ||   |   ||  |                    ||     
+HUMOCLHMB       1136 -T-T-C---TA---A---TC--G--------------------AA-----   1146
+
+11             26701 GGTGTCTTCCTCTGGACCTTCTCTGATATGCTTCCCTCTCTGAGCATATG  26750
+                                   |         |    |         |    |     
+HUMOCLHMB       1147 --------------G---------G----G---------C----C-----   1151
+
+11             26751 GATTTTGGAAATTAAACATTTCTCCAGTTTGCAGAGAAGAGAAATGATAG  26800
+                                    | |       |   |        | |  | || ||
+HUMOCLHMB       1152 ---------------A-A-------A---T--------G-G--A-GA-AG   1162
+
+11             26801 TATACTGTACTATCATCTGACCTGCTTGTTCCCGACACACTTCTTTTAAT  26850
+                        |  |       |    |             |              | 
+HUMOCLHMB       1163 ---A--G-------A----A-------------G--------------A-   1168
+
+11             26851 TCATCCCAAGTTTGCTGCCATGGCATAGTACCATGAGAGCTCATGAGGCG  26900
+                       |    ||          |   | | |    | | ||    ||    | 
+HUMOCLHMB       1169 --A----AA----------A---C-T-G----A-G-GA----AT----C-   1182
+
+11             26901 TTTTGTTAGGAGAAAGGTTTACCTCCTCAGTGCTGCCATTCCGAACAGTT  26950
+                            | ||| || |   |      ||     |       |  |    
+HUMOCLHMB       1183 -------A-GAG-AA-G---A------CA-----G-------G--C----   1195
+
+11             26951 CGAGGGTAGCAACAGTTTTCTAGTTATAAGTCAGTCTGGGCTTTTGGGTC  27000
+                     |      ||| | |     |        |  ||       |        |
+HUMOCLHMB       1196 C------AGC-A-A-----C--------A--CA-------C--------C   1207
+
+11             27001 TGTTAGGAAGTCATGGTTAATTCTCAGGATGGAGGTCGTTATATTTACTA  27050
+                        |    |||||    | | | ||           |        || | 
+HUMOCLHMB       1208 ---T----AGTCA----T-A-T-TC-----------C--------TA-T-   1222
+
+11             27051 ACACTTCTGATCACTTTAACTTGGGGTCATTACAGATCTGCTTCTTCAAA  27100
+                      ||     |    |    |      |    |    |   |  | |||  |
+HUMOCLHMB       1223 -CA-----G----C----A------G----T----A---G--T-TTC--A   1236
+
+11             27101 GAATCTTTAATCCCATCAGTGAAAGGTTCCCAAGGTCCCTGAACCATACT  27150
+                     |   |    |   |  |      | | |      |    |    | ||| 
+HUMOCLHMB       1237 G---C----A---C--C------A-G-T------G----T----C-TAC-   1250
+
+11             27151 TTACTGAGAGCTCCTCCCACTGCTCTCTGTCCCAAAGCTTGAGATATGGG  27200
+                        |    |         |             |    |     | ||   
+HUMOCLHMB       1251 ---C----A---------A-------------C----C-----A-AT---   1258
+
+11             27201 CTCTGGGGGTCATAGGGTTCCCAAATAAATCCAGATTTGCAGGGAGAGGG  27250
+                      ||       |  |       |     || ||       |          
+HUMOCLHMB       1259 -TC-------C--A-------C-----AA-CC-------C----------   1268
+
+11             27251 GATGTGTTTTGATGAAGGTCCTCATGCTATAGGTTCTTCAAAGATGCTAG  27300
+                                    |      |   |   |       |    |  |   
+HUMOCLHMB       1269 ---------------A------C---C---A-------C----A--C---   1275
+
+11             27301 CAGAGGTTAGAGACAAAAATCCTATTAATTTATGGATAGTGGCAACCATC  27350
+                     |   ||||           |||                 |     || | 
+HUMOCLHMB       1276 C---GGTT-----------TCC-----------------T-----CC-T-   1287
+
+11             27351 TAGCTGGACAGTTGTCAGAACCTAAAGTGCTTTAGAGGCTTGATACATAG  27400
+                     |  |   |||    |      ||   | ||  |     |      |||  
+HUMOCLHMB       1288 T--C---ACA----T------CT---G-GC--T-----C------CAT--   1303
+
+11             27401 GCAGCTTTCTTCTAGCTGTGGCCAGTGGAAGGACTAGCTCGAGGCCCAAT  27450
+                        |        |   || ||||  |      |  |   | | |    | 
+HUMOCLHMB       1304 ---G--------T---TG-GGCC--T------A--A---C-A-G----A-   1318
+
+11             27451 CTTAGATTTATCATATGGAATTCCAGTACTTCACGTGAAGGCATCTTTAA  27500
+                     |        | |  |  |    ||    | ||||   ||   | |     
+HUMOCLHMB       1319 C--------A-C--A--G----CC----C-TCAC---AA---A-C-----   1334
+
+11             27501 TGATCAGACTTGTTGGCAGAGTTCCTCGGGAGGAGGGAGCCTGGGGCTGT  27550
+                       | |   |    |     |      |          |       ||   
+HUMOCLHMB       1335 --A-C---C----T-----A------C----------A-------GC---   1343
+
+11             27551 GGCTGTGTGATGTGTTCCTCAGTAACCACAGGTTTGCCTCTCTCCTCACA  27600
+                      ||            | ||  |    | |      |       |||    
+HUMOCLHMB       1344 -GC------------T-CT--G----C-C------G-------CCT----   1355
+
+11             27601 GCCCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGCATGCTGCCCACCA  27650
+                           | |         |    || |  |     || |  |      ||
+HUMOCLHMB       1356 ------A-T---------G----CC-C--A-----GC-T--T------CA   1368
+
+11             27651 GCCCTTCGGTGAATGGGCGGAGTTATGATACCTACACCCCCCCACATATG  27700
+                        |  |     ||       |    |               || | || 
+HUMOCLHMB       1369 ---C--C-----AT-------G----G---------------CA-A-AT-   1379
+
+11             27701 CAGACACACATGAACAGTCAGCCAATGGGCACCTCGGGCACCACTTCAAC  27750
+                          | ||     |  |  |||  |    |  |   |||  ||  |  |
+HUMOCLHMB       1380 -----A-AC-----C--T--GCC--T----A--T---GCA--AC--C--C   1397
+
+11             27751 AGGTGAGCCACTGCTTTCTGCAGGCTGCACAGAGGCGATCTCTCTTCACT  27800
+                            |||  |     | |   |  | |  |   |         | | 
+HUMOCLHMB       1398 -------CCA--G-----T-C---C--C-C--A---G---------C-C-   1410
+
+11             27801 AGAAGTTTACCCAAACAGAATCTCCTGGTCTTATGGGAGGGCGTGTTTAA  27850
+                        ||         ||     ||||   ||       |         | |
+HUMOCLHMB       1411 ---AG---------AC-----CTCC---TC-------A---------T-A   1423
+
+11             27851 CTCCTTGCTTTCCTTGTCCCTGGGGGATGGGGATTGAAAAGGGAAATTCA  27900
+                                 |   | ||              |       |     ||
+HUMOCLHMB       1424 ------------C---T-CC--------------T-------G-----CA   1431
+
+11             27901 GTTAAGCTAATTAGTAACTTTACACCATATAGACAAAAACTAAAATTGTT  27950
+                       |  ||    | |        | ||      ||     |    |  |  
+HUMOCLHMB       1432 --T--GC----T-G--------C-CC------AC-----C----A--G--   1444
+
+11             27951 TTTCCTGAATTTGGTCACAAAAGTTGTGTATGAAGACAAGGCCTGAGACT  28000
+                         |          | |          | |           | | |  |
+HUMOCLHMB       1445 ----C----------C-C----------T-T-----------C-G-G--T   1453
+
+11             28001 GCAAGTTTTCTGAGGACAGATTATTAGACGAAGCTCAGTAGGGGGCCCAC  28050
+                     | ||      |   |   |       | ||  |   |||           
+HUMOCLHMB       1454 G-AA------T---G---G-------G-CG--G---AGT-----------   1466
+
+11             28051 TGAGCTGTAGGTGCGTGCTTGTTGAAATGCTTCTTGCCCTCATAGCTCCT  28100
+                     | |  || |             |   |           | | ||      
+HUMOCLHMB       1467 T-A--TG-A-------------T---A-----------C-C-TA------   1477
+
+11             28101 CTAGACCTTTTGCTGGAAATAAAAAGTGACACATTGGTTTTCCAGAGACA  28150
+                     |   | |     |                | |         ||     ||
+HUMOCLHMB       1478 C---A-C-----C----------------C-C---------CC-----CA   1487
+
+11             28151 GCTTTATTGTAAAAGTTCCAAACATGCAAACAAACAGAGGATTTTTTTTT  28200
+                      |           |  |      |||        |  | ||         
+HUMOCLHMB       1488 -C-----------A--T------ATG--------C--A-GA---------   1497
+
+11             28201 TCTTTTCCTTTGGATTGGGGTGGGGGGTACTTGGGATCCAATAGGTATAT  28250
+                            |                    ||     |  | ||  |     
+HUMOCLHMB       1498 -------C--------------------AC-----A--C-AT--G-----   1505
+
+11             28251 ATACATATATTGTCTAGTTTCTGAAGGTGCTACTTTTATTTGTAACAATT  28300
+                             |      |    |   |   | | |    |   |   |    
+HUMOCLHMB       1506 --------A------A----C---A---G-T-C----A---G---C----   1515
+
+11             28301 GAAGTGATTTTAATACAGTAAAAAATGTTAGAAAGTATTAGTTTTTTTTT  28350
+                                    |                 |  | | |         
+HUMOCLHMB       1516 ---------------C-----------------A--A-T-G---------   1520
+
+11             28351 TTTTTTTTTTTTTTGTAAACCTATAAATTTGTATTCCATGTCTGTTTCTC  28400
+                                   |               |     ||   |     |||
+HUMOCLHMB       1521 --------------G---------------G-----CA---C-----CTC   1528
+
+11             28401 AAAGGGAATATCTACATGGCTATTTCTTTCATCCACTTCTAGGACTCATT  28450
+                        |||     | ||    | |   | ||||   |   | ||||||||||
+HUMOCLHMB       1529 ---GGG-----C-AC----C-A---C-TTCA---A---C-AGGACTCATT   1553
+
+11             28451 TCCCCTGGTGTGTCAGTTCCAGTTCAAGTTCCCGGAAGTGAACCTGATAT  28500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HUMOCLHMB       1554 TCCCCTGGTGTGTCAGTTCCAGTTCAAGTTCCCGGAAGTGAACCTGATAT   1603
+
+11             28501 GTCTCAATACTGGCCAAGATTACAGTAAAAAAAAAAAAAAAAAAAAAAAG  28550
+                     ||||||||||||||||||||||||||||||||||||||||          
+HUMOCLHMB       1604 GTCTCAATACTGGCCAAGATTACAGTAAAAAAAAAAAAAA----------   1643
+
+11             28551 GAAAGGAAATATTGTGTTAATTCAGTCAGTGACTATGGGGACACAACAGT  28600
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28601 TGAGCTTTCAGGAAAGAAAGAAAAATGGCTGTTAGAGCCGCTTCAGTTCT  28650
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28651 ACAATTGTGTCCTGTATTGTACCACTGGGGAAGGAATGGACTTGAAACAA  28700
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28701 GGACCTTTGTATACAGAAGGCACGATATCAGTTGGAACAAATCTTCATTT  28750
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28751 TGGTATCCAAACTTTTATTCATTTTGGTGTATTATTTGTAAATGGGCATT  28800
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28801 TGTATGTTATAATGAAAAAAAGAACAATGTAGACTGGATGGATGTTTGAT  28850
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28851 CTGTGTTGGTCATGAAGTTGTTTTTTTTTTTTTTAAAAAGAAAACCATGA  28900
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28901 TCAACAAGCTTTGCCACGAATTTAAGAGTTTTATCAAGATATATCGAATA  28950
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             28951 CTTCTACCCATCTGTTCATAGTTTATGGACTGATGTTCCAAGTTTGTATC  29000
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29001 ATTCCTTTGCATATAATTAAACCTGGAACAACATGCACTAGATTTATGTC  29050
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29051 AGAAATATCTGTTGGTTTTCCAAAGGTTGTTAACAGATGAAGTTTATGTG  29100
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29101 CAAAAAAGGGTAAGATATAAATTCAAGGAAGAAAAAAAGTTGATAGCTAA  29150
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29151 AAGGTAGAGTGTGTCTTCGATATAATCCAATTTGTTTTATGTCAAAATGT  29200
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29201 AAGTATTTGTCTTCCCTAGAAATCCTCAGAATGATTTCTATAATAAAGTT  29250
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29251 AATTTCATTTATATTTGACAAGAATATAGATGTTTTATACACATTTTCAT  29300
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29301 GCAATCATACGTTTCTTTTTTGGCCAGCAAAAGTTAATTGTTCTTAGATA  29350
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29351 TAGTTGTATTACTGTTCACGGTCCAATCATTTTGTGCATCTAGAGTTCAT  29400
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29401 TCCTAATCAATTAAAAGTGCTTGCAAGAGTTTTAAACTTAAGTGTTTTGA  29450
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29451 AGTTGTTCACAACTACATATCAAAATTAACCATTGTTGATTGTAAAAAAC  29500
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29501 CATGCCAAAGCCTTTGTATTTCCTTTATTATACAGTTTTCTTTTTAACCT  29550
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29551 TATAGTGTGGTGTTACAAATTTTATTTCCATGTTAGATCAACATTCTAAA  29600
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29601 CCAATGGTTACTTTCACACACACTCTGTTTTACATCCTGATGATCCTTAA  29650
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29651 AAAATAATCCTTATAGATACCATAAATCAAAAACGTGTTAGAAAAAAATT  29700
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29701 CCACTTACAGCAGGGTGTAGATCTGTGCCCATTTATACCCACAACATATA  29750
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29751 TACAAAATGGTAACATTTCCCAGTTAGCCATTTAATTCTAAAGCTCAAAG  29800
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29801 TCTAGAAATAATTTAAAAATGCAACAAGCGATTAGCTAGGAATTGTTTTT  29850
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29851 TGAATTAGGACTGGCATTTTCAATCTGGGCAGATTTCCATTGTCAGCCTA  29900
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29901 TTTCAACAATGATTTCACTGAAGTATATTCAAAAGTAGATTTCTTAAAGG  29950
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             29951 AGACTTTCTGAAAGCTGTTGCCTTTTTCAAATAGGCCCTCTCCCTTTTCT  30000
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30001 GTCTCCCTCCCCTTTGCACAAGAGGCATCATTTCCCATTGAACCACTACA  30050
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30051 GCTGTTCCCATTTGAATCTTGCTTTCTGTGCGGTTGTGGATGGTTGGAGG  30100
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30101 GTGGAGGGGGGATGTTGCATGTCAAGGAATAATGAGCACAGACACATCAA  30150
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30151 CAGACAACAACAAAGCAGACTGTGACTGGCCGGTGGGAATTAAAGGCCTT  30200
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30201 CAGTCATTGGCAGCTTAAGCCAAACATTCCCAAATCTATGAAGCAGGGCC  30250
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30251 CATTGTTGGTCAGTTGTTATTTGCAATGAAGCACAGTTCTGATCATGTTT  30300
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30301 AAAGTGGAGGCACGCAGGGCAGGAGTGCTTGAGCCCAAGCAAAGGATGGA  30350
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30351 AAAAAATAAGCCTTTGTTGGGTAAAAAAGGACTGTCTGAGACTTTCATTT  30400
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30401 GTTCTGTGCAACATATAAGTCAATACAGATAAGTCTTCCTCTGCAAACTT  30450
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30451 CACTAAAAAGCCTGGGGGTTCTGGCAGTCTAGATTAAAATGCTTGCACAT  30500
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30501 GCAGAAACCTCTGGGGACAAAGACACACTTCCACTGAATTATACTCTGCT  30550
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30551 TTAAAAAAATCCCCAAAAGCAAATGATCAGAAATGTAGAAATTAATGGAA  30600
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30601 GGATTTAAACATGACCTTCTCGTTCAATATCTACTGTTTTTTAGTTAAGG  30650
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30651 AATTACTTGTGAACAGATAATTGAGATTCATTGCTCCGGCATGAAATATA  30700
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30701 CTAATAATTTTATTCCACCAGAGTTGCTGCACATTTGGAGACACCTTCCT  30750
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30751 AAGTTGCAGTTTTTGTATGTGTGCATGTAGTTTTGTTCAGTGTCAGCCTG  30800
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30801 CACTGCACAGCAGCACATTTCTGCAGGGGAGTGAGCACACATACGCACTG  30850
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30851 TTGGTACAATTGCCGGTGCAGACATTTCTACCTCCTGACATTTTGCAGCC  30900
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30901 TACATTCCCTGAGGGCTGTGTGCTGAGGGAACTGTCAGAGAAGGGCTATG  30950
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             30951 TGGGAGTGCATGCCACAGCTGCTGGCTGGCTTACTTCTTCCTTCTCGCTG  31000
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31001 GCTGTAATTTCCACCACGGTCAGGCAGCCAGTTCCGGCCCACGGTTCTGT  31050
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31051 TGTGTAGACAGCAGAGACTTTGGAGACCCGGATGTCGCACGCCAGGTGCA  31100
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31101 AGAGGTGGGAATGGGAGAAAAGGAGTGACGTGGGAGCGGAGGGTCTGTAT  31150
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31151 GTGTGCACTTGGGCACGTATATGTGTGCTCTGAAGGTCAGGATTGCCAGG  31200
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31201 GCAAAGTAGCACAGTCTGGTATAGTCTGAAGAAGCGGCTGCTCAGCTGCA  31250
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31251 GAAGCCCTCTGGTCCGGCAGGATGGGAACGGCTGCCTTGCCTTCTGCCCA  31300
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31301 CACCCTAGGGACATGAGCTGTCCTTCCAAACAGAGCTCCAGGCACTCTCT  31350
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31351 TGGGGACAGCATGGCAGGCTCTGTGTGGTAGCAGTGCCTGGGAGTTGGCC  31400
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31401 TTTTACTCATTGTTGAAATAATTTTTGTTTATTATTTATTTAACGATACA  31450
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31451 TATATTTATATATTTATCAATGGGGTATCTGCAGGGATGTTTTGACACCA  31500
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31501 TCTTCCAGGATGGAGATTATTTGTGAAGACTTCAGTAGAATCCCAGGACT  31550
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31551 AAACGTCTAAATTTTTTCTCCAAACTTGACTGACTTGGGAAAACCAGGTG  31600
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31601 AATAGAATAAGAGCTGAATGTTTTAAGTAATAAACGTTCAAACTGCTCTA  31650
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31651 AGTAAAAAAATGCATTTTACTGCAATGAATTTCTAGAATATTTTTCCCCC  31700
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31701 AAAGCTATGCCTCCTAACCCTTAAATGGTGAACAACTGGTTTCTTGCTAC  31750
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31751 AGCTCACTGCCATTTCTTCTTACTATCATCACTAGGTTTCCTAAGATTCA  31800
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31801 CTCATACAGTATTATTTGAAGATTCAGCTTTGTTCTGTGAATGTCATCTT  31850
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31851 AGGATTGTGTCTATATTCTTTTGCTTATTTCTTTTTACTCTGGGCCTCTC  31900
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31901 ATACTAGTAAGATTTTAAAAAGCCTTTTCTTCTCTGTATGTTTGGCTCAC  31950
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             31951 CAAGGCGAAATATATATTCTTCTCTTTTTCATTTCTCAAGAATAAACCTC  32000
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32001 ATCTGCTTTTTTGTTTTTCTGTGTTTTGGCTTGGTACTGAATGACTCAAC  32050
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32051 TGCTCGGTTTTAAAGTTCAAAGTGTAAGTACTTAGGGTTAGTACTGCTTA  32100
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32101 TTTCAATAATGTTGACGGTGACTATCTTTGGAAAGCAGTAACATGCTGTC  32150
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32151 TTAGAAATGACATTAATAATGGGCTTAAACAAATGAATAGGGGGGTCCCC  32200
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32201 CCACTCTCCTTTTGTATGCCTATGTGTGTCTGATTTGTTAAAAGATGGAC  32250
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32251 AGGGAATTGATTGCAGAGTGTCGCTTCCTTCTAAAGTAGTTTTATTTTGT  32300
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32301 CTACTGTTAGTATTTAAAGATCCTGGAGGTGGACATAAGGAATAAATGGA  32350
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32351 AGAGAAAAGTAGATATTGTATGGTGGCTACTAAAAGGAAATTCAAAAAGT  32400
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32401 CTTAGAACCCGAGCACCTGAGCAAACTGCAGTAGTCAAAATATTTATCTC  32450
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32451 ATGTTAAAGAAAGGCAAATCTAGTGTAAGAAATGAGTACCATATAGGGTT  32500
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32501 TTGAAGTTCATATACTAGAAACACTTAAAAGATATCATTTCAGATATTAC  32550
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32551 GTTTGGCATTGTTCTTAAGTATTTATATCTTTGAGTCAAGCTGATAATTA  32600
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32601 AAAAAAATCTGTTAATGGAGTGTATATTTCATAATGTATCAAAATGGTGT  32650
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32651 CTATACCTAAGGTAGCATTATTGAAGAGAGATATGTTTATGTAGTAAGTT  32700
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32701 ATTAACATAATGAGTAACAAATAATGTTTCCAGAAGAAAGGAAAACACAT  32750
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32751 TTTCAGAGTGCGTTTTTATCAGAGGAAGACAAAAATACACACCCCTCTCC  32800
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32801 AGTAGCTTATTTTTACAAAGCCGGCCCAGTGAATTAGAAAAACAAAGCAC  32850
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32851 TTGGATATGATTTTTGGAAAGCCCAGGTACACTTATTATTCAAAATGCAC  32900
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32901 TTTTACTGAGTTTGAAAAGTTTCTTTTATATTTAAAATAAGGGTTCAAAT  32950
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             32951 ATGCATATTCAATTTTTATAGTAGTTATCTATTTGCAAAGCATATATTAA  33000
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33001 CTAGTAATTGGCTGTTAATTTTATAGACATGGTAGCCAGGGAAGTATATC  33050
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33051 AATGACCTATTAAGTATTTTGACAAGCAATTTACATATCTGATGACCTCG  33100
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33101 TATCTCTTTTTCAGCAAGTCAAATGCTATGTAATTGTTCCATTGTGTGTT  33150
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33151 GTATAAAATGAATCAACACGGTAAGAAAAAGGTTAGAGTTATTAAAATAA  33200
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33201 TAAACTGACTAAAATACTCATTTGAATTTATTCAGAATGTTCATAATGCT  33250
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33251 TTCAAAGGACATAGCAGAGCTTTTGTGGAGTATCCGCACAACATTATTTA  33300
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33301 TTATCTATGGACTAAATCAATTTTTTGAAGTTGCTTTAAAATTTAAAAGC  33350
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33351 ACCTTTGCTTAATATAAAGCCCTTTAATTTTAACTGACAGATCAATTCTG  33400
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33401 AAACTTTATTTTGAAAAGAAAATGGGGAAGAATCTGTGTCTTTAGAATTA  33450
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33451 AAAGAAATGAAAAAAATAAACCCGACATTCTAAAAAAATAGAATAAGAAA  33500
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33501 CCTGATTTTTAGTACTAATGAAATAGCGGGTGACAAAATAGTTGTCTTTT  33550
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33551 TGATTTTGATCACAAAAAATAAACTGGTAGTGACAGGATATGATGGAGAG  33600
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33601 ATTTGACATCCTGGCAAATCACTGTCATTGATTCAATTATTCTAATTCTG  33650
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33651 AATAAAAGCTGTATACAGTATGTGTTTATGCTACAGTGGGTTTTTTTAAG  33700
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33701 TGACTGACATTCATCATATTGGTTAGACAGTTTTAAAAACCTAGTCTTTG  33750
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33751 TTTTCTACAATGTTGTCAAGAACAAATAAAGTATAATTTGTGGTATATTA  33800
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33801 AAAGCAAGCTGCTTAAAAATGCTAGTTATAACTGCTTCAAAATATTAAAT  33850
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33851 ACATTTGAAAATGTATTTTGGAAATTCAGTTTCTCCCAATGGATGTTAAA  33900
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33901 CACCTTTTAAAAAATCAAGACTCTTAAATATGCAAGTTACTTTTCAACTT  33950
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             33951 TCATTTTTTATCCATTATCTGTCAAAAGCTTTGAGAATATAGAATTGTAA  34000
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             34001 TTAAAACACCTAATGTTTCATATGAAAACTGGTTCGATATGCTATACCCC  34050
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             34051 CCAAAGACATGTTTACATGGTTAGAAATTTACACACTCAACCAATGTTCA  34100
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             34101 TTATTAACAAAATATTTATGTGATGCAATGGAAATCTGAGTTAGTTTCAT  34150
+                                                                       
+HUMOCLHMB       1643 --------------------------------------------------   1643
+
+11             34151 TTTTTCACTTTGTCTCAGAC  34170
+                                         
+HUMOCLHMB       1643 --------------------   1643
+
+
+#---------------------------------------
+#---------------------------------------
