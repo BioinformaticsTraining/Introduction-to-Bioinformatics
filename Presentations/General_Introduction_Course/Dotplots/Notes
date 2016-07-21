@@ -1,0 +1,55 @@
+2016.01.17:
+===========
+
+Current contents are:
+
+657408 Feb 23  2004 2004.02.24_dotplots.ppt
+657408 Mar  8  2005 2005.03.08_dotplots.ppt
+657408 Apr  9  2008 2008.04.09_dotplots.ppt
+657408 Oct 23  2011 2011.10.23_dotplots.ppt
+
+All same size All look the same. All different according to diff?
+Wish there was a sensible way to compare this sort of file.
+In the meantime, I save them all ... and wonder why.
+
+Seem to have done this one all in one wonderful go? Including notes!
+Quite like it. Of course, it is too long and addresses a, practically at least, obsolete topic. But what the hell. I continue with dotplots to ensure understanding of the concept, and sliding windows, which help with other (possibly similalrly obsolete) topics.
+
+Some where along the line, I corrected an error in the EMBOSS DNA scoring matrix. Irritatingly, I can not see where!!! Probably the only meaningful difference between all these versions! Life can be like that? So it almost always is :-)
+
+2016.02.26 - 1:
+===============
+
+Now:
+
+ 657408 Feb 23  2004 2004.02.24_dotplots.ppt
+ 657408 Mar  8  2005 2005.03.08_dotplots.ppt
+ 657408 Apr  9  2008 2008.04.09_dotplots.ppt
+ 657408 Oct 23  2011 2011.10.23_dotplots.ppt
+1062400 Apr 14  2015 2015.04.14_dotplots.ppt
+
+What is the big one all about!!? Looks a bit different, but not in any important way. AH!! But this is the version that has the error in the DNA scoring amtrix fixed!!!
+
+All versions except for the 2015.04.14 version suggest, incorrectly:
+
+C <--> U scoring  5
+U <--> U scoring -4
+
+Only the 2015.04.14 version states, correctly:
+
+C <--> U scoring -4
+U <--> U scoring  5
+
+So, of the ones curently saved, only the 2015.04.14 version should be used! In as much as it matters :-(
+
+2016.02.26 - 2:
+===============
+
+Separated the flawed versions and found a new, smaller, older, correct version. What fun!
+
+   4096 Feb 17 16:55 2003.08.19-21_Pauls_Draft_Ideas
+   4096 Feb 26 15:24 2004.04.24-2011.10.23_DNA_Scoring_Matix_Error
+1056256 Mar 13  2013 2013.03.13_dotplots.ppt
+1062400 Apr 14  2015 2015.04.14_dotplots.ppt
+
+Marginally, I prefer the 2013.03.13 as the 2015.04.14 has some strange background shading in the thumbnails? Sure it does not matter though.
