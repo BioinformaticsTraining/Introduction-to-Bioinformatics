@@ -15,4 +15,6 @@ I hide redundant (but beautiful!) inessential slides.
 
 I mention windows in the dialogue without introducing the term.
 I say word or span earlier.
+Fixed, if a little clumsily.
+
 
