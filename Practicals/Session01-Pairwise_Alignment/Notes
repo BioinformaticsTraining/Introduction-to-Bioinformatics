@@ -1,4 +1,0 @@
-2016.12.02
-==========
-Elaborate on the blastx parameter to dynamically adjust the scoring matrix to reflect sequence composition. At least, I expect that is what it does? Fairly new unless I have not looked properly for a long time.
-
