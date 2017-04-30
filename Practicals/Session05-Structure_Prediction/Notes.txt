@@ -1,9 +1,16 @@
 2016.12.11:
 ===========
 
-Had to reintroduce a look at the UniProtKB 2D struture into the Databases exercise.
+Had to reintroduce a look at the UniProtKB 2D structure into the Databases exercise.
 Also cleared up a few bugs there ... including residual mentions of GeneCards.
 
 Need to check notes on Jalview colouring schemes ... I am no longer convinced!
+
+2017.04.30:
+===========
+
+Changed to JSmole ... which was painful but seemed to work. Jmol does not appear to work anymore? Me? Or Life moving on?
+
+Insufficient motivation to revisit the colouring scheme issues. Next time? Or maybe just accept what we do as sufficient?
 
 
