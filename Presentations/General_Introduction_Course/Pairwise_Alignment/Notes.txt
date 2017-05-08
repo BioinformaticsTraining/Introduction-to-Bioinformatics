@@ -1,4 +1,0 @@
-2016.07.21
-==========
-Version 1 is that saved on hancocks as 2010_11_03-03-Pairwise_Sequence_Alignment.ppt
-which is best guess at latest. Except I am pretty sure it is not.
