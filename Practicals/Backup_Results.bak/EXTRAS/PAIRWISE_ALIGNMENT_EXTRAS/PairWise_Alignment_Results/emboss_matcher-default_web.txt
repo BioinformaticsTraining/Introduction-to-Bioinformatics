@@ -1,0 +1,64 @@
+########################################
+# Program: matcher
+# Rundate: Sat 29 Apr 2017 10:09:25
+# Commandline: matcher
+#    -auto
+#    -stdout
+#    -asequence emboss_matcher-I20170429-100923-0400-42788971-pg.aupfile
+#    -bsequence emboss_matcher-I20170429-100923-0400-42788971-pg.bupfile
+#    -datafile EDNAFULL
+#    -gapopen 16
+#    -gapextend 4
+#    -alternatives 1
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 270
+# Identity:     248/270 (91.9%)
+# Similarity:   248/270 (91.9%)
+# Gaps:           5/270 ( 1.9%)
+# Score: 1128
+# 
+#
+#=======================================
+
+pax6_genomic   17471 CACTTCCCCTAT---GCAGGTGTCCAACGGATGTGTGAGTAAAATTCTGG  17517
+                     ||.|||||..||   |||||||||||||||||||||||||||||||||||
+M77844.1         485 CATTTCCCGAATTCTGCAGGTGTCCAACGGATGTGTGAGTAAAATTCTGG    534
+
+pax6_genomic   17518 GCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGGTAGT  17567
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         535 GCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGGTAGT    584
+
+pax6_genomic   17568 AAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGTATAA  17617
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         585 AAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGTATAA    634
+
+pax6_genomic   17618 GCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTACTGT  17667
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         635 GCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTACTGT    684
+
+pax6_genomic   17668 CCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTAAGTTCATTGAGA  17717
+                     |||||||||||||||||||||||||||||||||||||....|||.|.|..
+M77844.1         685 CCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTGTCATCAATAAAC    734
+
+pax6_genomic   17718 ACA--TCTGCCCTCCCTGCC  17735
+                     |.|  |||.|.|..||||.|
+M77844.1         735 AGAGTTCTTCGCAACCTGGC    754
+
+
+#---------------------------------------
+#---------------------------------------
