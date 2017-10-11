@@ -1,4 +1,4 @@
-LOCUS       NG_008679              40170 bp    DNA     linear   PRI 24-APR-2017
+LOCUS       NG_008679              40170 bp    DNA     linear   PRI 04-OCT-2017
 DEFINITION  Homo sapiens paired box 6 (PAX6), RefSeqGene (LRG_720) on
             chromosome 11.
 ACCESSION   NG_008679
@@ -37,18 +37,16 @@ REFERENCE   4  (bases 1 to 40170)
 REFERENCE   5  (bases 1 to 40170)
   AUTHORS   Bardakjian,T., Weiss,A. and Schneider,A.
   TITLE     Microphthalmia/Anophthalmia/Coloboma Spectrum
-  JOURNAL   (in) Pagon RA, Adam MP, Ardinger HH, Wallace SE, Amemiya A, Bean
-            LJH, Bird TD, Ledbetter N, Mefford HC, Smith RJH and Stephens K
-            (Eds.);
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
             GENEREVIEWS(R);
             (1993)
    PUBMED   20301552
 REFERENCE   6  (bases 1 to 40170)
   AUTHORS   Hingorani,M. and Moore,A.
   TITLE     Aniridia
-  JOURNAL   (in) Pagon RA, Adam MP, Ardinger HH, Wallace SE, Amemiya A, Bean
-            LJH, Bird TD, Ledbetter N, Mefford HC, Smith RJH and Stephens K
-            (Eds.);
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mefford
+            HC, Stephens K, Amemiya A and Ledbetter N (Eds.);
             GENEREVIEWS(R);
             (1993)
    PUBMED   20301534
