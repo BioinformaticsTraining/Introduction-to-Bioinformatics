@@ -51,7 +51,7 @@ Do Exercise 3
 
 Do Exercise 4
 
-[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf[/embed]
+[download this]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf
 
 Do Exercise 5
 
@@ -61,5 +61,5 @@ Do Exercise 6
 
 [embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf[/embed]
 
-[a relative link](Practical_PDFs/06-Multiple_Sequence_Alignment.pdf)
+[download this][a relative link](Practical_PDFs/06-Multiple_Sequence_Alignment.pdf)
 
