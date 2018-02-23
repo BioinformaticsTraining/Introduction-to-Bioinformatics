@@ -1,3 +1,13 @@
+<table style="width:100%">
+  <tr>
+    <td><img src="./Images/elixir_ita_logo.png" alt="yay" height="100" width="150">
+    </td>
+    <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100" width="250">
+    </td>
+  <tr/>
+</table>
+
+
 # Introduction
 Talks and Materials for "An Introduction to Bioinformatics"
 
