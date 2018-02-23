@@ -1,6 +1,6 @@
 <table style="width:100%">
   <tr>
-    <td><img src="./Images/elixir_ita_logo.png" alt="yay" height="100" width="150">
+    <td><img src="./Images/15046812.png" alt="yay" height="100" width="150">
     </td>
     <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100" width="250">
     </td>
@@ -32,7 +32,7 @@ Talks and Materials for "An Introduction to Bioinformatics"
 </ul>
 <p></p></details>
 
-
+nnnn
 
 Login to Room 32COU
 
