@@ -37,8 +37,29 @@ Login to Room 32COU
 [Unix Setup Quizz](https://b.socrative.com/login/student)
 
 
+Do Exercise 1
 
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf[\embed]
 
-[embed]./Practical_PDFs/00-Databases_Practical.pdf[\embed]
+Do Exercise 2
+
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/02-Pairwise_Alignment_Practical.pdf[\embed]
+
+Do Exercise 3
+
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/03-Database_Searching_Practical.pdf[\embed]
+
+Do Exercise 4
+
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf[\embed]
+
+Do Exercise 5
+
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/04-Primer_Design_Practical.pdf[\embed]
+
+Do Exercise 6
+
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf[\embed]
+
 
 
