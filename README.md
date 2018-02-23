@@ -55,7 +55,7 @@ Do Exercise 4
 
 Do Exercise 5
 
-[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/04-Primer_Design_Practical.pdf[/embed]
+[embed]./Practical_PDFs/04-Primer_Design_Practical.pdf bbbb[/embed]
 
 Do Exercise 6
 
