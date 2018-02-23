@@ -65,5 +65,11 @@ Do Exercise 6
 
 [embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf[/embed]
 
+
+#Exercise 6: Multiple Sequence Alignment
+
+Download the Exercise PDF and open it locally.
+You lose the links of you use the notes from the browser.
+
 [Download Practical 6 from Here](Practical_PDFs/06-Multiple_Sequence_Alignment.pdf)
 
