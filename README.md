@@ -12,7 +12,7 @@
 Talks and Materials for "An Introduction to Bioinformatics"
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <details><summary>Click Here to see the timetable</summary><p>
-  [download this][a relative link]Administration/ScheduleIBBBioinformatics.pdf)
+  [download this]Administration/ScheduleIBBBioinformatics.pdf)
 </details>
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
