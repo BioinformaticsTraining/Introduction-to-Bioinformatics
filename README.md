@@ -1,6 +1,6 @@
 <table style="width:100%">
   <tr>
-    <td><img src="./Images/15046812.png" alt="yay" height="100" width="140">
+    <td><img src="./Images/15046812.png" alt="yay" height="100" width="135">
     </td>
     <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100" width="250">
     </td>
@@ -13,6 +13,7 @@ Talks and Materials for "An Introduction to Bioinformatics"
 
 [View the Timetable Here](Administration/ScheduleIBBBioinformatics.pdf)
 
+[View the Timetable Here](Administration/ScheduleIBBBioinformatics.pdf)
 
 
 
