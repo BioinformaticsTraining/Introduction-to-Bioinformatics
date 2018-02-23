@@ -11,8 +11,13 @@
 # Introduction
 Talks and Materials for "An Introduction to Bioinformatics"
 
+<details><summary>Click Here to see the timetable</summary><p>
+  Administration/ScheduleIBBBioinformatics.pdf
+</details>
+
+
 <p><strong>QUESTION</strong>: Can you broadly describe commmon steps in most high throughput sequencing workflows?</p>
-<details><summary>Click Here to see the answer</summary><p>
+  <details><summary>Click Here to see the answer</summary><p>
 </p><ul>
 <li>
 <p>Extraction and purification of the DNA template (even RNA must usually be converted to cDNA)</p>
