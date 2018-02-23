@@ -24,16 +24,11 @@ Talks and Materials for "An Introduction to Bioinformatics"
 
 
 
-Login to Room 32COU
+Login to Room 32COUxxxxxxxxxxxxxxxxxx
 
-[Unix Setup Quizz](https://b.socrative.com/login/student){:target="_blank"}
+[Unix Setup Quizz](https://b.socrative.com/login/student)
 
-<a href="https://b.socrative.com/login/student/" target="_blank">Unix Setup Quizz</a>
-
-[link](https://b.socrative.com/login/student/" target="_blank)
-
-[Unix Setup Quizz](https://b.socrative.com/login/student" target="_blank)
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
