@@ -39,7 +39,7 @@ Login to Room 32COU
 
 Do Exercise 1
 
-[embed 1111111]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf[/embed]
+[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf 1111[/embed]
 
 Do Exercise 2
 
