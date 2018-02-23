@@ -51,7 +51,7 @@ Do Exercise 3
 
 Do Exercise 4
 
-[download this]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf
+[download this](https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf)
 
 Do Exercise 5
 
