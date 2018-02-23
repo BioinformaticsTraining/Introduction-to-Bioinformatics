@@ -10,11 +10,11 @@
 
 # Introduction
 Talks and Materials for "An Introduction to Bioinformatics"
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 <details><summary>Click Here to see the timetable</summary><p>
-  [download this]Administration/ScheduleIBBBioinformatics.pdf)
+  [download this](Administration/ScheduleIBBBioinformatics.pdf)
 </details>
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
 
 
 
