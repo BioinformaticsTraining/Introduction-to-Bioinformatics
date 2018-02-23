@@ -11,10 +11,7 @@
 # Introduction
 Talks and Materials for "An Introduction to Bioinformatics"
 
-<details><summary>Click Here to see the timetable</summary><p>
-  [download this](Administration/ScheduleIBBBioinformatics.pdf)
-</details>
-
+[View the Timetable Here](Administration/ScheduleIBBBioinformatics.pdf)
 
 
 
