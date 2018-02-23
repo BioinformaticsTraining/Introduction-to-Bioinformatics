@@ -23,3 +23,23 @@ Talks and Materials for "An Introduction to Bioinformatics"
 <p></p></details>
 
 
+
+Login to Room 32COU
+
+[Unix Setup Quizz](https://b.socrative.com/login/student){:target="_blank"}
+
+<a href="https://b.socrative.com/login/student/" target="_blank">Unix Setup Quizz</a>
+
+[link](https://b.socrative.com/login/student/" target="_blank)
+
+[Unix Setup Quizz](https://b.socrative.com/login/student" target="_blank)
+
+
+
+
+
+Do Exercise 1
+
+[embed]./Practicals/Session00_Databases/00-Databases_Practical.pdf[/embed]
+
+
