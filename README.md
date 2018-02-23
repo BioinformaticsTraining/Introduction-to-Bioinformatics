@@ -12,7 +12,7 @@
 Talks and Materials for "An Introduction to Bioinformatics"
 
 <details><summary>Click Here to see the timetable</summary><p>
-  Administration/ScheduleIBBBioinformatics.pdf
+  [embed]Administration/ScheduleIBBBioinformatics.pdf[/embed]
 </details>
 
 
