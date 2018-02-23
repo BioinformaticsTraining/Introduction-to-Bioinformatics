@@ -24,17 +24,13 @@ Talks and Materials for "An Introduction to Bioinformatics"
 
 
 
-Login to Room 32COUxxxxxxxxxxxxxxxxxx
+Login to Room 32COU
 
 [Unix Setup Quizz](https://b.socrative.com/login/student)
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-
-Do Exercise 1
-
-[embed]./Practicals/Session00_Databases/00-Databases_Practical.pdf[/embed]
+[Do Exercise 1]./Practicals/Session00_Databases/00-Databases_Practical.pdf
 
 
