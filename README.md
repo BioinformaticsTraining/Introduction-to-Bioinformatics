@@ -1,6 +1,6 @@
 <table style="width:100%">
   <tr>
-    <td><img src="./Images/15046812.png" alt="yay" height="100" width="150">
+    <td><img src="./Images/15046812.png" alt="yay" height="100" width="140">
     </td>
     <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100" width="250">
     </td>
@@ -32,8 +32,6 @@ Talks and Materials for "An Introduction to Bioinformatics"
 </ul>
 <p></p></details>
 
-nnnn
-
 Login to Room 32COU
 
 [Unix Setup Quizz](https://b.socrative.com/login/student)
@@ -41,6 +39,6 @@ Login to Room 32COU
 
 
 
-[Do Exercise 1]./Practicals/Session00_Databases/00-Databases_Practical.pdf
+[embed]./Practical_PDFs/00-Databases_Practical.pdf[\embed]
 
 
