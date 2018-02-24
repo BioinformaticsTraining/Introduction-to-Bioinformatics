@@ -58,7 +58,7 @@ Maybe simple download (or nothing) only option
 
 <a href="https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/03-Database_Searching_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
-<strong>Exercise 4: Primer Design<?strong>
+<strong>Exercise 4: Primer Design</strong>
 
 <a hef="https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/04-Primer_Design_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
