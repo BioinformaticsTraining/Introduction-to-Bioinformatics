@@ -39,6 +39,7 @@ Too early for detail, but would be good to keep rambling on track!!!
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/01-Databases_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
 Link to video for dotplots ... plus download for ppt/video (or maybe that in "all course logical tar"?)
+   <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version>
    <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/">Click here for a short video 
 Deal with Intro talk/ppt here
 ppt too involved for PDF ... Do not want to simplify ... Do want to split in at least 2
