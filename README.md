@@ -28,57 +28,44 @@ Talks and Materials for "An Introduction to Bioinformatics"
 A quizz, wait until the Delivery version is ready and the login to Room 32COU as a Student.
 [Background Assessment Quizz](https://b.socrative.com/login/student)
 
-# Here link to video of Definition slides
+<strong>Here link to video of Definition slides</strong>
 
-# Here link to embedded Databases ppt which is simple enough to downgrade to PDF
+<strong>Here link to embedded Databases ppt which is simple enough to downgrade to PDF</strong>
 
 Maybe some string to hang together Intro talk about the exercise(s), Aniridia etc etc here
 Too early for detail, but would be good to keep rambling on track!!!
 
-# Exercise 1: Information from Web Resouces
+<strong>Exercise 1: Information from Web Resouces</strong>
 
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/01-Databases_Practical.pdf" download>Click here to assemble the Instructions in a local PDF viewer.</a>
 
-Link to video for dotplots ... plus download for ppt/video (or maybe that in "all course logical tar"?)
-   <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version</a>
-   <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4">Click here for a short video</a>
+<strong>Link to video for dotplots ... plus download for ppt/video (or maybe that in "all course logical tar"?)</strong>
+
+<a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version</a>
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4">Click here for a short video</a>
    
 Deal with Intro talk/ppt here
 ppt too involved for PDF ... Do not want to simplify ... Do want to split in at least 2
 No point launchin in powerpoint unless we go back to windows
 Maybe simple download (or nothing) only option
 
-# Exercise 2: A look at Pairwise Alignment
+<strong>Exercise 2: A look at Pairwise Alignment</strong>
 
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/02-Pairwise_Alignment_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
 
-Do Exercise 3
+<strong>Exercise 3: Sequence Database Searching for Similarity</strong>
 
-[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/03-Database_Searching_Practical.pdf[/embed]
+<a href="https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/03-Database_Searching_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
-Do Exercise 4
+<strong>Exercise 4: Primer Design<?strong>
 
-[download this](https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/01-Databases_Practical.pdf)
+<a hef="https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/04-Primer_Design_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
-Do Exercise 5
+<strong>Exercise 5: Secondary Structure Prediction</strong>
 
-[embed]./Practical_PDFs/04-Primer_Design_Practical.pdf bbbb[/embed]
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/05-Structure_Prediction_Practical.pdf"  download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
-Do Exercise 6
+<strong>Exercise 6: Multiple Sequence Alignment</strong>
 
-[embed]https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf[/embed]
-
-
-#Exercise 6: Multiple Sequence Alignment
-
-Download the Exercise PDF and open it locally.
-You lose the links of you use the notes from the browser.
-
-[Download Practical 6 from Here](Practical_PDFs/06-Multiple_Sequence_Alignment.pdf)
-
-
-<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf" download>Download</a>
-
-
-
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
