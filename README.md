@@ -73,7 +73,6 @@ You lose the links of you use the notes from the browser.
 
 [Download Practical 6 from Here](Practical_PDFs/06-Multiple_Sequence_Alignment.pdf)
 
-<div class="BtnGroup">
-      <a href="/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf" class="btn btn-sm BtnGroup-item" id="raw-url">Download</a>
-      <a href="/BioinformaticsTraining/Introduction/commits/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
-    </div>
+
+<a href="/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf" class="btn btn-sm BtnGroup-item" id="raw-url">Download</a>
+
