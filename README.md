@@ -9,6 +9,7 @@
 
 
 # Introduction
+
 Talks and Materials for "An Introduction to Bioinformatics"
 
 [View the Timetable Here](Administration/ScheduleIBBBioinformatics.pdf)
@@ -36,11 +37,11 @@ Too early for detail, but would be good to keep rambling on track!!!
 
 # Exercise 1: Information from Web Resouces
 
-<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/01-Databases_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/01-Databases_Practical.pdf" download>Click here to assemble the Instructions in a local PDF viewer.</a>
 
 Link to video for dotplots ... plus download for ppt/video (or maybe that in "all course logical tar"?)
-   <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version></a>
-   <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4">Click here for a short video></a>
+   <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version</a>
+   <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4">Click here for a short video</a>
    
 Deal with Intro talk/ppt here
 ppt too involved for PDF ... Do not want to simplify ... Do want to split in at least 2
