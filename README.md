@@ -74,5 +74,15 @@ You lose the links of you use the notes from the browser.
 [Download Practical 6 from Here](Practical_PDFs/06-Multiple_Sequence_Alignment.pdf)
 
 
-<a href="https://github.com/BioinformaticsTraining/Introduction/blob/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf">Download</a>
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/06-Multiple_Sequence_Alignment.pdf">Download</a>
+
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+<p>Click on the w3schools logo to download the image:<p>
+
+<a href="/Images/15046812.png" download>
+  <img border="0" src="/Images/15046812.png" alt="W3Schools" width="104" height="142">
+</a>
+
 
