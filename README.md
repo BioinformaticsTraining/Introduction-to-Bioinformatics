@@ -43,7 +43,7 @@ Too early for detail, but would be good to keep rambling on track!!!
 
 <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version</a>
 
-<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.MP4">Click here for a short video</a>
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4" download>Click here for a short video</a>
    
 Deal with Intro talk/ppt here
 ppt too involved for PDF ... Do not want to simplify ... Do want to split in at least 2
