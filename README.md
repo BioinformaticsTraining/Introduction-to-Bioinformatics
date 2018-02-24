@@ -61,8 +61,6 @@ Maybe simple download (or nothing) only option
 <strong>Exercise 4: Primer Design</strong>
 
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/04-Primer_Design_Practical.pdf"  download>Click here to start assemble the Instructions in a local PDF viewer.</a>
-<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/05-Structure_Prediction_Practical.pdf"  download>Click here to start assemble the Instructions in a local PDF viewer.</a>
-<a hef="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/04-Primer_Design_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
 
 <strong>Exercise 5: Secondary Structure Prediction</strong>
 
