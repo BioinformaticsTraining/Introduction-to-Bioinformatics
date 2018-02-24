@@ -44,7 +44,13 @@ Too early for detail, but would be good to keep rambling on track!!!
 <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version</a>
 
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4" download>Click here for a short video</a>
-   
+
+<video id="video" muted="">
+   <source id="mp4" src$="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4" type="video/mp4" class="style-scope yt-video-as-thumbnail-details">
+</video>
+
+
+
 Deal with Intro talk/ppt here
 ppt too involved for PDF ... Do not want to simplify ... Do want to split in at least 2
 No point launchin in powerpoint unless we go back to windows
