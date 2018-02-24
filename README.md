@@ -40,7 +40,7 @@ Too early for detail, but would be good to keep rambling on track!!!
 
 Link to video for dotplots ... plus download for ppt/video (or maybe that in "all course logical tar"?)
    <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s"> Here for youtube version>
-   <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/">Click here for a short video 
+   <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4">Click here for a short video 
 Deal with Intro talk/ppt here
 ppt too involved for PDF ... Do not want to simplify ... Do want to split in at least 2
 No point launchin in powerpoint unless we go back to windows
