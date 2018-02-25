@@ -46,7 +46,7 @@ Too early for detail, but would be good to keep rambling on track!!!
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4" download>Click here for a short video</a>
 
  <video width="320" height="240" controls>
-  <source src="/Videos/DotPlots-lr.mp4" type="video/mp4"> ffff
+  <source src="Videos/DotPlots-lr.mp4" type="video/mp4"> ffff</src>
 </video> 
 
 
