@@ -28,6 +28,8 @@ Talks and Materials for "An Introduction to Bioinformatics"
 A quizz, wait until the Delivery version is ready and the login to Room 32COU as a Student.
 [Background Assessment Quizz](https://b.socrative.com/login/student)
 
+<a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Practical_PDFs/03-Database_Searching_Practical.pdf" download>Click here to start assemble the Instructions in a local PDF viewer.</a>
+
 <strong>Here link to video of Definition slides</strong>
 
 <strong>Here link to embedded Databases ppt which is simple enough to downgrade to PDF</strong>
