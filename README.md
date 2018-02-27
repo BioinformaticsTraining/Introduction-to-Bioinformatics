@@ -1,19 +1,3 @@
-
-var md = require('markdown-it')({
-  html: true,
-  linkify: true,
-  typography: true
-}).use(require('markdown-it-video', { // <-- this use(package_name) is required
-  youtube: { width: 640, height: 390 },
-  vimeo: { width: 500, height: 281 },
-  vine: { width: 600, height: 600, embed: 'simple' },
-  prezi: { width: 550, height: 400 }
-}));
-
-
-
-
-
 <table style="width:100%">
   <tr>
     <td><img src="./Images/15046812.png" alt="yay" height="100" width="135">
