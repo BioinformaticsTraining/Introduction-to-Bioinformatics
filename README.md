@@ -1,3 +1,19 @@
+
+var md = require('markdown-it')({
+  html: true,
+  linkify: true,
+  typography: true
+}).use(require('markdown-it-video', { // <-- this use(package_name) is required
+  youtube: { width: 640, height: 390 },
+  vimeo: { width: 500, height: 281 },
+  vine: { width: 600, height: 600, embed: 'simple' },
+  prezi: { width: 550, height: 400 }
+}));
+
+
+
+
+
 <table style="width:100%">
   <tr>
     <td><img src="./Images/15046812.png" alt="yay" height="100" width="135">
@@ -47,10 +63,13 @@ Too early for detail, but would be good to keep rambling on track!!!
 
 <a href="https://github.com/BioinformaticsTraining/Introduction/raw/master/Videos/DotPlots.mp4" download>Click here for a short video</a>
 
- <video width="320" height="240" controls>
+<video width="320" height="240" controls>
   <source src="Videos/DotPlots-lr.mp4" type="video/mp4"> ffff</src>
 </video> 
 
+@[youtube](dQw4w9WgXcQ)
+
+@[youtube](pfFfSxZWQKU)
 
 
 Deal with Intro talk/ppt here
