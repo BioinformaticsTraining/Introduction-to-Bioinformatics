@@ -1,0 +1,8 @@
+title: An Introduction to Bioinformatics
+description: Talks and Materials for "An Introduction to Bioinformatics" developed by David Judge
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
