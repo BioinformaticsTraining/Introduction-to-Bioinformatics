@@ -1,2 +1,3 @@
 # Introduction-to-Bioinformatics
-Talks and Materials for "An Introduction to Bioinformatics"
+
+<br><br>Talks and Materials for <strong>"An Introduction to Bioinformatics"</strong>
