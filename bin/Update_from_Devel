@@ -20,3 +20,11 @@ rmdir Practicals/Session05-Structure_Prediction
 git checkout Devel Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf
 mv Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf Practical_PDFs
 rmdir -p Practicals/*
+
+##############################################
+# Update all Videos.
+##############################################
+
+git checkout Devel Videos/DotPlots.webm
+
+
