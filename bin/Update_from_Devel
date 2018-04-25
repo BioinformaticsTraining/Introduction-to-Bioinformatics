@@ -1,0 +1,18 @@
+git checkout Devel Practicals/Session01-Databases/01-Databases_Practical.pdf
+mv 01-Databases_Practical.pdf Practical_PDFs
+git checkout Devel Practicals/Session02-Pairwise_Alignment/02-Pairwise_Alignment_Practical.pdf
+mv 02-Pairwise_Alignment_Practical.pdf Practical_PDFs
+git checkout Devel Practicals/Session03-Database_Searching/03-Database_Searching_Practical.pdf
+mv 03-Database_Searching_Practical.pdf Practical_PDFs
+git checkout Devel Practicals/Session04-Primer_Design_Practical/04-Primer_Design_Practical_Practical.pdf
+mv 04-Primer_Design_Practical.pdf Practical_PDFs
+git checkout Devel Practicals/Session05-Structure_Prediction/05-Structure_Prediction_Practical.pdf
+mv 05-Structure_Prediction_Practical.pdf Practical_PDFs
+git checkout Devel Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf
+mv 06-Multiple_Sequence_Alignment.pdf Practical_PDFs
+
+
+
+
+
+

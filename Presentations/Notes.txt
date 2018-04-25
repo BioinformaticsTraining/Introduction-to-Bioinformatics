@@ -1,0 +1,15 @@
+2017.05.01
+==========
+
+This is a messy partial collection representing the last 100 years!
+
+What I need NOW is a set of what I use currently
+
+What I need long term is a real "Development" set up ... as I think I finally have for the Practicals.
+Needs thought
+I archive all this stuff soemwhere not on github maybe?
+
+I get the hang of this one day ... maybe
+First I work out how to do a sensible Master branch
+
+Whatever ... sort it for tomorrow Dave!!!
