@@ -1,0 +1,10 @@
+DPJ: 2018.04.25
+===============
+
+Neglected to note how I made DotPlots.webm from the mp4 version
+I made DotPlots-lr.webm with:
+
+ffmpeg -i DotPlots-lr.mp4 DotPlots-lr.webm
+
+Seemed to work ... lots of chatter .... mumbled about bitrates
+Maybe should look for a better way later ... AND make notes here!!!!!
