@@ -4,8 +4,8 @@
 
 git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.pdf
 git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.pdf
-git checkout Devel Administration/Current_Course_Outline
-git checkout Devel Administration/Current_Timetable
+git checkout Devel Administration/Current_Course_Outline.pdf
+git checkout Devel Administration/Current_Timetable.pdf
 
 ##############################################
 # Update all Practical PDFs.
