@@ -1,4 +1,13 @@
 ##############################################
+# Update Administration Files.
+##############################################
+
+git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.pdf
+git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.pdf
+git checkout Devel Administration/Current_Course_Outline
+git checkout Devel Administration/Current_Timetable
+
+##############################################
 # Update all Practical PDFs.
 ##############################################
 
