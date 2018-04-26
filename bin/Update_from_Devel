@@ -3,9 +3,11 @@
 ##############################################
 
 git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.pdf
-git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.pdf
+git checkout Devel Administration/Notes_on-Practical_Instruction_Structure.png
 git checkout Devel Administration/Current_Course_Outline.pdf
+git checkout Devel Administration/Current_Course_Outline.png
 git checkout Devel Administration/Current_Timetable.pdf
+git checkout Devel Administration/Current_Timetable.png
 
 ##############################################
 # Update all Practical PDFs.
