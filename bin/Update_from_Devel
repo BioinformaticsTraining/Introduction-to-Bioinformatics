@@ -13,29 +13,23 @@ git checkout Devel Administration/Current_Timetable.png
 # Update all Practical PDFs.
 ##############################################
 
-git checkout Devel Practicals/Session01-Databases/01-Databases_Practical.pdf
-mv Practicals/Session01-Databases/01-Databases_Practical.pdf Practical_PDFs
-rmdir Practicals/Session01-Databases
-git checkout Devel Practicals/Session02-Pairwise_Alignment/02-Pairwise_Alignment_Practical.pdf
-mv Practicals/Session02-Pairwise_Alignment/02-Pairwise_Alignment_Practical.pdf Practical_PDFs
-rmdir Practicals/Session02-Pairwise_Alignment
-git checkout Devel Practicals/Session03-Database_Searching/03-Database_Searching_Practical.pdf
-mv Practicals/Session03-Database_Searching/03-Database_Searching_Practical.pdf Practical_PDFs
-rmdir Practicals/Session03-Database_Searching
-git checkout Devel Practicals/Session04-Primer_Design/04-Primer_Design_Practical.pdf
-mv Practicals/Session04-Primer_Design/04-Primer_Design_Practical.pdf Practical_PDFs
-rmdir Practicals/Session04-Primer_Design
-git checkout Devel Practicals/Session05-Structure_Prediction/05-Structure_Prediction_Practical.pdf
-mv Practicals/Session05-Structure_Prediction/05-Structure_Prediction_Practical.pdf Practical_PDFs
-rmdir Practicals/Session05-Structure_Prediction
-git checkout Devel Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf
-mv Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf Practical_PDFs
-rmdir -p Practicals/*
+git show Devel:Practicals/Session01-Databases/01-Databases_Practical.pdf > Practical_PDFs/01-Databases_Practical.pdf
+git show Devel:Practicals/Session02-Pairwise_Alignment/02-Pairwise_Alignment_Practical.pdf > Practical_PDFs/02-Pairwise_Alignment_Practical.pdf
+git show Devel:Practicals/Session03-Database_Searching/03-Database_Searching_Practical.pdf > Practical_PDFs/03-Database_Searching_Practical.pdf
+git show Devel:Practicals/Session04-Primer_Design/04-Primer_Design_Practical.pdf > Practical_PDFs/04-Primer_Design_Practical.pdf
+git show Devel:Practicals/Session05-Structure_Prediction/05-Structure_Prediction_Practical.pdf > Practical_PDFs/05-Structure_Prediction_Practical.pdf
+git show Devel:Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf > Practical_PDFs/06-Multiple_Sequence_Alignment_Practical.pdf
 
 ##############################################
 # Update all Videos.
 ##############################################
 
 git checkout Devel Videos/DotPlots.webm
+
+##############################################
+# Add all Copied files to gh-pages
+##############################################
+
+git add .
 
 
