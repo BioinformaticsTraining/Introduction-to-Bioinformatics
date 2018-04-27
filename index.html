@@ -1,13 +1,80 @@
 <!DOCTYPE html>
  
-<html><head>
-<!-- 
-  <style> 
+<html>
+<head>
 
-    div { background-color: lightblue; } 
+<!-- CSS Definitions -->
 
-  </style>
--->
+<style> 
+
+<!-- ############################################## ---
+ Code for popups. Copied wholesale from:
+ https://www.w3schools.com/howto/howto_js_popup.asp
+ My uunderstanding? - Partial :-(
+---- ############################################## -->
+ 
+ /* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: Wheat;
+    color: SlateGray;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+<!-- ############################################## ---
+ Code for popups. See Javascript at end of body.
+---- ############################################## -->
+
+</style>
+
   <title>An Introduction to basic Web Based Bioinformatics</title></head>
  
 </head>
@@ -31,6 +98,9 @@
   <img src="Administration/Current_Course_Outline.png"
        alt="yay" height="400" width="650">
 </details><br>
+<div class="popup" onclick="Popup_Text()">Click me!
+  <span class="popuptext" id="myPopup">Popup text...</span>
+</div>
 
 <details style="background-color:Khaki;"><summary>Click Here For the Timetable for this course.</summary><p>
   <img src="Administration/Current_Timetable.png"
@@ -133,4 +203,25 @@ Too early for detail, but would be good to keep rambling on track!!!
 
 </details><br>
 
+<!-- Javascript Definitions. -->
+
+<script>
+ 
+<!-- ############################################## ---
+ Code for popups. Copied wholesale from:
+ https://www.w3schools.com/howto/howto_js_popup.asp
+ My uunderstanding? - Partial :-(
+---- ############################################## -->
+  
+// When the user clicks on div, open the popup
+function Popup_Text() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+}
+
+<!-- ############################################## ---
+ Code for popups. END
+---- ############################################## -->
+
+</script>
 </body></html> 
