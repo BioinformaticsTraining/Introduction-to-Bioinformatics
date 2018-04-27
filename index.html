@@ -130,7 +130,7 @@
     <div class="container">
       <img src="Administration/Current_Timetable.png" alt="Dearie Me!">
     </div>
-    <span class="popuptext" id="myPopup" style="text-align:center;">
+    <span class="popuptext4" id="myPopup" style="text-align:center;">
                     Timetable of the last/current formal use of this material.
                     Interpret as appropriate.</span>
   </div>
@@ -244,11 +244,13 @@ Too early for detail, but would be good to keep rambling on track!!!
   
 // When the user clicks/hovers on div, open the popup
 function Popup_Text() {
-    popup = document.getElementById("myPopup");
+    var popup = document.getElementById("myPopup");
     popup.classList.toggle("show");
-    delete popup;
 }
-
+function Popup_Text4() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+}
 // ############################################## --
 // Code for popups. END
 // ############################################## --
