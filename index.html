@@ -113,13 +113,7 @@
 
 <h1 style="text-align:center";>An Introduction to basic Web Based Bioinformatics</h1><br><br>
      
-<button>
-  <div class="popup" onclick="Popup_Text()">Click me!
-    <span class="popuptext" id="myPopup">A description specific to the last formal use of this material. 
-                                         Interpret as appropriate.</span>
-  </div>
-  Submit
-</button><br><br>
+<button onclick="TimeTable_Message()">Click me</button><br><br>
      
 <details style="background-color:Khaki;"><summary>Click Here For a brief description of this course.</summary><p>
   <div class="container">
@@ -258,6 +252,21 @@ function Popup_Text() {
 // ############################################## --
 // Code for popups. END
 // ############################################## --
+
  
+// ############################################## --
+// Functions for delivering text from buttons.
+// One function per message???
+// Must be a better way!!!
+// Copied from:
+// https://www.w3schools.com/jsref/event_onclick.asp
+// My understanding? - Partial :-(
+// ############################################## --
+ 
+function TimeTable_Message() {
+  document.getElementById("demo").innerHTML =
+  "A description specific to the last formal use of this material. Interpret as appropriate.";
+}
+
 </script>
 </body></html> 
