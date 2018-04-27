@@ -244,8 +244,9 @@ Too early for detail, but would be good to keep rambling on track!!!
   
 // When the user clicks/hovers on div, open the popup
 function Popup_Text() {
-    var popup = document.getElementById("myPopup");
+    popup = document.getElementById("myPopup");
     popup.classList.toggle("show");
+    delete popup;
 }
 
 // ############################################## --
