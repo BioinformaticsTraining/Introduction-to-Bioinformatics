@@ -27,7 +27,7 @@
   visibility: hidden; width: 160px;
   color: SlateGray; background-color: Wheat;
   text-align: center; border-radius: 6px; padding: 8px 0; position: absolute;
-  z-index: 1; bottom: 50%; left: 50%; margin-left: 5px;
+  z-index: 1; bottom: 90%; left: 90%; margin-left: 5px;
 }
 
 /* Popup arrow */
@@ -116,8 +116,6 @@
 <input id="message"
        value="A description specific to the last formal 
               use of this material. Interpret as appropriate.";/>
-<button onclick="TimeTable_Message()">Try it</button>
-<p id="message-space"></p><br><br>
      
 <details style="background-color:Khaki;"><summary>Click Here For a brief description of this course.</summary><p>   
   <div class="popup" onmouseover="Popup_Text()">
@@ -128,16 +126,18 @@
                     A description specific to the last formal use of this material. 
                     Interpret as appropriate.</span>
   </div>
-</details>     
+</details><br>
 
 
 <details style="background-color:Khaki;"><summary>Click Here For the Timetable for this course.</summary><p>
-  <div class="container">
-    <img src="Administration/Current_Timetable.png" alt="Snow">
- <!--    <button class="btn">ReadMe</button> -->
-  </div> 
-<!-- <img src="Administration/Current_Timetable.png"
-       alt="yay" height="400" width="750"> -->
+  <div class="popup" onmouseover="Popup_Text()">
+    <div class="container">
+      <img src="Administration/Current_Course_Outline.png" alt="Dearie Me!">
+    </div>
+    <span class="popuptext" id="myPopup" style="text-align:center;">
+                    Timetable of the last/current formal use of this material.
+                    Interpret as appropriate.</span>
+  </div>
 </details><br>
 
 A quizz, wait until the Delivery version is ready and the login to Room 32COU as a Student.<b>
@@ -255,21 +255,7 @@ function Popup_Text() {
 // ############################################## --
 // Code for popups. END
 // ############################################## --
+
 </script>
-<script> 
-// ############################################## --
-// Functions for delivering text from buttons.
-// Copied from:
-// https://www.w3schools.com/jsref/event_onclick.asp
-// My understanding? - Partial :-(
-// ############################################## --
- 
-function TimeTable_Message() {
-  var message, message_text;
-  message_text=document.getElementById("message").value;
-  document.getElementById("message-space").innerHTML=message_text;
-}
- 
-</script>
-</body>
-</html> 
+
+</body></html> 
