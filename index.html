@@ -26,7 +26,7 @@
 .popup .popuptext {
   visibility: hidden; width: 160px;
   color: SlateGray; background-color: Wheat;
-  text-align: center; border-radius: 6px; padding: 8px 0; position: absolute;
+  text-align: center; border-radius: 6px; padding: 8px 0; position: relative;
   z-index: 1; bottom: 90%; left: 90%; margin-left: 5px;
 }
 
@@ -242,7 +242,7 @@ Too early for detail, but would be good to keep rambling on track!!!
 // My understanding? - Partial :-(
 // ############################################## --
   
-// When the user clicks on div, open the popup
+// When the user clicks/hovers on div, open the popup
 function Popup_Text() {
     var popup = document.getElementById("myPopup");
     popup.classList.toggle("show");
