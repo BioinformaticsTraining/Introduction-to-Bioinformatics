@@ -51,6 +51,40 @@
 /* ############################################## --
  Code for popups. See Javascript at end of body.
 -- ############################################## */
+ 
+/* ############################################## --
+ Code for buttons on an image. Copied wholesale from:
+ https://www.w3schools.com/howto/howto_css_button_on_image.asp
+ My uunderstanding? - Partial :-(
+-- ############################################## */
+ 
+ 
+ /* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative; width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%; height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%);
+  background-color: #555; color: white;
+  font-size: 16px; padding: 12px 24px; border: none;
+  cursor: pointer; border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: LightBlue;
+}
+ 
+/* ############################################## --
+ Code for buttons on an image. See Javascript at end of body.
+-- ############################################## */
 
 </style>
 
@@ -83,8 +117,12 @@
 </div>
 
 <details style="background-color:Khaki;"><summary>Click Here For the Timetable for this course.</summary><p>
-  <img src="Administration/Current_Timetable.png"
-       alt="yay" height="400" width="750">
+  <div class="container">
+   <img src="Administration/Current_Timetable.png" alt="Snow">
+   <button class="btn">ReadMe</button>
+ </div> 
+<!-- <img src="Administration/Current_Timetable.png"
+       alt="yay" height="400" width="750"> -->
 </details><br>
 
 A quizz, wait until the Delivery version is ready and the login to Room 32COU as a Student.<b>
