@@ -13,6 +13,16 @@
  Code for popups. Copied wholesale from:
  https://www.w3schools.com/howto/howto_js_popup.asp
  My understanding? - Partial :-(
+ 
+ Correction!! Not coied wholesale. The w3 version
+ only works if you only ever want 1 popup???
+ a second invocation "pops" the first popup?
+ I do not fully understand why. It should work.
+ Seems one cannot overwrite the first popup dwfinition?
+ Anyway, solution is to pass the popup as a parameter
+ having made each popup with a new id.
+ I WIN! At the cost of hours. During which I learned some stuff
+ including that this webbie thing is blood messy business.
 -- ############################################## */
  
  /* Popup container - can be anything you want */
@@ -127,10 +137,10 @@ Click here to display Date and Time.</button>
 
 <details style="background-color:Khaki;">
   <summary>Click Here For a brief description of this course.</summary><p>   
-  <div class="popup" onmouseover="Popup_Text()">
+  <div class="popup" onmouseover="Popup_Text(document.getElementById('Description_Popup'))")">
     <div class="container">
       <img src="Administration/Current_Course_Outline.png" alt="Dearie Me!">
-      <span class="popuptext" id="myPopup" style="text-align:center;">
+      <span class="popuptext" id="Description_Popup" style="text-align:center;">
                     A description specific to the last/current formal use of this material. 
                     Interpret as appropriate.</span>
     </div>
@@ -140,10 +150,10 @@ Click here to display Date and Time.</button>
 
 <details style="background-color:Khaki;">
   <summary>Click Here For the Timetable for this course.</summary><p>
-  <div class="popup" onmouseover="Popup_Text()">
+  <div class="popup" onmouseover="Popup_Text(document.getElementById('TimmeTable_Popup'))")">
     <div class="container">
       <img src="Administration/Current_Timetable.png" alt="Dearie Me!">
-      <span class="popuptext" id="myPopup" style="text-align:center;">
+      <span class="popuptext" id="TimmeTable_Popup" style="text-align:center;">
                     Timetable of the last/current formal use of this material.
                     Interpret as appropriate.</span>
     </div>
@@ -261,8 +271,7 @@ Too early for detail, but would be good to keep rambling on track!!!
 // ############################################## --
   
 // When the user clicks/hovers on div, open the popup
-function Popup_Text() {
-    var popup = document.getElementById("myPopup");
+function Popup_Text(popup) {
     popup.classList.toggle("show");
 }
 
