@@ -1,0 +1,17 @@
+2017.05.01
+==========
+
+Do I bring up the crap alignment of Pfam again?
+It is not mentioned in current versions.
+However, I could show it in an answer?
+It was much of the reason for using cobalt after all.
+But ... to avoid mor negativity has its attractions also.
+
+2017.05.04
+==========
+
+Need to elaborate wrt cobalt.
+It does indeed use domain searches to guide msa
+Good reference link:
+
+https://biointelligence.wordpress.com/2009/08/07/cobalt-a-new-tool-for-multiple-sequence-alignment/

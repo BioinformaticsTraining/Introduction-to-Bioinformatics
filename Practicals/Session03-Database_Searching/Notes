@@ -1,0 +1,7 @@
+2016.12.02
+==========
+Elaborate on the blastx parameter to dynamically adjust the scoring matrix to reflect sequence composition. At least, I expect that is what it does? Fairly new unless I have not looked properly for a long time.
+2017.04.29
+==========
+This parameter does get a mention in the Instructions. Enough? I think so, for now at least. Maybe all I should be saying is that my intuition suggests that allowing for a contextual influence on the way alignments are scored has to be a neat idea.
+
