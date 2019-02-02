@@ -1,3 +1,3 @@
-# Introduction-to-Bioinformatics
+# Introduction-to-Bioinformatics - Presentaion Branch
 
-<br><br>Talks and Materials for <strong>"An Introduction to Bioinformatics"</strong> Course
+<br><br>Presentation Branch for <strong>"An Introduction to Bioinformatics"</strong> Course
