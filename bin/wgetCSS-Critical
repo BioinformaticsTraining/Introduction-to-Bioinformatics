@@ -1,0 +1,1 @@
+wget https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/CSS/Style.css -O ../CSS/Style.css

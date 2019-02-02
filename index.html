@@ -1,103 +1,23 @@
 <!DOCTYPE html>
 
-<!-- CSS Definitions -->
-
-<style> 
-
-/* ############################################## --
- Code for popups. Copied wholesale from:
- https://www.w3schools.com/howto/howto_js_popup.asp
- My understanding? - Partial :-(
- 
- Correction!! Not copied wholesale. The w3 version
- only works if you only ever want 1 popup???
- a second invocation "pops" the first popup?
- I do not fully understand why. It should work.
- Seems one cannot overwrite the first popup dwfinition?
- Anyway, solution is to pass the popup as a parameter
- having made each popup with a new id.
- I WIN! At the cost of hours. During which I learned some stuff
- including that this webbie thing is a bloody messy business.
--- ############################################## */
- 
- /* Popup container - can be anything you want */
-.popup {
-  position: relative; display: inline-block; cursor: pointer;
-  -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;
-  user-select: none;
-}
-
-/* The actual popup */
-.popup .popuptext {
-  visibility: hidden; width: 160px;
-  color: SlateGray; background-color: Wheat;
-  text-align: center; border-radius: 6px; padding: 8px 0; position: absolute;
-  z-index: 1; bottom: 75%; left: 80%; margin-left: 5px;
-}
-
-/* Popup arrow */
-.popup .popuptext::after {
-  content: ""; position: absolute; top: 100%; left: 50%; margin-left: -5px;
-  border-width: 5px; border-style: solid; border-color: #555 transparent transparent transparent;
-}
-
-/* Toggle this class - hide and show the popup */
-.popup .show {
-  visibility: visible; -webkit-animation: fadeIn 1s; animation: fadeIn 1s;
-}
-
-/* Add animation (fade in the popup) */
-@-webkit-keyframes fadeIn {
-  from {opacity: 0;} to {opacity: 1;}
-}
-
-@keyframes fadeIn {
-  from {opacity: 0;} to {opacity:1 ;}
-}
- 
-/* ############################################## --
- Code for popups. See Javascript at end of body.
--- ############################################## */
- 
-/* ############################################## --
- Code for buttons on an image. Copied wholesale from:
- https://www.w3schools.com/howto/howto_css_button_on_image.asp
- My understanding? - Partial :-(
--- ############################################## */
-
- /* Container needed to position the button. Adjust the width as needed */
-.container {
-  position: relative; width: 100%;
-}
-
-/* Make the image responsive */
-.container img {
-  width: 100%; height: 100%;
-}
-
-/* Style the button and place it in the middle of the container/image */
-.container .btn {
-  position: absolute; top: 100%; left: 95%;
-  transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%);
-  background-color: #555; color: white;
-  font-size: 16px; padding: 12px 24px; border: none;
-  cursor: pointer; border-radius: 5px;
-}
-
-.container .btn:hover {
-  background-color: LightBlue;
-}
- 
-/* ############################################## --
- Code for buttons on an image. END.
--- ############################################## */
-</style>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  
+  <!-- CSS Definitions -->
+  <link rel="stylesheet" type="text/css" href="CSS/Style.css">
+  
+  <!-- Javascript Definitions. -->
+  <script src="JavaScript/Script.js"></script>
+
   <title>An Introduction to basic Web Based Bioinformatics</title>
+  
+  <STYLE>
+    A{text-decoration:none}
+  </STYLE>
+ 
 </head>
+
  
 <!-- ############################################## ---
 ---- ############################################## ---
@@ -290,26 +210,5 @@ Click to display your <b>Finish</b> time.</button>
 <!-- ############################################## ---
 ---- ############################################## ---
 ---- ############################################## -->
-
-<!-- Javascript Definitions. -->
-
-<script type="text/javascript">
- 
-// ############################################## --
-// Code for popups. Copied wholesale from:
-// https://www.w3schools.com/howto/howto_js_popup.asp
-// My understanding? - Partial :-(
-// ############################################## --
-  
-// When the user clicks/hovers on div, open the popup
-function Popup_Text(popup) {
-    popup.classList.toggle("show");
-}
-
-// ############################################## --
-// Code for popups. END
-// ############################################## --
-
-</script>
 
 </body></html> 
