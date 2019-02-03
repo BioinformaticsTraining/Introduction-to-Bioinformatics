@@ -25,7 +25,7 @@ git show Devel:Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequ
 ##############################################
 
 git checkout Devel Practicals/Backup_Results
-rm -r Backup_Files; mv Backup_Results Backup_Files
+rm -r Backup_Files; mv Practicals/Backup_Results Backup_Files; rmdir Practicals
 
 ##############################################
 # Update all Videos.
