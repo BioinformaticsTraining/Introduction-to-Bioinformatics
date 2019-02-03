@@ -21,6 +21,13 @@ git show Devel:Practicals/Session05-Structure_Prediction/05-Structure_Prediction
 git show Devel:Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequence_Alignment_Practical.pdf > Practical_PDFs/06-Multiple_Sequence_Alignment_Practical.pdf
 
 ##############################################
+# Update Backup Files.
+##############################################
+
+git checkout Devel Backup_Results
+rm -r Backup_Files; mv Backup_Results Backup_Files
+
+##############################################
 # Update all Videos.
 ##############################################
 
