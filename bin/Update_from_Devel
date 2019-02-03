@@ -24,7 +24,7 @@ git show Devel:Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Sequ
 # Update Backup Files.
 ##############################################
 
-git checkout Devel Backup_Results
+git checkout Devel Practicals/Backup_Results
 rm -r Backup_Files; mv Backup_Results Backup_Files
 
 ##############################################

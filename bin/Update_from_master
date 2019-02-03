@@ -24,7 +24,7 @@ git show master:Practicals/Session06-Multiple_Sequence_Alignment/06-Multiple_Seq
 # Update Backup Files.
 ##############################################
 
-git checkout master Backup_Results
+git checkout master Practicals/Backup_Results
 rm -r Backup_Files; mv Backup_Results Backup_Files
 
 ##############################################
