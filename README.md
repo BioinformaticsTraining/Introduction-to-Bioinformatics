@@ -13,7 +13,7 @@ Talks and Materials for:<br>
 
 This Repository is for the Development and presentation of the Training Course entitled:
 
-<h2>A Web Based Introduction to Basic Bioinformatics"</h2>
+<h2>"A Web Based Introduction to Basic Bioinformatics"</h2>
 
 It is comprised of <b>four</b> Branches:
 
