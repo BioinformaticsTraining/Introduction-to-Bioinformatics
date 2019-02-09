@@ -28,6 +28,5 @@ It is comprised of <b>four</b> Branches:
   </li>
   <li>
     <b>gh_pages:</b> In which the delivery web pages are developed and maintained.
- </li>
- </ol>
-
+  </li>
+</ol>
