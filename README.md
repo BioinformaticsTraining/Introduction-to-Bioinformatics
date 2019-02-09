@@ -2,7 +2,7 @@
   <tr>
     <td><img src="./Images/15046812.png" alt="yay" height="100">
     </td>
-    <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100" width="250">
+    <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100">
     </td>
   <tr/>
 </table>
