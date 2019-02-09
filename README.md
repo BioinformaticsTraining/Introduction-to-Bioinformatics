@@ -7,7 +7,9 @@
   <tr/>
 </table>
 
-<h1>Talks and Materials for "An Introduction to Bioinformatics"</h1>
+Talks and Materials for:<br>
+  
+<h1>"An Introduction to Bioinformatics"</h1>
 
 This Repository is for the Development and presentation of the Training Course entitled:
 
