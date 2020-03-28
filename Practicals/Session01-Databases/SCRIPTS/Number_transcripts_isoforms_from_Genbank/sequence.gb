@@ -1,0 +1,2601 @@
+LOCUS       NC_000011              33170 bp    DNA     linear   CON 02-MAR-2020
+DEFINITION  Homo sapiens chromosome 11, GRCh38.p13 Primary Assembly.
+ACCESSION   NC_000011 REGION: complement(31784792..31817961)
+VERSION     NC_000011.10
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.39
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 33170)
+  AUTHORS   Taylor,T.D., Noguchi,H., Totoki,Y., Toyoda,A., Kuroki,Y., Dewar,K.,
+            Lloyd,C., Itoh,T., Takeda,T., Kim,D.W., She,X., Barlow,K.F.,
+            Bloom,T., Bruford,E., Chang,J.L., Cuomo,C.A., Eichler,E.,
+            FitzGerald,M.G., Jaffe,D.B., LaButti,K., Nicol,R., Park,H.S.,
+            Seaman,C., Sougnez,C., Yang,X., Zimmer,A.R., Zody,M.C.,
+            Birren,B.W., Nusbaum,C., Fujiyama,A., Hattori,M., Rogers,J.,
+            Lander,E.S. and Sakaki,Y.
+  TITLE     Human chromosome 11 DNA sequence and analysis including novel gene
+            identification
+  JOURNAL   Nature 440 (7083), 497-500 (2006)
+   PUBMED   16554811
+REFERENCE   2  (bases 1 to 33170)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   3  (bases 1 to 33170)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000673.2.
+            On Feb 3, 2014 this sequence version replaced NC_000011.9.
+            Assembly Name: GRCh38.p13 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: Homo sapiens Updated Annotation
+                                           Release 109.20200228
+            Annotation Version          :: 109.20200228
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; propagated
+                                           RefSeq model
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..33170
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+     gene            complement(<1..1396)
+                     /gene="PAX6-AS1"
+                     /gene_synonym="DKFZp686K1684"
+                     /note="PAX6 antisense RNA 1; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:440034"
+                     /db_xref="HGNC:HGNC:53448"
+     ncRNA           complement(<1323..1396)
+                     /ncRNA_class="lncRNA"
+                     /gene="PAX6-AS1"
+                     /gene_synonym="DKFZp686K1684"
+                     /product="PAX6 antisense RNA 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NR_033971.1"
+                     /db_xref="GeneID:440034"
+                     /db_xref="HGNC:HGNC:53448"
+     gene            1..33170
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="paired box 6; Derived by automated computational
+                     analysis using gene prediction method: BestRefSeq."
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     misc_RNA        join(1..153,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     24160..24310,24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 53"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NR_160917.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(1..153,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001127612.2"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(1..153,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16200,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 42"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368921.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(1..153,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16200,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 44"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368923.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(1..153,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001258462.2"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(1..153,6947..7134,11037..11113,11500..11560,
+                     15128..15333,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 40"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368919.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(5242..5390,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 15"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368890.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(5620..5813,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001310158.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(5759..5869,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 13"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368888.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(5779..5869,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001258463.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(5924..6154,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 36"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368915.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(5924..6154,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 12"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368887.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6609..6749,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 6"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001258464.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6609..6749,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001604.5"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6609..6847,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000280.4"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6749,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16200,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 47"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368926.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6749,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 35"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368914.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6847,6947..6983,7012..7134,11037..11113,
+                     11500..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 18"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368893.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6847,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 38"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368917.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6847,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16200,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 48"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368927.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6847,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 33"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368912.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6847,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 19"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368894.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6847,6947..7134,11037..11113,11500..11560,
+                     14236..14378,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 31"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368910.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6640..6849,6947..7134,11037..11113,11500..11560,
+                     15128..15258,16050..16091,16186..16200,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 43"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368922.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 30"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368909.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 32"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368911.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 25"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368904.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16186..16200,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 49"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368928.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16186..16401,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 37"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368916.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16186..16401,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 7"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001258465.2"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16050..16091,16186..16200,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 46"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368925.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     misc_RNA        join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16050..16091,16186..16401,17106..17271,23174..23332,
+                     24160..24310,24409..24524,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 52"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NR_160916.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16050..16091,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 34"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368913.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16050..16091,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 17"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368892.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15258,
+                     16050..16091,16186..16732,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 26"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368905.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15333,
+                     16186..16401,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 41"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368920.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(6841..7134,11037..11113,11500..11560,15128..15333,
+                     16050..16091,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 39"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368918.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     CDS             join(7122..7134,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform f is encoded by transcript variant 32;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform f"
+                     /protein_id="NP_001355840.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MPHKGHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDIS
+                     RILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKI
+                     AQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDK
+                     LRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMR
+                     LQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNR
+                     RAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTD
+                     TALTNTYSALPPMPSFTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKK
+                     KKKERKYCVNSVSDYGDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYT
+                     EGTISVGTNLHFGIQTFIHFGVLFVNGHLYVIMKKRTM"
+     mRNA            join(8003..8056,11037..11113,11500..11560,15128..15258,
+                     16186..16401,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 14"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368889.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(10340..10672,11037..11113,11500..11560,15128..15258,
+                     16186..16401,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 16"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368891.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(10340..10672,11037..11113,11500..11560,15128..15258,
+                     16050..16091,16186..16200,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 45"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368924.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(11037..11113,11500..11560,15128..15258,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24757)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001310159.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     CDS             join(11065..11113,11500..11560,14236..14378,15128..15258,
+                     16186..16401,17106..17271,23174..23332,23848..23930,
+                     24160..24310,24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform e is encoded by transcript variant 31;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform e"
+                     /protein_id="NP_001355839.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MCEAFYCESGQTSEISEPHIRAPWNPAAPSQSQHAEQGGRSSAA
+                     EIKRAVAGANRLPALSLTCGGRTCLWLKPSPGSDSHVCTGGHSGVNQLGGVFVNGRPL
+                     PDSTRQKIVELAHSGARPCDISRILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVA
+                     TPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQM
+                     GADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGE
+                     DSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEAR
+                     IQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTS
+                     GSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSY
+                     DTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform h is encoded by transcript variant 38;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform h"
+                     /protein_id="NP_001355846.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKKKKERKYCVNSVSDY
+                     GDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTEGTISVGTNLHFGIQ
+                     TFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform h is encoded by transcript variant 36;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform h"
+                     /protein_id="NP_001355844.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKKKKERKYCVNSVSDY
+                     GDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTEGTISVGTNLHFGIQ
+                     TFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform h is encoded by transcript variant 37;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform h"
+                     /protein_id="NP_001355845.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKKKKERKYCVNSVSDY
+                     GDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTEGTISVGTNLHFGIQ
+                     TFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform k is encoded by transcript variant 42;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform k"
+                     /protein_id="NP_001355850.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKKKKERKYCVN
+                     SVSDYGDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTEGTISVGTNL
+                     HFGIQTFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform g is encoded by transcript variant 34;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform g"
+                     /protein_id="NP_001355842.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKK
+                     KKERKYCVNSVSDYGDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTE
+                     GTISVGTNLHFGIQTFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform g is encoded by transcript variant 33;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform g"
+                     /protein_id="NP_001355841.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKK
+                     KKERKYCVNSVSDYGDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTE
+                     GTISVGTNLHFGIQTFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform g is encoded by transcript variant 35;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform g"
+                     /protein_id="NP_001355843.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQDSFPLVCQFQFKFPEVNLICLNTGQDYSKKKKKK
+                     KKERKYCVNSVSDYGDTTVELSGKKEKWLLEPLQFYNCVLYCTTGEGMDLKQGPLYTE
+                     GTISVGTNLHFGIQTFIHFGVLFVNGHLYVIMKKRTM"
+     CDS             join(11551..11560,15128..15258,16186..16200,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform m is encoded by transcript variant 49;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform m"
+                     /protein_id="NP_001355857.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVP
+                     GQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEK
+                     EFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHI
+                     PISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPM
+                     QPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGV
+                     SVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 13;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001355817.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 12;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001355816.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 16;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001355820.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 14;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001355818.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 15;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001355819.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 3;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001121084.1"
+                     /db_xref="CCDS:CCDS31451.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 6;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001245393.1"
+                     /db_xref="CCDS:CCDS31451.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 7;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_001245394.1"
+                     /db_xref="CCDS:CCDS31451.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform a is encoded by transcript variant 1;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform a"
+                     /protein_id="NP_000271.1"
+                     /db_xref="CCDS:CCDS31451.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform l is encoded by transcript variant 43;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform l"
+                     /protein_id="NP_001355851.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMG
+                     TSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform l is encoded by transcript variant 46;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform l"
+                     /protein_id="NP_001355854.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMG
+                     TSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform l is encoded by transcript variant 45;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform l"
+                     /protein_id="NP_001355853.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMG
+                     TSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform l is encoded by transcript variant 47;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform l"
+                     /protein_id="NP_001355855.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMG
+                     TSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform l is encoded by transcript variant 48;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform l"
+                     /protein_id="NP_001355856.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMG
+                     TSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16200,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform l is encoded by transcript variant 44;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform l"
+                     /protein_id="NP_001355852.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGS
+                     WGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRN
+                     RTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKL
+                     RNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSAL
+                     PPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMG
+                     TSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 17;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001355821.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 18;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001355822.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 19;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001355823.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001245391.1"
+                     /db_xref="CCDS:CCDS31452.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 5;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001245392.1"
+                     /db_xref="CCDS:CCDS31452.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 2;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001595.2"
+                     /db_xref="CCDS:CCDS31452.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform b is encoded by transcript variant 8;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform b"
+                     /protein_id="NP_001297087.1"
+                     /db_xref="CCDS:CCDS31452.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQTHADAKVQVLDNQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIA
+                     QYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKL
+                     RMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRL
+                     QLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRR
+                     AKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDT
+                     ALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQ
+                     THMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15333,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform j is encoded by transcript variant 41;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform j"
+                     /protein_id="NP_001355849.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVILPAPPHSPPPRPSTLNALSSFLTVSNGCVSKILGRYYETGSIRPRAIGGSKPR
+                     VATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQ
+                     QMGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGGENTNSISSN
+                     GEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPE
+                     ARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSSF
+                     TSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGR
+                     SYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15333,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform i is encoded by transcript variant 40;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform i"
+                     /protein_id="NP_001355848.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVILPAPPHSPPPRPSTLNALSSFLTTHADAKVQVLDNQNVSNGCVSKILGRYYET
+                     GSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVS
+                     SINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQ
+                     QEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDV
+                     FARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSV
+                     YQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSS
+                     YSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSE
+                     PDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15333,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform i is encoded by transcript variant 39;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform i"
+                     /protein_id="NP_001355847.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVILPAPPHSPPPRPSTLNALSSFLTTHADAKVQVLDNQNVSNGCVSKILGRYYET
+                     GSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVS
+                     SINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQ
+                     QEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDV
+                     FARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSV
+                     YQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSS
+                     YSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSE
+                     PDMSQYWPRLQ"
+     CDS             join(11551..11560,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24698)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform c is encoded by transcript variant 9;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform c"
+                     /protein_id="NP_001297088.1"
+                     /db_xref="CCDS:CCDS86190.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPS
+                     FTMANNLPMQVSAAGGGLHNPGPREVRSGSGPADLIGCVCTLESFSHYSDWLDQSSRR
+                     QSIPSLLSD"
+     mRNA            join(11961..12573,14236..14378,15128..15258,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 27"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368906.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(12921..13104,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 29"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368908.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(13725..15258,16050..16091,16186..16732,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 10"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001310160.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(13903..14010,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 22"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368901.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(13903..14010,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 11"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001310161.2"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(14289..14564,15128..15258,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 20"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368899.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(14289..14564,15128..15258,16050..16091,16186..16401,
+                     17106..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 21"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368900.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(14289..15258,16186..16401,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 28"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368907.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(14289..15258,16186..16732,17106..17271,23174..23332,
+                     23848..23930,24160..24310,24409..24524,27102..27252,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 23"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368902.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(14289..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 50"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368929.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     mRNA            join(14289..15258,16050..16091,16186..16401,17106..17271,
+                     23174..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 24"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368903.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27943..28332)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform n is encoded by transcript variant 50;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform n"
+                     /protein_id="NP_001355858.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQDSFPLVCQFQ
+                     FKFPEVNLICLNTGQDYSKKKKKKKKERKYCVNSVSDYGDTTVELSGKKEKWLLEPLQ
+                     FYNCVLYCTTGEGMDLKQGPLYTEGTISVGTNLHFGIQTFIHFGVLFVNGHLYVIMKK
+                     RTM"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 22;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355830.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 30;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355838.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 29;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355837.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 21;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355829.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 24;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355832.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 27;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355835.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 25;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355833.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 20;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355828.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 26;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355834.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 28;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355836.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 23;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001355831.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 10;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001297089.1"
+                     /db_xref="CCDS:CCDS86189.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     CDS             join(17157..17271,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform d is encoded by transcript variant 11;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform d"
+                     /protein_id="NP_001297090.1"
+                     /db_xref="CCDS:CCDS86189.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSY
+                     SCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEP
+                     DMSQYWPRLQ"
+     mRNA            join(17301..17423,23174..23332,23848..23930,24160..24310,
+                     24409..24524,27102..27252,27943..33170)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /product="paired box 6, transcript variant 51"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001368930.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+     CDS             join(23254..23332,23848..23930,24160..24310,24409..24524,
+                     27102..27252,27943..28028)
+                     /gene="PAX6"
+                     /gene_synonym="AN; AN1; AN2; ASGD5; D11S812E; FVH1; MGDA;
+                     WAGR"
+                     /note="isoform o is encoded by transcript variant 51;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="paired box protein Pax-6 isoform o"
+                     /protein_id="NP_001355859.1"
+                     /db_xref="GeneID:5080"
+                     /db_xref="HGNC:HGNC:8620"
+                     /db_xref="MIM:607108"
+                     /translation="MRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAA
+                     KIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPT
+                     TPVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTS
+                     PSVNGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWP
+                     RLQ"
+     gene            complement(27638..>33170)
+                     /gene="ELP4"
+                     /gene_synonym="AN; AN2; C11orf19; dJ68P15A.1; hELP4;
+                     PAX6NEB; PAXNEB"
+                     /note="elongator acetyltransferase complex subunit 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /db_xref="GeneID:26610"
+                     /db_xref="HGNC:HGNC:1171"
+                     /db_xref="MIM:606985"
+     mRNA            complement(27638..>33170)
+                     /gene="ELP4"
+                     /gene_synonym="AN; AN2; C11orf19; dJ68P15A.1; hELP4;
+                     PAX6NEB; PAXNEB"
+                     /product="elongator acetyltransferase complex subunit 4,
+                     transcript variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001288725.2"
+                     /db_xref="GeneID:26610"
+                     /db_xref="HGNC:HGNC:1171"
+                     /db_xref="MIM:606985"
+     mRNA            complement(27638..>33170)
+                     /gene="ELP4"
+                     /gene_synonym="AN; AN2; C11orf19; dJ68P15A.1; hELP4;
+                     PAX6NEB; PAXNEB"
+                     /product="elongator acetyltransferase complex subunit 4,
+                     transcript variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001288726.2"
+                     /db_xref="GeneID:26610"
+                     /db_xref="HGNC:HGNC:1171"
+                     /db_xref="MIM:606985"
+     mRNA            complement(27638..>33170)
+                     /gene="ELP4"
+                     /gene_synonym="AN; AN2; C11orf19; dJ68P15A.1; hELP4;
+                     PAX6NEB; PAXNEB"
+                     /product="elongator acetyltransferase complex subunit 4,
+                     transcript variant 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_019040.5"
+                     /db_xref="Ensembl:ENST00000640961.2"
+                     /db_xref="GeneID:26610"
+                     /db_xref="HGNC:HGNC:1171"
+                     /db_xref="MIM:606985"
+ORIGIN      
+        1 accctctttt cttatcattg acatttaaac tctggggcag gtcctcgcgt agaacgcggc
+       61 tgtcagatct gccacttccc ctgccgagcg gcggtgagaa gtgtgggaac cggcgctgcc
+      121 aggctcacct gcctccccgc cctccgctcc caggtaaccg cccgggctcc ggccccggcc
+      181 cggctcgggg cccgcggggc ctctccgctg ccagcgactg ctgtccccaa atcaaagccc
+      241 gccccaagtg gccccggggc ttgatttttg cttttaaaag gaggcataca aagatggaag
+      301 cgagttactg agggagggat aggaaggggg gtggaggagg gacttgtctt tgccgagtgt
+      361 gctcttctgc aaaagtagca aaatgttcca ctcctaagag tggacttcca gtccggccct
+      421 gagctgggag tagggggcgg gagtctgctg ctgctgtctg ctaaagccac tcgcgaccgc
+      481 gaaaaatgca ggaggtgggg acgcactttg catccagacc tcctctgcat cgcagttcac
+      541 gacatccacg cttgggaaag tccgtacccg cgcctggagc gcttaaagac accctgccgc
+      601 gggtcgggcg aggtgcagca gaagtttccc gcggttgcaa agtgcagatg gctggaccgc
+      661 aacaaagtct agagatgggg ttcgtttctc agaaagacgc ggagtacgaa agaatgcggc
+      721 cgacagagct gggcagcgcg taaagctccc agcgtgtgat ttgagcttca cttcggaaga
+      781 cctaataatt agcgattctc actgagctag aacgcgggct ccggttactg cgggcgctgc
+      841 gctggctgcc tcggcgggaa gcgcgcgggc gccatgggag ccgggccgcc aagcccggga
+      901 aagagaagcg cccaccaccc tgcggccctt ggagggccag agccggggcc cggaagtgtc
+      961 cccttagtga gtcagggaag ggacgaccca aacttagact aacttgtggt tcagccgggc
+     1021 gaaagtcctg ggagcccggc cctaaaagca gctggagacg cccaggccgg cttaggcggg
+     1081 gcacccaaga accccgcccg ggagtttggg gcggcctctg ggccaggccc cggctagccc
+     1141 ccaaccccca ctcccactcg cgctcctgcg ccccctttct aggtcttctg ggagcacctt
+     1201 cggagctcag tcacctgtga caggtgttgg gacctccgcc cgactccgag cggtggcgcc
+     1261 ccctgctcac ctcacctgga aacgggggac gagcgcagtg gcagtccggc cgcacgcctt
+     1321 acctgggccg ggatcctctc ctccgcgggt tcctctccct ggagctgggc ggcgagcagg
+     1381 tcgcctgctt cgcagtggga agtggacctt ctcctccagt cataaatcaa acccagccat
+     1441 cctcgggcct cctccctcat tagagatgtt tattggagat cgtgtttatt cggctgtcac
+     1501 ggcgagaaaa cgcggtgaca taattacctc tgaccagagt cctcgctccg cgcccagggc
+     1561 gagccgagga cctcctctgt cgccttctca tgcccgtgcc cttcgtgatc ggagggcgcc
+     1621 cgtgataggc ttgtcttttt ttcctcagac cctctcatag aatttggatg actggaatta
+     1681 ctattcagat ttccccaggg cccggagttt atttatttat tttagaattg gaaaggaaaa
+     1741 ccgaagggaa cccaacgccc ctccggggca gaagggggca gcgcgcgcga ggcggaagga
+     1801 cagtcactct cgctgcacaa actttcccgc gggccgcgcc gcgcgtgcag gggctggacg
+     1861 ccacccggcg ccagagccgg gcctgaggag cggggtctgg ccgggaacga gggctgccag
+     1921 cctgggtggt gtcatttgtt gcttcatttt tcattccctt tcctctcgtg aggaatcaga
+     1981 ggcatcgggc cgcgcgggct gagaattctt aaattctccc cggccgcatt cggctgagcc
+     2041 aacccgcagt tcctgtcagc ccctctgtcc cccgggcagc ggttttcccc gctagccagg
+     2101 tttggaagtc accctctgtg agactgggtt aggaagtgac gaaaagcgcc gaattgtttt
+     2161 caaattgaaa atactttttt tttttttttt ggagatagcg ctgacaaata tatgggatcc
+     2221 cggcttttga tccctggctg ccgcctctgt tctcctgtcg ctaataaaac tcgcattgag
+     2281 ccccttagtg ccttgattaa caggcagatt aactcttact ggggttggga acagcttgtc
+     2341 ctaatcaatg tcattttaaa agcccgtcag gatgcgctta gcttcggttc cctggatgct
+     2401 tgagcgagcc agccatgaca tttgctccct ccccctcccc agcctcaaat cccccagtaa
+     2461 agcccccagt tcccgcctgc ctgttcccag gtctacaacg ggacaaatcg caggaccggg
+     2521 tcgttggcct ttagaatagg cagcggttta gagaggggat atccagggag aagggactga
+     2581 ggtggccttg acttgcttgc ttttcctttg aagctgaact cttgcctctt gggggcagag
+     2641 gttacaggga aaagagagat ggggggatcg tcacagggtg atgaaatgga aagcaaactt
+     2701 ttctaggaac cctatttgca aaaatcggag agtgccgctg atttcagttg tcctacatgt
+     2761 caggagtttt aaacctaact cctatctgga caacagcatg gagggactgg gaggcaaagc
+     2821 cttgggagtc tgacccgctg ggctgctagg aatccctttg ctgggagact ccactggaca
+     2881 atgttatttt aaaggtattt tgggggtggg cagggagaag acagagagag aaagagagag
+     2941 agagagagag agagagagag agagagagag acaggctggc ctcccagagc gaacggaaga
+     3001 ggactgagga ctgaacccag ggagccccta gcactggcca tttggcagga ggcgaggaag
+     3061 ggcgagggca ccgcggcttc cccccaagcc gagcagtggc cacagcctga aggtgccacg
+     3121 gggcggctct gggatcttct tggcttttct aggctctggg ctcggcgagg ctgccgggtt
+     3181 agcgggaacc ggcaggttgc tggagaaagg agagggacaa aggcctggaa gtgggggagg
+     3241 caccagggac tgggcggccg ggatgggagc ctttgccttt agggctcact ggacccgttt
+     3301 gccagctccg cggacaaggg atcccacctt cccagggtct gcaaaaagag agacgtttgg
+     3361 ggcactacaa agtgacgcag gtgtctgcca agactttcct tctccaaaaa atgccagtct
+     3421 tcaccctttc cagcgcgccg gcgctgcgcc tctgcttgac cggggaaaga gagagtttgg
+     3481 aggtgtcaga actgtcagaa ctccggatgg gaggctcttg gttctgaagc tgggagctgg
+     3541 aggcacttcc ccccagaagt gggcacttct ttgcctcccc gaaggcctga tggggtgggc
+     3601 acaggggaat gccagggatc ggtgcgggtg agatgcttgc ctcacctcat gttgacgcat
+     3661 caatactggc tagaagctct gggcaggctc tggcgagcca cggtccccca gcgggactcc
+     3721 ctccacgcag acagccccgc taccgggtgg gacgaccccg gcggcccccg cgggaacgca
+     3781 cccgccggcc tgagaggtcc tccctctggc cacagggggc ggagggtagg ggggaacagg
+     3841 ggcctgtggg gaggcgggga aaggagacag aacctaaagc gcaatccccg ccgccccccc
+     3901 gcgtcttgga gggcagcaag tgggcctcgg gcgtgttggt agccgcaatt aaaatggcga
+     3961 cctgcgagtt gtctcggttt tgtacacacc tctggcaacc gcgcccgcac ctcagtctcg
+     4021 gcccccacac ccctaggccg cttcgccccc agagccggta cttggcagag ggagtgaggc
+     4081 tccccacgag gtagaacagc acccccacct tccttgagac cagtccagag agaacgagga
+     4141 aatctcactc tcacccctct ctccttaaac tttgaaaact cggcctcatt ctggggttga
+     4201 actcccctcc ccaaatattg acacatggga agcagccaag tcctttttgt tttttgtttg
+     4261 tgcggaggag tttccaggag tctttcccgg agcccccttc cccacccaat gacgtcagtg
+     4321 gcattcactc ctcgctcctt gccttttctg attttttgtt aaaacttttc tccgcagcga
+     4381 gatgggggtt ggaggggtgg gagaaggagc tgattcaaag agccagtgcc ctggggggaa
+     4441 atagcaacaa gattacggct gcttctttcc gaggcaaagc ttaagaaggt gctaatccac
+     4501 tcggtcgcta attgagaggt tgtaaaaatg atactcgcct ccagttcgga cagaatcact
+     4561 tccccccccc ccgccccccc gcaagtccct cgctcatgca cagcggactt gagtcttgag
+     4621 tccaagcttc tttaatgctc gcttggaaag taaaaggaga gagaaagaga aagccgactt
+     4681 tcgctggtct gggactcagg gccgcggccc cacttgccgg catcctccga aagtcgcgct
+     4741 cctgcgaaat gaaacctcgc ccaggaggcc gcggacctgg acacccggcg ccacctcctt
+     4801 cacctctgac ccaggtttcc tcccggcgct gcgagctccc ggggaagggt tagagccggc
+     4861 agccctcccc agcccgggga ggggagaggg ttatgcgacc ccacctctgg ctagggccgg
+     4921 ggaggccttt gcttcccggg agccctgccc gggctccttg gtcgcagggc tgctgggtcc
+     4981 caggcaggaa cgagagggtg aggcccacat gtggcccggc ggcccagggc ggcttgcagc
+     5041 gtcctcactg tcccggctgc caggggctgc ggcgacgcgg ccagtcagca gcgagttcag
+     5101 gtcgcgcaga ttttattgat gagctctgac tttcagcact ttccctaagt caagaagagt
+     5161 ctagcgtacc cttcggctgc ttcatttcag cctccctgcc tcagctcttc agccctattc
+     5221 cccctcgccc tgtcctgggg tgtgtacagc agcccaggcc ttccttctcc ttcccggctc
+     5281 cgtggcccga agccgccgag agagctcggg acagcgcagg accaggcagc cgctcgctct
+     5341 cctgtcacct taactgcagg ctccgagggg cgcctttgga gtgtactgag gtgtgtccta
+     5401 atcgtgcggc attcaacaaa tggacttctg gtgtgtggtc agaagagaaa agccatttac
+     5461 ttactttcct ccccggtttt ctggcaacag ctgaagggga gctgcctccg tggactgagc
+     5521 agacccagga gagggagtcg tggtgcggag acacacgcac cacacacaga tgaccggtgg
+     5581 cacacacgac acacgctgac ataccgacat cgccagtggg acacacacac acacacacac
+     5641 acacacacac acacacacag agagagagag agaatccctc ccagcattgg tcatccgccc
+     5701 ccccacccag gcttccactc cccctcccct cttatctccc ctggcttccc ctcctctcgg
+     5761 gcgctgcgaa aagcagccgc acttagtcaa caaatggcac gtgggagaag ttggtgagtg
+     5821 tttggtgagg actcttcagg gcttttcaca agaaccctct gtacacaaag taagtggcgt
+     5881 gtttactcgg gcctctccag ccagagctgt gcctctgctc cgctgcgcac cgcggcttcc
+     5941 gaaaggagaa aggagagaag aaagggcggg gagagcgggg tggaggattt ggacaggccc
+     6001 tggaggcttg ggctggggag gcctctggcc tcgtttagtt ctcggcccgg caacctcctc
+     6061 tcggcctagg cttcgccgcg gcctccgcag ctggaatgga gctgccagga cccagtgacg
+     6121 ctcccgcccc tttcctcttc ttccaagggg ccaggtgggc tggggtgcgg ccgccgctgt
+     6181 gctctgtgtc ttggggcccc ggctgggatg gggtgggggc gggcgggggc ggggcggcag
+     6241 gccacgctgt cctggagttg gcaagaaagg acagcacaga aacttgcacc ctccgaggac
+     6301 tgggagtccc gagtccagct tagggggagt gggggcgcga cccccaaccc agaaaccttc
+     6361 acttgaccgc tcaagttcgc ggcagcaggg cgggccgcgc cgaatctcgg cgtgcgcgga
+     6421 gcggggagat gcaggcgagc gccagagccc gggctcgggg gccctgcgcc ggggagagga
+     6481 gccgggaccc accggcggag ccgaaaacaa gtgtattcat attcaaacaa acggaccaat
+     6541 tgcaccaggc ggggagaggg agcatccaat cggctggcgc gaggccccgg cgctgctttg
+     6601 cataaagcaa tattttgtgt gagagcgagc ggtgcatttg catgttgcgg agtgattagt
+     6661 gggtttgaaa agggaaccgt ggctcggcct catttcccgc tctggttcag gcgcaggagg
+     6721 aagtgttttg ctggaggatg atgacagagg tcaggcttcg ctaatgggcc agtgaggagc
+     6781 ggtggaggcg aggccgggcg ccggcacaca cacattaaca cacttgagcc atcaccaatc
+     6841 agcataggtg tgctggctgc agccacttcc ctcacccaca ctctttatct ctcactctcc
+     6901 agccgctgac agcccatttt attgtcaatc tctgtctcct tcccaggaat ctgagaattg
+     6961 ctctcacaca ccaacccagc aacatccgtg gagaaaactc tcaccagcaa ctcctttaaa
+     7021 acaccgtcat ttcaaaccat tgtggtcttc aagcaacaac agcagcacaa aaaaccccaa
+     7081 ccaaacaaaa ctcttgacag aagctgtgac aaccagaaag gatgcctcat aaaggtgagt
+     7141 ccgcttcttt cttctcgctt tatttttatt gcaatattca gacaggtctc ccccttcctc
+     7201 cccccttcct tcctcccctc tcgccggtcc cctcccccac tgctacgccg ggagagttgg
+     7261 gccggagaag tttccacgca ggagcccaaa ctttctactt ccagcgaaag cccgcgtcgg
+     7321 agggcgactg ccggcgagcg ggagcggcgc agggctcggg gcgggcggcc agctcagccc
+     7381 cagcgccagc gccagcgcca gcgcgggctg agctcgcggg aagaagggag actccaggcg
+     7441 cgacagcagc cgcggctcct agccccagcg tcgcccaatg ctcccgaccc gcgggaaaag
+     7501 acgaagaggc tctgtggtgc ccaaggccct ggaacggccg cagagagcaa ccgctgccgg
+     7561 ctgctttgtc cagcccgagg cccagcgaac gcgcagagag cgggcgctcc gaggactcgc
+     7621 cgagggagcg ccgagggaac ctgctcgccg cgtctccgcc cgcccgccgg ccctcgggct
+     7681 ttgtgccgca ctgggctccg gcgcagaaga gtcagccggc actcgagcgc cgaggggggc
+     7741 accgcgcccg ccaccagccc gagtggagtc agtcggcaag gcagccgcac gctggaggta
+     7801 gagggaagag cgagctagcg cgagccggga aggaagccac caggccaagg cggtggaacg
+     7861 cgcgctccga gggagctcag agccgagcgg gaggactgtc agcttccacc cagcccccgg
+     7921 gctcttgccc ccaactccac tggagcgctg agctcggaac ttgaaaactc tctgctcccc
+     7981 aggcttcccc cgactctcat ctcccttgcc ttgcggaggc tggggctctt ccctgttctc
+     8041 cggccccctg cgcttggtgg gtatttttcc ttgttttcct ctgatccagt ctcaccaggt
+     8101 gttgggattt cagcaagttt tgaggtgcag agttggtttg cttttttgtt tgttttactc
+     8161 cgaatcccct tatgtttttc ttggtaaggc cttgaaaata aatctgtatg aaagcattgg
+     8221 ccttccccct cgtctgatca cttcttctcc cggctaatta gtcggagtaa tttgagagct
+     8281 ttcgattcta agatcccagg aggaaaagtg tcttttcaaa gttcataaag ttgttgcctc
+     8341 tttccttgtg cagattttct cagtctccct gcgccataat agccctgaat tttagcaagt
+     8401 gtaattgggg gaaatggagt tgaatttcaa gtggaaatgc tttctttttc gagtgctaaa
+     8461 acctggctct tcattcatga gcgatttcta gaaagtttaa aaacaaagtg aacgtggttt
+     8521 ctttctttct tcctttttat ttttcttata ctctcccaag ctccctaagc cattctggac
+     8581 gtttaactcg aacttgggaa ggttttagaa ggggctggga gcagaaaatg aaatgaaagg
+     8641 caaagagctt gagcctggcg agtttactga agagaaataa tagttgttgc ggttgacatt
+     8701 acatttttta tagccagtga cctttgcaaa agcgtgaagg cagtttgatt agttgttatc
+     8761 ttatttggcc ctagagagta aaactttgtc atcataattg ctaattactc ttttggctgg
+     8821 gggcgggagg accgagagct ctccccttta cctcagttaa agagtttggg gatggaattt
+     8881 gagaattaag taattaaaaa aagaacagca tttgaaaact gaggcttgtg ttggggacag
+     8941 agaggtgggg gcagtgacca ctctcttgtg gtccaaggct ggggcgactc caaaatgtct
+     9001 ggagactcct tcgttcagga tgtggttcta tggccccagc gaggccgtac agagcctcgg
+     9061 gctgagctgg ggggctgagg ctgcagttgg gggtctgacc tctccggtgc acaggactgc
+     9121 ttccgggtgt cgatgtgccc cacttcccgg gttgcttctg cacttagtgt tcacgtttac
+     9181 ttaagtaatt agatagcttc ttagcgagag ggaagtggga atggagcaga actggaattt
+     9241 gaaatactac caccttccca gctgcttcga aaactaatca acgaggcctc tttgtgctca
+     9301 gctactgaat ttaaaaaaaa atggtatcaa gaagttacaa gccaggatgg gagcattctg
+     9361 ttgtgattgt gcacagcgtg ggttacaaag tggagttctg gaagttttac ccctcctagg
+     9421 ggaattccat tccccatctc cccacctact actcctttgc agcttcaggg tcctgcattt
+     9481 gttggggtgg ggtattttgc attagagttg gagattttgc ctatccaggg catggctatg
+     9541 ggtgccggga ctgagagaca ggaaggaagc attggagagc caacctagat aagggtaact
+     9601 agtaaccctc tgctgtggcc agtatttacc caatgctgag aaaaagtcct cattttcggt
+     9661 ttatttttat ggatttaagc tgtctaccaa gtagttaaaa agtagaccag gaatggcctt
+     9721 gtagagtaaa atgtgcttct tgaaattctt tgcttgcagg caggcagatc aataatcacc
+     9781 ataggtaaaa cagaaaaaat aatgcattta aaaaaaaaca gagagaaatg atgctgtgac
+     9841 tgttttgtta ttttacctct ttttgggggg cagacctctt gaatgggctc tttattgtaa
+     9901 ctctctcttc ccaattgagc tccccacggt gccgttgtat ctttttacag cccctaacaa
+     9961 ctcacaccag taacacaatt acctccagat atttacaaca agaaattact tttctatttt
+    10021 ctccactcac ccaaaagact tttttttttt ttcctttggg aaaggtaggg aggtgttcgt
+    10081 acgggagcag cctcggggac ccctgcactg ggtcagggct tatgaagcta gaagcgtccc
+    10141 tctgttccct ttgtgagttg gtgggttgtt ggtacatttg gttggaagct gtgttgctgg
+    10201 ttagggagac tcggttttgc tccttgggtt cgaggaaagc tggagaatag aagccattgt
+    10261 ttgccgtctg tcggctttgt cgaccacgct caccccctcc tgttcgtact ttttaaagca
+    10321 gtgaggcgag gtagacaggg tgtgtcacag tacagttaaa ggggtgaaga tctaaacgcc
+    10381 aaaagagaag ttaatcacaa taagtgaggt ttgggataaa aagttgggct tgcccctttc
+    10441 aaagtcccag aaagctggga ggtagatgga gagggggcca ttgggaagtt tttttggtgt
+    10501 agggagagga gtagaagata aagggtaagc agagtgttgg gttctggggg tcttgtgaag
+    10561 ttccttaagg aaggagggag tgtggccctg cagccctccc aaactgctcc agcctatgct
+    10621 ctccggcacc aggaagttcc aaggttccct tcccctggtc tccaaacttc aggtattcct
+    10681 ctcccctcac accccttcaa cctcagctct tggcctctac tccttactcc actgttcctc
+    10741 ctgtttcccc cttccccttt tcctggttct ttatattttt gcaaagtggg atccgaactt
+    10801 gctagatttt ccaattctcc caagccagac cagagcagcc tcttttaaag gatggagact
+    10861 tctgtggcag atgccgctga aaatgtgggt gtaatgctgg gacttagagt ttgatgacag
+    10921 tttgactgag ccctagatgc atgtgttttt cctgagagtg aggctcagag agcccatgga
+    10981 cgtatgctgt tgaaccacag cttgatatac ctttttctcc ttctgttttg tcttaggggg
+    11041 aagactttaa ctaggggcgc gcagatgtgt gaggcctttt attgtgagag tggacagaca
+    11101 tccgagattt caggcaagtt ctgtggtggc tgctttgggc tcaaaaccca caaacagtca
+    11161 aaacaaacta tttcagtatg cttcttcact atagttcaga tagaagaaaa taaatcaaaa
+    11221 ttggggcatc gcttctactg attaaagggt taactgctaa agaatgtagg ggaaacagat
+    11281 tggggatatt ccagtacttt gtttcaagcc ccaaagggta gattttgtat gcactgcagg
+    11341 gcagagctga gtgaccctca gatcgcccca agaggttgag tggatcaatt cctaaagaac
+    11401 ggagattctc ctgtcctagc cccaggtcca cctcggttgg gagttcaggc ctacctgatg
+    11461 cagctgcccg aggattaact cctattttct tgctaacaga gccccatatt cgagccccgt
+    11521 ggaatcccgc ggcccccagc cagagccagc atgcagaaca gtaagtgcct ctggtctttc
+    11581 tgggacttcg ggctcggggt gcgcggaccc gagggtcagg ggaggacaca gggactcgcg
+    11641 acgcccgcgc tggcccggcc gccgaccgac tgaggcccgg ggacctgcgg cggctgctcc
+    11701 ccgctccgcg cccggcagcc cgggagggga gggcgtttgc ttggctcttc tcgatactgg
+    11761 agaagcaggg gctgggccct taagaacagc ccgcccgagt tttcgaagct gcggtagaga
+    11821 aaccccatcc cccccaaatc ctgtaactca caccccctct cgcccctgcc cgggctctga
+    11881 ccccggagag aggggctggg ctgatcaggg cggggcgaag tcttctccta gttgagcgag
+    11941 aaggaggccc ctttgggctt agccaagact gaaagtctcc accaacccgg cggggttggg
+    12001 ggcttctctc cccaagtcac tctcagggca gctcctcccc tcctcacccc actacgggcc
+    12061 tagaagggat ggggagagga gcccccaggc ctgcagcagg gtaggggtgg taaactcgct
+    12121 gttacagggc gcgggagaga gcacggttta ctgggtctgg taaggaggtg cccaggaatt
+    12181 ggaaaatccc tgccctggca actgcaattg cttgggtcct gatagtccca ggcccagagc
+    12241 gcttttgata cttatggccc ttgtacctcc ctgctttcct ctgcccagac cccgtggggt
+    12301 cccacccacc ttcctgttcg tggtgggtgc tggtacgcgg cagggctagt ctagagctcc
+    12361 gacctgggag cctggaggcc cagcgaaacc aggcccggtt tgaggttacg gttgaggcac
+    12421 acggcgtcgg ggctcaactg aactcaaagt gtggaaaggc ccgggtcttc cagcagcctg
+    12481 ccctggccga accacacagg cttaaggagg gtccccagca ccttatccat ctgttttgga
+    12541 aacgccggtc gccccctggt gcttccgggg ctggtaagcg cgtagctgag gaaagggcac
+    12601 aaaggtggcg agctttgcgg gagtagttgt gcagaacctg ccggacccca gggcttggcc
+    12661 ggtaggctcg ccttcggcgg ctgggctctc cccttggagc tcagactccc cagccgcagg
+    12721 ctgtctctcg ggcgggcccc agccagggcg cgcagccctg agcgtttgtc gctgcggccc
+    12781 ggctggcagg ccccgagggg cgcggggtcg cgggccggcc ggcagggctt tgtgccgctc
+    12841 gttcccgggt gtgcgcgagg cgcggagcat ccaaattgac accatatgtt ttcctattag
+    12901 ttgcttcgcg gtcgagttct aggcgcataa tcatcgccag tgggcgagag cgccagcagt
+    12961 ccctagggaa gggacacaat gattgaggct taacctctga aggggaattt ggagctgcgc
+    13021 tttctctctg ccatttcgat gctgggagtg gcgctctggc cctggcgtct cctgggcaag
+    13081 caccagccgg cggtatctgc ggaggtggct ggcacgttgt tattttttga aatgagtgag
+    13141 gagggaggtc tagatttagg cggccttacg cgcccgcctt ggcattagca gactgggaat
+    13201 tgccgtggct atgcccgaag tttggaaagt ctctctcggt ctctttctgg gacagccttt
+    13261 ctttttccgg gaagcttcct gtgcctagag gtggggctct gtagctggag gggtagatgg
+    13321 aacttgcgaa gcaaaggaag gcaataaaag gaagttagga gaaaccggaa acgtgggcca
+    13381 ggccttgctc tgttggagaa gcggtgtccc cgcaaagtcc ctgcttgcgc tggtcccggc
+    13441 cggagcccag atcccccaaa cgcctgtcac ttctcatcga gttgaggctc cggcccccac
+    13501 ccgcgccttg gtgagggccc cccctcagcc ccaagccttc ggctaccctg aaaacgcggc
+    13561 tcccctcgaa ggggaaacaa gtgcagttca atctcgtctg agtgatctac aaataaggac
+    13621 ggaaagggtc gttttatcac ggtcccgttt gtcgtgacga tgcaatttcc cggagcggag
+    13681 cactgtcaca aagtgacaag gctgccacaa gcgccccgac tgatcttttc aattagcctt
+    13741 ccatgcatga tccggagcga cttccgccta tttccagaaa ttaagctcaa acttgacgtg
+    13801 cagctagttt tattttaaag acaaatgtca gagaggctca tcatattttc ccccctcttc
+    13861 tatatttgga gcttatttat tgctaagaag ctcaggctcc tggcgtcaat ttatcagtag
+    13921 gctccaagga gaagagagga gaggagagga gagctgaaca gggagccacg tcttttcctg
+    13981 ggagggctgc tatctaagtc ggggctgcag gttggagatt tttaaggaag tggaaattgg
+    14041 caattggctt tgtgtgtctg tggtttttgg ggagggggac tacaaagagg ggctaactcc
+    14101 ctctccctat tctctaaggt tggaccacag ggatgaggtt gtgagataca aagataaagg
+    14161 agggatgggg aacactatga tgtggtattt ttcttttctg ttttttcttt ttgataatat
+    14221 ctatccttgg ctaaggggag ggcggagttc agcggcggaa ataaagcgag cagtggctgg
+    14281 tgcgaaccga ctcccggctc taagccttac ttgcggtggc cggacttgtc tgtggctgaa
+    14341 gccgagcccg ggctctgact ctcacgtctg cactggaggt gcggaaacct ggactggggt
+    14401 tcaccagcca catactggct gctctggttg ttctctcctc ttccttcttc tattctaacc
+    14461 aaacaaaacc caactcgatg cttgtgccag gccttggcca gtttggacgg tgatggaaac
+    14521 atttctggat tttagcgtct aagggagcac tcaagggctg taaggtttgc tatcactgtc
+    14581 ccaacactgc agagaccttg aaggttcagt gtgggatctg tagaacccat ggtttgcggt
+    14641 gacactcaga ggggatcttt gggagattta tagagccggt tcttagcgct ttgtgggttc
+    14701 agaggctggc tgcagtgttt atgaagaggg gcagtgggct ggggacactg ctggggttat
+    14761 ggctgtagtg aggtccatgt gtacttgttc cttggcatgt gtctgactct gtgttgctgc
+    14821 tgcagtacag tgggcagggg cacggttgct tggactgggc tgcccgatgt ctggcatggc
+    14881 tggtggtcct gttgtccttt atttgatcga tagcagggaa ctgaccgccg aggttggcac
+    14941 aggttggcag ggggatgagg atgcattgtg gttgtctcct cctcctctcc ttcttcctct
+    15001 tccccttcct cctctccttt ctgttcttgt tctccctcat cttcctcttc cttcttctcc
+    15061 ctcttcttcc tcttcactct gctctcttct cttcttttcc cctttcctct cctctccctt
+    15121 tcctcaggtc acagcggagt gaatcagctc ggtggtgtct ttgtcaacgg gcggccactg
+    15181 ccggactcca cccggcagaa gattgtagag ctagctcaca gcggggcccg gccgtgcgac
+    15241 atttcccgaa ttctgcaggt gatcctcccg gcgccgcccc actcgccgcc cccgcggccc
+    15301 tccactctca acgccctctc ttcatttctt actgtaaacg atgctaatta tggacccccc
+    15361 caccctcacc caccccagtc cccagtcccc ccacccactc ccctgccttc ccactttccc
+    15421 ctctccttcc accatccttc cctatctctt tcaacctggg tcagttacat aagataactc
+    15481 atctgcttca gaaaaatatt gtgtgcggat ttttttaaaa aaatctttct ctttttattt
+    15541 ggtaaagaca ttcattgtgg gaacagttta tgaaccgtaa taagctgagt tatataaacc
+    15601 ggcataattt cattctgctc tccccagccc atgcttacct cagcttttga ggtatttgtt
+    15661 tattcttcat gtttatgaat aatatatatt gattttaaaa ggcaaatgct atttactcct
+    15721 ccctaactca catttactca attgagtatt ttttaaagaa gaagaagtaa aaaaatcagt
+    15781 ttatttttta cctttgttct ttaaaacata acgccacttt aagcaaggtc agcacaaaaa
+    15841 taaatttatc tacttcgttt tgatgcatct tcaggcagtg tttaagaaaa gttttttttt
+    15901 taaaaaaagc ttttaaattc gttttttagt tcaaattgtt tgaaagtatc atcatatttg
+    15961 tagtttttag ggctacaaat gtaattttaa gaaaaaaagc tctctacagt aagttctcat
+    16021 accattgaag gtatattttt gtgttataga cccatgcaga tgcaaaagtc caagtgctgg
+    16081 acaatcaaaa cgtaagcttg tcattgttta atgcatactt aaacaatttt atttttgtct
+    16141 tgaaattatt aataatgtgg ttttctgtcc acttccccta tgcaggtgtc caacggatgt
+    16201 gtgagtaaaa ttctgggcag gtattacgag actggctcca tcagacccag ggcaatcggt
+    16261 ggtagtaaac cgagagtagc gactccagaa gttgtaagca aaatagccca gtataagcgg
+    16321 gagtgcccgt ccatctttgc ttgggaaatc cgagacagat tactgtccga gggggtctgt
+    16381 accaacgata acataccaag cgtaagttca ttgagaacat ctgccctccc tgccctaagc
+    16441 ccaatgctct ctcctcttta cctcctccca ccctctctct ccactgtctc ttagtctgtg
+    16501 tcctctccct gctccacatt tgtctccttt gtacctgggg gaacagagag gaatgccctg
+    16561 acttttcttt gactgtctgg aaaatgggag tcaagtgtgg ggagtcattc acttcatttg
+    16621 catgctgcaa aacagagggc ggaggcacca gggaaaggca cttgaatgaa gaaggaaaat
+    16681 gagaaccaga ttgtaacttc gtcctaatcc acctgccaga actttccttc aggtgtcaca
+    16741 catccatttc catcctaata ttaaacaata taatgaaaga aagctttaca acaagtctaa
+    16801 atagttttta ttttcgggca gtcttttaac aaagcaaagc aaccgtgtga gttaggtcac
+    16861 cagagacacc aagcaatggt gaaggacccc ctccgcccaa ttctctatcc aactaaattt
+    16921 ccatgcccaa agtgatagct atcatttttt ccacggtgta tctgcaaatc cacccactgt
+    16981 cccggggtgg ctgggagctt tttaacgggt tgagagttgc tttttaaggt tgtgggtgag
+    17041 ctgagatggg tgactgtgtc ttcaggagac actaccattt ggtttgattt tggtttgatt
+    17101 tgcaggtgtc atcaataaac agagttcttc gcaacctggc tagcgaaaag caacagatgg
+    17161 gcgcagacgg catgtatgat aaactaagga tgttgaacgg gcagaccgga agctggggca
+    17221 cccgccctgg ttggtatccg gggacttcgg tgccagggca acctacgcaa ggtaaaaccc
+    17281 aagcagccat ccacgcagct ctccatatgt gcatcccttt gcctgtcccc tactctccca
+    17341 accatttcct ctcagggctt ccatgcttgg ggaatgtcat gggtgagact gcatttgaag
+    17401 gcctgggaca catcgaccac attgtatgta ggtggtgttt gttgaaccat tttgttggcc
+    17461 tgggaatgtg agggttgtgt atgtcaggag cggtatgaag gtggctggtg ggtgcgtgtg
+    17521 tgtgtttgtg ggcagcactg tgtgcataag aacgagctgc gtggtgcact attcaaattt
+    17581 gacattagaa tgcagggaga gcccccttgt agaagtgtga caagataacg cactgacaga
+    17641 ctgcgaggtt aacataattg tatcctgttg ctttttgctg taattgacaa attatgtgac
+    17701 tatgagtagg gtgcacatga aaaggtgagc agggagatgc agggcgagtc ggggatgggg
+    17761 cattggaagt ggtggtctcc caactaaaac caccccacta tccttgcccc tcccccgttc
+    17821 gcccctctgg gtcccacttt ctcactctct gtgggtggcg actatgtgga agtggtgagg
+    17881 tgaagatact gtgagcagga cggcgggatg ccgggagccg ctctggtctg ggaggagaga
+    17941 tgggacctga aacaccccag gttctgtgag aagggctgga ggaagaagag cgggggatgg
+    18001 ggggggtggg gcggagggga gggtcagttg gctcccctcc gctcccctcc acaccccgag
+    18061 gtagcttggt caagaatagg aaacagttta ctccgaagat taatcggtat ttgttgtcct
+    18121 cgtgacaagg agataatatg cgggataatg ggacgtggcg tctcactccc aggagcacaa
+    18181 cggagccgag gggctcgggg ccaggggcgg cgcgcgggac tgcgaggagg ctgccggcgc
+    18241 atccgtgagc tctcggaccg gctccggatg cccggcgcct ccatggagtc gggcgaggga
+    18301 agggaaaatc ggtaacagta tgcgaaatat ctggtacaaa ggatgcttct gtcactcgca
+    18361 agaatttgtt atgggaacaa tcctgtcgct ctgtaattgc tcattagaga acgttttgtt
+    18421 tctcattaag gcgacatgaa taagcgtcta gttgaaggag acagctgtag aaatgttcca
+    18481 caagagacct ctggacacga ttcggcacca attgccaatt agacatgtca gttttaagag
+    18541 cagaaaacaa tataggacgg acactgggaa gatagggagc aaagcgctcg cttcttgttt
+    18601 cccagcgcgg ccgctcggcc ggcggaggcc tcctgacgcg cggggcccgg gctcccctgg
+    18661 gcgaccccgc ccgcacgggc cccgaacccg ccgcctccgc gagctcagag ggcccccagg
+    18721 cccgctcccg cctctggtga gactagcgat tgaccccacc gagtgtaggc aaccccatcc
+    18781 ctgcctgact tttgaaaccg taggattccc acttgtagac actggacaca cccaagtgac
+    18841 acccgaactt cgcactcacg agcgtccacc cctccgcccc cagcaatctg aggtcctggt
+    18901 gatccctccc ctgacaagag tctggcccac ttagtccgag aagtcttggg gagggactca
+    18961 gggcacggtg gcctaggcct gggagggctg agcccagagc ctccactccg ggctctcccc
+    19021 ggtgcgtggg ctcccatgag cttggggcgc aggatacacc ccccttccgc ttcttggagt
+    19081 tgggcagaag ccgaggacag cagcttccac cagaggtggc gcccgattcg ggcggatttt
+    19141 cgtcgccggc agtctgaggg cgggaagtga gagtcaaatc agctagggtc cgcctgtgat
+    19201 ggttggggcc ggaggtggag ctagtccagg ggcttttcac tttaacgcgc ctagttgcta
+    19261 gaaaattctg ggtcaactgg caatcaccac ccccccaccc gcaagtgagg tttttggggg
+    19321 gtgattgtca cctcaggcac aggaccgtcg cccctagttg cgtggggagg acacgtgggc
+    19381 caaacgaagc acagagttgc cggcgtgggg gtagcgggca ccggtggtga gcttcgcttc
+    19441 acgttcccgg ggaatcctca gactttttgg tgctaagagg gtccccctcc ctccctagcc
+    19501 ccctttccca gcccaggaag cctttcttgg gttttaaaga gtccatactc caaaagcata
+    19561 aggcgggggt taggtctcag agggagacaa atatggtttc catctgatca acgccatgcg
+    19621 gcggtgaata aaatcgcgac gacgtgggct gacaacaaca agagacaact ctatccagcc
+    19681 ccaattctcc ggcgatttgg tggttttagg gatcacggag acactttttc ttatctcctc
+    19741 ccctcacccc acccccaccc cccataatac ccaagccctc tataggattt agtcagcctc
+    19801 tctttcaaca gatgctacaa tgttttgatc cgcgctccag agctgaaaag gtgccgcaac
+    19861 cgggttgcta tcttttcttg cttgttttcc gcctcactga ttaagacact aagaaactaa
+    19921 ggaatgattt tatttcccag caactctctc tctgtctctc tctctctctc tctctctcac
+    19981 ctccttccag gaaacaaatc ctattcccat cgtcagatgg tcctggggct gggataatgg
+    20041 gaggcgcttt cactcgcttt ctcacggatt aggctggaag gtgaacggca cccactgaag
+    20101 gcccctgctt tgcgcggctc cgagggggcg ccttttgaag aagatatctt aattgtccac
+    20161 cacttaggtt tatcgtgggg gtgggggagt cgagatccaa cttctagttt tattttgtta
+    20221 aaagctttaa gagtggaagg caaatccact aaagtggggg gaaatgtacc cattttatgt
+    20281 aagagcagcc gctaggtcac cgcctggctg caaacagttg ccacttctaa agtaatgaac
+    20341 tgtctccgtg ccgctctccc cgcggggtag agaagggatc ctgcagcgac aggtttcttt
+    20401 ttgctgtgga attccaatcc ccgcttccca tctttttttt tttttttttt ttttccagat
+    20461 ttaaaattga gctctactgt ccctgctgac ttttctctct taagtgtcag ttctggaggc
+    20521 agcacagggc ctggcggcga tcgcgtgctg cctgtgtaaa cccgtgtgta tgtttgtgtg
+    20581 agacagaaca tggataagaa tgtgaatctc catgttttaa aattaagaaa atgtcaaaga
+    20641 ggcaaatgag agcagagcat gctatcggcg gggttcttcg gaggcagatt cgggcaactt
+    20701 tgtttaattg gcgagatcga atgtgccaga aaagggaccg agatggggcc cctaggaagg
+    20761 catgggcatg agtggccatg gggagatggg cattgtgttc tcctcagtgt cccccacccc
+    20821 ataccagatg tgcacagatt tttgtctgtt ttccaaaagc aataaccctc cggcctttct
+    20881 agttggccaa aaggagctat ttccagtctt ccttcttcac caaacccgaa aataaagcga
+    20941 ggggtggggg tggtcgcttc atttcttccc ttgaaaaacg ctttgaaaag tccccggaaa
+    21001 cttggggcag taaattagca cagacgcttg tgcccgcaca cgtgagcgga gcgcgtctcc
+    21061 ctcagctaag tagccctcct cgacccccac ctttctgatg gagtgcaaag acccagagtc
+    21121 cagatggggc tcagttacta atattctctg gccctcatcc tccttttcct ctctctccca
+    21181 ctcttgttcg gccctcgtgt ctctttttcc tctcagcatt cttttctgtc cttttttaaa
+    21241 aatacctttc tagcctctat gttttttgag ccttcttttc ccctccatcg ccctcttttt
+    21301 ccctccatcg ccctctgtct ttcccctaac ccaggccccc caatccttcc cccttgcttc
+    21361 cacccccacc gctggtttcc atcctgcctc ccctccatct cctctatgta ggaacccagc
+    21421 cctggtcccc gtccactctc cctgcctccc cccatgctgg gccctggccc ccccatccac
+    21481 cctccatccc cccagccaag cgccctaaat agcacggagg cgcccgctct tcggacagtg
+    21541 attaatgata gcagagcaga ggggttaaca cacttcactg aaaagtctgt tgactgggct
+    21601 tcttgtaaca caatgtggcc cgctgcacgc ctcaagagaa tccttttgtt gtccgcgctc
+    21661 attgtagcct caaaattctg cccacgaaag tttgccaacg ctcctgcccc aggagtttaa
+    21721 tagtttccct tactcgcggg gcattgtgca gcgctgaaaa gcagcccctc gctattcaag
+    21781 tgttggtggt catctcaata gatctccaag ggcccatatg gtggccagtg ccgatgaatc
+    21841 cgcctgttta aatgggggag aaagttgggg ttttaaaaca tttcaaagtt cctgaaaaga
+    21901 tcccactaga tcctgtcaca attccctgaa ctctttgaag gcgcagccta ttgtctcctg
+    21961 gttataaata atattcctgg ccaagtcgat tcccaccaag gcgctcctag gggcccctcc
+    22021 accccgcctc tggccaagtt ttgaggatag ggaggtgggt agcccatgct ggtatccctt
+    22081 gggggtcatt tcaggacccc agacccagga cccagcctgt agtggccctg gaggcccagt
+    22141 cagagtttag gcaatcctgc ttcccttcac tgtggcctta caggcaaggt gcaagccggg
+    22201 agccagctag cccaagtgca catcttgccc tccaggcagc aagggaaaac cataaaactt
+    22261 tccccctgta taatgataga agttacattc aaagtggtgg aaatgcccta attaaaaatg
+    22321 taccacttaa atgatatgcc aaagattcag ctgcagcata gaatatttag ctagttagtg
+    22381 aactctctac tatttctttt ttaaaattac acgttaaaaa tttaaaagaa atcttacttt
+    22441 tctctggtgc aacacattac aaagaatgga cagtcctttt atctaaatat aaaattccat
+    22501 tttcagcaat tatagcctgt tcttggtgat gatataatta cagctgtgct cgtaataggt
+    22561 gtcaaggcga agcgcactca tacaatagtt gaataaaact gcagaacaat gcgagcactt
+    22621 ctaaattcac aacctttaaa tgaaattgac tgtgcagaat tcaaataaaa actagataaa
+    22681 tattttttaa aaaagattac aagcttggtt tggtttctta atagcatttt ctacaaacct
+    22741 atcaacatct aattgattag ataggaatta ctgattatag atcaactgaa atcttgaaca
+    22801 tcactcttct attttcccaa cacagccata ggtaaagaga ttctgtaggg agtggagtga
+    22861 ggcatttggg gagttggggt tacttataaa agatcatttt aattggaaac ttcagtgctt
+    22921 attttttcat tcaagaaatg ccacttagtg tgtgtattat aaagtctcat cttgataaaa
+    22981 acaaagaaaa tggtggtcag gtaactaaca tcgcaaatgt atttttttaa aagaaggctg
+    23041 acagttacct tgggaatgtt ttggtgaggc tgtcgggata taatgctctt ggagtttaag
+    23101 actacaccag gccccttttg gaggctccaa gttaatccaa atttctctta ccatcctatt
+    23161 ctttttgttc cagatggctg ccagcaacag gaaggagggg gagagaatac caactccatc
+    23221 agttccaacg gagaagattc agatgaggct caaatgcgac ttcagctgaa gcggaagctg
+    23281 caaagaaata gaacatcctt tacccaagag caaattgagg ccctggagaa aggtgataga
+    23341 gtttttcaaa gtagagaagc agtaaatcaa agtaaatgcc acatcttcag tacaaagagc
+    23401 taaatttagc cagggccctt tgcatagaag aatgaaaaga tttccttttt tctgtctttt
+    23461 tatttctctg ggcatctttt cagtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt
+    23521 gtgtgtgtgt gtgtgtgtgt ggtgtgtgtg tgtgtgtttc ttcttttcat ctaccagtaa
+    23581 ttcaaagact aaatgtctga cttataagga aaaatgatga tttggctatt tcaggccaca
+    23641 gaaaggtcac tgaatgccat tccaaagaaa atttaacttg gttctggtgg gaaagttctt
+    23701 ccaagtacag tcaacactag aagcatttta aagggaattg gttggaggta atgggagtgg
+    23761 ggaggtggga accagtttga tgcacagttt ggtcaacata ttttgtgtag ttctggcaca
+    23821 atatggaaaa tcaacttact ctttcagagt ttgagagaac ccattatcca gatgtgtttg
+    23881 cccgagaaag actagcagcc aaaatagatc tacctgaagc aagaatacag gtaccgagag
+    23941 actgtgcagt ttcacacttt gtgattcata ccatttgtct ttcctagaga cagaggtgct
+    24001 tgtacagagt actatttatt tataggacta atataataaa aaggttcagt ctgctaaatg
+    24061 ctctgctgcc atgggcgtgg ggagggcagc agtggaggtg ccaaggtggg gctgggctcg
+    24121 acgtagacac agtgctaacc tgtcccacct gatttccagg tatggttttc taatcgaagg
+    24181 gccaaatgga gaagagaaga aaaactgagg aatcagagaa gacaggccag caacacacct
+    24241 agtcatattc ctatcagcag tagtttcagc accagtgtct accaaccaat tccacaaccc
+    24301 accacaccgg gtaatttgaa atactaatac tacgaatcaa tgtctttaaa cctgtttgct
+    24361 ccgggctctg actctcactc tgactactgt catttctctt gccctcagtt tcctccttca
+    24421 catctggctc catgttgggc cgaacagaca cagccctcac aaacacctac agcgctctgc
+    24481 cgcctatgcc cagcttcacc atggcaaata acctgcctat gcaagtaagt gcggctggtg
+    24541 gtggcctgca taacccaggc cccagagaag tgaggagtgg ctcagggcct gcggacctca
+    24601 ttggctgtgt ctgcaccctt gagagctttt cgcactacag tgattggctt gaccagtcaa
+    24661 gtcggagaca gtcaatccca tcacttttaa gtgattgact cattaattca tgccctaaaa
+    24721 aaatgagtaa taaaaatctg tccagttttg tcaggttgat ctgcctttta ttatactgtt
+    24781 accttgataa tgttgggtgg tggtggggca tgttttgggt accagggagc cttgcaccag
+    24841 aaagtggaaa taatgctggc acattatcag atagcagatt agtagtttaa aatttgggtt
+    24901 tatattaatg tgtttgtatg ctaaatatag aatctgtgca cgcatttggg gcattacttt
+    24961 gggtatatgt gataaactag tgagaaagaa aaaaggatca gaaatgggat tcatatttac
+    25021 atggtgagat atacataata taatgagaat gctagttttc tgtctgtatc tacaataaga
+    25081 aaaggcatag caggtatttg ctggaaattt agtgtgtctt tgctgtgaat ggtgtgacga
+    25141 gtttgtggcc ctcctagctg cctgggaagc ttgatgctat tcacttggta tgacagcctg
+    25201 cctctcctct tagttctgtc ccaaatatct attagcccct acatttagag gtcctgcact
+    25261 aggttcaccc tttatgatgt aagttggata aggcagatgg tttgtactag acctttgttg
+    25321 ctggatggat tcttgatagg aaaaatgtct gtcttctggt aggcctttcc cagtggtttt
+    25381 cctagaactc ctgtttgtgc aacaattaga gatattagat ggtacgatat tggccagcat
+    25441 gagcctctgc tggaaacagt tctggggcta cactgattgt ttattctcca ttgaacattt
+    25501 tttgctggat ttcaaatcca aataacagca aaataaatgt ttcacagtct tcagactaat
+    25561 ataggagcag ctagataagc aacttcagag gaattattca catgtttatt tttattgcat
+    25621 ctggatattg ttggccatag tgcaattgat gtaaattaag ggattaacag cccattagtt
+    25681 ggtgttgcta taactgcgtt ggaattttcc agaagtcagg ttgcctagag gaactcattg
+    25741 caggaattag aaacaaatgc aagctgaaat tctggcaggc cctcaaggcc tgtttgcctc
+    25801 tttgaacttg atgttagcat tcatcatctg actttaataa ggccacagag tgtctcgttc
+    25861 agtttcatgt attataacaa catccaggtt tctgtgaaga tagcaaaatg tgtatgtgag
+    25921 aaaataataa gacgaacaag tagatgctgc aattatatta gggctgtttc cacatacaga
+    25981 gcggtatggg gaatcaatct atttcaaaca ctgactttta aaaattacat aatttgtata
+    26041 attcaaaaag tacatgcatt cattaagcat aaagaaaatc aaaatgatca ataactttac
+    26101 tcttcagaga aaactactct ttgaattttg gagtgggtga gcccgattgt ctatccattt
+    26161 attcattctc ttgaccaaaa tcatcatttt acaaatggtg ggtgtcttcc tctggacctt
+    26221 ctctgatatg cttccctctc tgagcatatg gattttggaa attaaacatt tctccagttt
+    26281 gcagagaaga gaaatgatag tatactgtac tatcatctga cctgcttgtt cccgacacac
+    26341 ttcttttaat tcatcccaag tttgctgcca tggcatagta ccatgagagc tcatgaggcg
+    26401 ttttgttagg agaaaggttt acctcctcag tgctgccatt ccgaacagtt cgagggtagc
+    26461 aacagttttc tagttataag tcagtctggg cttttgggtc tgttaggaag tcatggttaa
+    26521 ttctcaggat ggaggtcgtt atatttacta acacttctga tcactttaac ttggggtcat
+    26581 tacagatctg cttcttcaaa gaatctttaa tcccatcagt gaaaggttcc caaggtccct
+    26641 gaaccatact ttactgagag ctcctcccac tgctctctgt cccaaagctt gagatatggg
+    26701 ctctgggggt catagggttc ccaaataaat ccagatttgc agggagaggg gatgtgtttt
+    26761 gatgaaggtc ctcatgctat aggttcttca aagatgctag cagaggttag agacaaaaat
+    26821 cctattaatt tatggatagt ggcaaccatc tagctggaca gttgtcagaa cctaaagtgc
+    26881 tttagaggct tgatacatag gcagctttct tctagctgtg gccagtggaa ggactagctc
+    26941 gaggcccaat cttagattta tcatatggaa ttccagtact tcacgtgaag gcatctttaa
+    27001 tgatcagact tgttggcaga gttcctcggg aggagggagc ctggggctgt ggctgtgtga
+    27061 tgtgttcctc agtaaccaca ggtttgcctc tctcctcaca gcccccagtc cccagccaga
+    27121 cctcctcata ctcctgcatg ctgcccacca gcccttcggt gaatgggcgg agttatgata
+    27181 cctacacccc cccacatatg cagacacaca tgaacagtca gccaatgggc acctcgggca
+    27241 ccacttcaac aggtgagcca ctgctttctg caggctgcac agaggcgatc tctcttcact
+    27301 agaagtttac ccaaacagaa tctcctggtc ttatgggagg gcgtgtttaa ctccttgctt
+    27361 tccttgtccc tgggggatgg ggattgaaaa gggaaattca gttaagctaa ttagtaactt
+    27421 tacaccatat agacaaaaac taaaattgtt tttcctgaat ttggtcacaa aagttgtgta
+    27481 tgaagacaag gcctgagact gcaagttttc tgaggacaga ttattagacg aagctcagta
+    27541 gggggcccac tgagctgtag gtgcgtgctt gttgaaatgc ttcttgccct catagctcct
+    27601 ctagaccttt tgctggaaat aaaaagtgac acattggttt tccagagaca gctttattgt
+    27661 aaaagttcca aacatgcaaa caaacagagg attttttttt tcttttcctt tggattgggg
+    27721 tggggggtac ttgggatcca ataggtatat atacatatat tgtctagttt ctgaaggtgc
+    27781 tacttttatt tgtaacaatt gaagtgattt taatacagta aaaaatgtta gaaagtatta
+    27841 gttttttttt tttttttttt ttttgtaaac ctataaattt gtattccatg tctgtttctc
+    27901 aaagggaata tctacatggc tatttctttc atccacttct aggactcatt tcccctggtg
+    27961 tgtcagttcc agttcaagtt cccggaagtg aacctgatat gtctcaatac tggccaagat
+    28021 tacagtaaaa aaaaaaaaaa aaaaaaaaag gaaaggaaat attgtgttaa ttcagtcagt
+    28081 gactatgggg acacaacagt tgagctttca ggaaagaaag aaaaatggct gttagagccg
+    28141 cttcagttct acaattgtgt cctgtattgt accactgggg aaggaatgga cttgaaacaa
+    28201 ggacctttgt atacagaagg cacgatatca gttggaacaa atcttcattt tggtatccaa
+    28261 acttttattc attttggtgt attatttgta aatgggcatt tgtatgttat aatgaaaaaa
+    28321 agaacaatgt agactggatg gatgtttgat ctgtgttggt catgaagttg tttttttttt
+    28381 ttttaaaaag aaaaccatga tcaacaagct ttgccacgaa tttaagagtt ttatcaagat
+    28441 atatcgaata cttctaccca tctgttcata gtttatggac tgatgttcca agtttgtatc
+    28501 attcctttgc atataattaa acctggaaca acatgcacta gatttatgtc agaaatatct
+    28561 gttggttttc caaaggttgt taacagatga agtttatgtg caaaaaaggg taagatataa
+    28621 attcaaggaa gaaaaaaagt tgatagctaa aaggtagagt gtgtcttcga tataatccaa
+    28681 tttgttttat gtcaaaatgt aagtatttgt cttccctaga aatcctcaga atgatttcta
+    28741 taataaagtt aatttcattt atatttgaca agaatataga tgttttatac acattttcat
+    28801 gcaatcatac gtttcttttt tggccagcaa aagttaattg ttcttagata tagttgtatt
+    28861 actgttcacg gtccaatcat tttgtgcatc tagagttcat tcctaatcaa ttaaaagtgc
+    28921 ttgcaagagt tttaaactta agtgttttga agttgttcac aactacatat caaaattaac
+    28981 cattgttgat tgtaaaaaac catgccaaag cctttgtatt tcctttatta tacagttttc
+    29041 tttttaacct tatagtgtgg tgttacaaat tttatttcca tgttagatca acattctaaa
+    29101 ccaatggtta ctttcacaca cactctgttt tacatcctga tgatccttaa aaaataatcc
+    29161 ttatagatac cataaatcaa aaacgtgtta gaaaaaaatt ccacttacag cagggtgtag
+    29221 atctgtgccc atttataccc acaacatata tacaaaatgg taacatttcc cagttagcca
+    29281 tttaattcta aagctcaaag tctagaaata atttaaaaat gcaacaagcg attagctagg
+    29341 aattgttttt tgaattagga ctggcatttt caatctgggc agatttccat tgtcagccta
+    29401 tttcaacaat gatttcactg aagtatattc aaaagtagat ttcttaaagg agactttctg
+    29461 aaagctgttg cctttttcaa ataggccctc tcccttttct gtctccctcc cctttgcaca
+    29521 agaggcatca tttcccattg aaccactaca gctgttccca tttgaatctt gctttctgtg
+    29581 cggttgtgga tggttggagg gtggaggggg gatgttgcat gtcaaggaat aatgagcaca
+    29641 gacacatcaa cagacaacaa caaagcagac tgtgactggc cggtgggaat taaaggcctt
+    29701 cagtcattgg cagcttaagc caaacattcc caaatctatg aagcagggcc cattgttggt
+    29761 cagttgttat ttgcaatgaa gcacagttct gatcatgttt aaagtggagg cacgcagggc
+    29821 aggagtgctt gagcccaagc aaaggatgga aaaaaataag cctttgttgg gtaaaaaagg
+    29881 actgtctgag actttcattt gttctgtgca acatataagt caatacagat aagtcttcct
+    29941 ctgcaaactt cactaaaaag cctgggggtt ctggcagtct agattaaaat gcttgcacat
+    30001 gcagaaacct ctggggacaa agacacactt ccactgaatt atactctgct ttaaaaaaat
+    30061 ccccaaaagc aaatgatcag aaatgtagaa attaatggaa ggatttaaac atgaccttct
+    30121 cgttcaatat ctactgtttt ttagttaagg aattacttgt gaacagataa ttgagattca
+    30181 ttgctccggc atgaaatata ctaataattt tattccacca gagttgctgc acatttggag
+    30241 acaccttcct aagttgcagt ttttgtatgt gtgcatgtag ttttgttcag tgtcagcctg
+    30301 cactgcacag cagcacattt ctgcagggga gtgagcacac atacgcactg ttggtacaat
+    30361 tgccggtgca gacatttcta cctcctgaca ttttgcagcc tacattccct gagggctgtg
+    30421 tgctgaggga actgtcagag aagggctatg tgggagtgca tgccacagct gctggctggc
+    30481 ttacttcttc cttctcgctg gctgtaattt ccaccacggt caggcagcca gttccggccc
+    30541 acggttctgt tgtgtagaca gcagagactt tggagacccg gatgtcgcac gccaggtgca
+    30601 agaggtggga atgggagaaa aggagtgacg tgggagcgga gggtctgtat gtgtgcactt
+    30661 gggcacgtat atgtgtgctc tgaaggtcag gattgccagg gcaaagtagc acagtctggt
+    30721 atagtctgaa gaagcggctg ctcagctgca gaagccctct ggtccggcag gatgggaacg
+    30781 gctgccttgc cttctgccca caccctaggg acatgagctg tccttccaaa cagagctcca
+    30841 ggcactctct tggggacagc atggcaggct ctgtgtggta gcagtgcctg ggagttggcc
+    30901 ttttactcat tgttgaaata atttttgttt attatttatt taacgataca tatatttata
+    30961 tatttatcaa tggggtatct gcagggatgt tttgacacca tcttccagga tggagattat
+    31021 ttgtgaagac ttcagtagaa tcccaggact aaacgtctaa attttttctc caaacttgac
+    31081 tgacttggga aaaccaggtg aatagaataa gagctgaatg ttttaagtaa taaacgttca
+    31141 aactgctcta agtaaaaaaa tgcattttac tgcaatgaat ttctagaata tttttccccc
+    31201 aaagctatgc ctcctaaccc ttaaatggtg aacaactggt ttcttgctac agctcactgc
+    31261 catttcttct tactatcatc actaggtttc ctaagattca ctcatacagt attatttgaa
+    31321 gattcagctt tgttctgtga atgtcatctt aggattgtgt ctatattctt ttgcttattt
+    31381 ctttttactc tgggcctctc atactagtaa gattttaaaa agccttttct tctctgtatg
+    31441 tttggctcac caaggcgaaa tatatattct tctctttttc atttctcaag aataaacctc
+    31501 atctgctttt ttgtttttct gtgttttggc ttggtactga atgactcaac tgctcggttt
+    31561 taaagttcaa agtgtaagta cttagggtta gtactgctta tttcaataat gttgacggtg
+    31621 actatctttg gaaagcagta acatgctgtc ttagaaatga cattaataat gggcttaaac
+    31681 aaatgaatag gggggtcccc ccactctcct tttgtatgcc tatgtgtgtc tgatttgtta
+    31741 aaagatggac agggaattga ttgcagagtg tcgcttcctt ctaaagtagt tttattttgt
+    31801 ctactgttag tatttaaaga tcctggaggt ggacataagg aataaatgga agagaaaagt
+    31861 agatattgta tggtggctac taaaaggaaa ttcaaaaagt cttagaaccc gagcacctga
+    31921 gcaaactgca gtagtcaaaa tatttatctc atgttaaaga aaggcaaatc tagtgtaaga
+    31981 aatgagtacc atatagggtt ttgaagttca tatactagaa acacttaaaa gatatcattt
+    32041 cagatattac gtttggcatt gttcttaagt atttatatct ttgagtcaag ctgataatta
+    32101 aaaaaaatct gttaatggag tgtatatttc ataatgtatc aaaatggtgt ctatacctaa
+    32161 ggtagcatta ttgaagagag atatgtttat gtagtaagtt attaacataa tgagtaacaa
+    32221 ataatgtttc cagaagaaag gaaaacacat tttcagagtg cgtttttatc agaggaagac
+    32281 aaaaatacac acccctctcc agtagcttat ttttacaaag ccggcccagt gaattagaaa
+    32341 aacaaagcac ttggatatga tttttggaaa gcccaggtac acttattatt caaaatgcac
+    32401 ttttactgag tttgaaaagt ttcttttata tttaaaataa gggttcaaat atgcatattc
+    32461 aatttttata gtagttatct atttgcaaag catatattaa ctagtaattg gctgttaatt
+    32521 ttatagacat ggtagccagg gaagtatatc aatgacctat taagtatttt gacaagcaat
+    32581 ttacatatct gatgacctcg tatctctttt tcagcaagtc aaatgctatg taattgttcc
+    32641 attgtgtgtt gtataaaatg aatcaacacg gtaagaaaaa ggttagagtt attaaaataa
+    32701 taaactgact aaaatactca tttgaattta ttcagaatgt tcataatgct ttcaaaggac
+    32761 atagcagagc ttttgtggag tatccgcaca acattattta ttatctatgg actaaatcaa
+    32821 ttttttgaag ttgctttaaa atttaaaagc acctttgctt aatataaagc cctttaattt
+    32881 taactgacag atcaattctg aaactttatt ttgaaaagaa aatggggaag aatctgtgtc
+    32941 tttagaatta aaagaaatga aaaaaataaa cccgacattc taaaaaaata gaataagaaa
+    33001 cctgattttt agtactaatg aaatagcggg tgacaaaata gttgtctttt tgattttgat
+    33061 cacaaaaaat aaactggtag tgacaggata tgatggagag atttgacatc ctggcaaatc
+    33121 actgtcattg attcaattat tctaattctg aataaaagct gtatacagta
+//
+

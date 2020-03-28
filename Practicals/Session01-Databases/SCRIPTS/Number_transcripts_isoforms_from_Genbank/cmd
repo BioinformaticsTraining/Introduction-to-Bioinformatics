@@ -1,0 +1,70 @@
+#Psuedocode
+#==========
+#
+#Download the Genetic sequence from NCBI
+#
+#Examine and see that all transcipts are noted, once each, in a line including
+#the words "product" & "isoform"
+#
+#Further note, those line each record the isoform for each transcript,
+#and any given isoform can be associiated with multiple transcripts
+#
+############
+#
+#So ----
+#
+# 1 - filter the Genbank sequence for all lines including the two magic words
+# 2 - sort the filtered line by alphabet {not reaaly necessary, but ... why not?}
+#     the number of lines filtered should equal the number of transcripts
+# 3 - sort the filtered lines again, this time eliminating duplication
+#     the number of surviving lines should now represent the number of isoforms
+# 4 - count the lines in each filtered list and display the counts
+# 5 - for each isoform indentifer in turn (the letters a,b,c,...are used)
+#     - pick out and count the lines for just that isoform
+#     - display the number ofmatching lines
+# 6 - sit back an adopt the air of one who has completed a noble task
+#
+#
+###############################
+#
+#
+#
+  grep product sequence.gb | grep isoform       | sort              > list
+#
+#|pick out all the lines  | |from the selected | |sort the lines | |save the fitered|
+#|containing the word     | |lines choose only | |that match both| |& sorted lines  |
+#|"product" fro the file  | |those including   | |tests          | |into a file     |
+#|called "sequence.gb"    | |the word "isoform"| |alphabetically | |called "list"   |
+#
+  sort            -u list         > list_sorted
+#
+#|sort the file| |this time    | |save the new list|
+#|"list" again | |eliminating  | |in a file called |
+#|             | |all duplicate| |"list_sorted"    |
+#|             | |lines        | |                 |
+#
+  wc      -l          list*
+#
+#|count| |the lines| |of all files whose|
+#|     | |         | |comance "list"    |
+#
+  for isoform in a b c d e f g h i j k l m n o;
+  do
+#
+#|for each isoform in turn|
+#|do the following        |
+#
+     echo; echo "isoform $isoform:";
+#
+#   |display the name of the isoform|
+#
+     grep "isoform $isoform" list  | wc -l;
+#
+#   |pick out the lines in  | |and count them|
+#   |the file "list"        | |              |
+#   |relating to the current| |              |
+#   |isoform                | |              |
+#
+  done
+#
+#|end loop|
