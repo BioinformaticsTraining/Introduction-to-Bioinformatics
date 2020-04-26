@@ -1,3 +1,13 @@
+#!/usr/bin/env bash
+
+# Might be best to hold off using this until you fully
+# understand what it all means Baoyho!
+#
+# Sounds convincing anyway, found at:
+#
+#https://gist.github.com/grimzy/a1d3aae40412634df29cf86bb74a6f72
+#
+
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git fetch --all
 git pull --all
